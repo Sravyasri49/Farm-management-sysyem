@@ -1,0 +1,9 @@
+#write a code for even or odd
+def even_or_odd(n):
+    if n % 2 == 0:
+        return "even"
+    else:
+        return "odd"
+    #test the function
+    print(even_or_odd(5))  #should print: odd
+    print(even_or_odd(6))  #should print: even

@@ -1,0 +1,4001 @@
+nitrogen,phosphorus,potassium,temperature,moisture,humidity,soiltype,cropname,recommended_fertilizer
+89,50,73,15.7,53.4,22.7,peaty,soybean,superphosphate
+16,24,10,31.0,76.4,64.7,loamy,wheat,urea
+5,38,89,38.3,72.6,39.8,clay,barley,urea
+91,32,53,34.1,69.0,85.2,saline,groundnut,mop
+78,69,81,35.4,55.2,42.9,peaty,maize,mop
+89,60,79,29.8,45.8,21.3,clay,sorghum,urea
+90,47,28,25.9,47.7,48.5,loamy,wheat,mop
+14,72,8,28.4,54.8,25.4,saline,sugarcane,urea
+9,95,73,29.9,12.2,42.5,sandy,wheat,urea
+41,55,48,26.7,40.8,44.8,peaty,cotton,complex fertilizer
+42,25,2,28.0,33.5,59.3,peaty,millet,dap
+67,63,58,35.9,34.1,86.7,peaty,groundnut,complex fertilizer
+68,45,13,34.7,31.7,24.8,loamy,sugarcane,mop
+98,62,66,20.1,45.1,75.9,saline,barley,ammonium sulfate
+19,29,94,32.1,32.4,35.9,peaty,sugarcane,urea
+71,26,99,28.7,63.9,72.9,peaty,millet,dap
+5,58,20,38.5,78.5,38.9,saline,groundnut,urea
+24,98,8,19.5,37.1,76.9,peaty,sorghum,urea
+74,71,67,22.1,53.2,86.4,peaty,sugarcane,superphosphate
+8,88,94,22.9,41.3,20.5,saline,sorghum,urea
+66,89,77,24.3,36.3,70.0,peaty,groundnut,mop
+28,77,52,22.0,41.1,26.6,saline,barley,urea
+50,83,25,34.9,26.6,77.1,peaty,cotton,mop
+57,37,87,27.5,58.9,54.3,clay,millet,superphosphate
+54,34,26,20.1,25.7,40.6,sandy,maize,mop
+64,31,94,20.2,46.6,49.4,clay,millet,mop
+28,78,59,24.8,14.9,64.6,saline,sorghum,urea
+23,88,16,23.2,79.6,85.9,clay,sorghum,urea
+25,99,73,35.3,36.0,81.4,saline,cotton,urea
+42,70,20,39.7,22.2,65.9,loamy,groundnut,mop
+94,52,45,38.8,29.2,33.0,sandy,sorghum,urea
+51,6,90,30.4,73.9,26.2,peaty,maize,dap
+67,11,77,20.5,16.4,89.8,clay,cotton,dap
+35,16,89,36.7,72.7,54.8,peaty,sugarcane,dap
+3,89,99,21.8,66.0,72.3,peaty,rice,urea
+37,55,46,29.8,80.5,84.4,saline,rice,dap
+75,5,26,30.9,43.2,87.0,clay,rice,dap
+90,5,87,19.2,11.2,55.4,clay,maize,dap
+23,4,23,17.0,53.3,45.2,peaty,rice,urea
+76,69,0,30.6,33.7,62.6,peaty,cotton,mop
+24,17,1,32.8,65.8,86.8,peaty,millet,urea
+68,94,30,15.0,40.6,37.6,loamy,maize,mop
+22,79,8,24.9,62.5,65.6,peaty,cotton,urea
+76,93,18,34.0,87.1,68.0,saline,soybean,mop
+43,16,43,30.5,26.7,65.2,peaty,sugarcane,dap
+5,6,65,32.1,75.2,70.8,peaty,sugarcane,urea
+64,86,84,28.0,79.2,60.5,sandy,wheat,dap
+70,100,50,21.0,33.3,20.3,peaty,rice,ammonium sulfate
+19,66,25,26.4,74.9,78.5,clay,soybean,urea
+84,40,78,23.3,74.0,47.7,clay,groundnut,complex fertilizer
+53,79,24,27.5,49.4,32.2,loamy,sugarcane,mop
+62,45,80,29.4,62.6,71.5,peaty,sorghum,dap
+62,80,41,15.1,78.5,49.0,peaty,maize,ammonium sulfate
+61,42,56,26.1,80.4,24.9,peaty,rice,superphosphate
+71,18,9,39.1,24.7,41.1,clay,groundnut,dap
+94,35,29,21.2,12.1,47.5,saline,maize,mop
+69,40,58,24.8,13.1,45.4,sandy,wheat,complex fertilizer
+45,40,16,32.3,13.5,46.4,clay,groundnut,mop
+4,82,52,19.3,62.1,52.6,loamy,cotton,urea
+14,48,80,30.9,31.7,47.6,sandy,maize,urea
+21,11,73,18.5,86.6,57.9,loamy,sugarcane,urea
+24,31,49,21.6,16.6,42.6,loamy,rice,urea
+74,99,94,24.4,55.0,51.7,loamy,rice,complex fertilizer
+94,70,84,36.5,37.2,32.3,peaty,groundnut,superphosphate
+53,42,74,21.8,40.9,40.9,peaty,barley,mop
+53,20,14,34.6,88.1,63.7,saline,rice,dap
+80,46,7,27.2,89.2,77.5,loamy,cotton,mop
+63,94,62,31.1,42.6,75.3,loamy,maize,superphosphate
+42,9,59,21.3,49.5,57.8,peaty,maize,dap
+50,12,96,19.4,16.8,31.7,loamy,sugarcane,dap
+42,53,16,18.1,49.1,70.7,saline,sugarcane,mop
+84,73,19,39.7,40.3,82.7,sandy,groundnut,mop
+64,24,10,27.3,67.7,20.0,saline,groundnut,dap
+2,93,80,22.6,51.3,44.7,clay,soybean,urea
+73,45,38,28.2,32.8,77.9,clay,rice,ammonium sulfate
+10,12,81,37.9,29.6,29.1,saline,sugarcane,urea
+3,89,65,38.3,85.1,56.3,sandy,groundnut,urea
+55,95,52,15.3,64.6,52.4,clay,wheat,superphosphate
+33,10,37,38.1,71.6,39.3,loamy,maize,dap
+55,95,97,39.2,73.9,54.9,loamy,maize,dap
+15,98,5,38.2,84.7,48.9,peaty,maize,urea
+1,4,43,33.6,21.6,60.8,sandy,groundnut,urea
+93,92,80,36.1,15.6,47.5,sandy,wheat,complex fertilizer
+69,21,86,24.2,56.1,64.9,peaty,maize,dap
+53,67,59,31.2,84.7,44.9,sandy,rice,ammonium sulfate
+68,67,18,23.6,21.8,22.8,saline,rice,mop
+89,87,99,30.7,79.5,82.4,peaty,groundnut,complex fertilizer
+85,54,91,38.8,11.6,25.2,sandy,barley,complex fertilizer
+0,38,59,15.9,22.5,84.4,saline,cotton,urea
+92,14,74,24.8,58.7,59.6,clay,maize,dap
+80,15,25,23.1,23.0,77.1,peaty,sugarcane,dap
+48,68,86,19.9,34.4,28.2,loamy,barley,ammonium sulfate
+43,77,42,29.0,81.5,27.2,peaty,rice,ammonium sulfate
+6,35,71,37.9,19.0,68.4,sandy,wheat,urea
+24,70,55,37.1,63.7,29.1,loamy,sorghum,urea
+78,55,40,20.0,85.4,20.4,clay,barley,superphosphate
+45,41,96,28.4,25.8,54.6,peaty,wheat,superphosphate
+99,48,64,15.4,13.2,86.4,loamy,wheat,dap
+37,22,51,32.0,24.3,80.4,clay,sugarcane,dap
+8,95,25,27.2,79.7,78.3,loamy,barley,urea
+28,57,2,16.2,47.8,74.9,clay,sugarcane,urea
+62,9,9,29.5,53.4,35.9,loamy,sorghum,dap
+48,59,92,30.1,32.3,42.1,saline,maize,dap
+49,4,72,29.7,68.5,83.9,saline,cotton,dap
+88,69,43,30.2,44.5,31.8,saline,sorghum,urea
+89,68,41,24.6,84.6,86.4,loamy,groundnut,ammonium sulfate
+20,44,29,29.7,72.4,74.9,sandy,sugarcane,urea
+22,98,64,23.1,68.1,74.2,peaty,cotton,urea
+4,10,44,20.0,42.0,41.1,sandy,cotton,urea
+65,63,0,19.2,42.7,23.2,loamy,cotton,mop
+81,97,13,34.8,21.9,73.2,peaty,soybean,mop
+44,8,45,28.2,60.0,53.8,loamy,wheat,dap
+60,60,16,31.0,40.9,52.8,loamy,sugarcane,mop
+4,83,60,33.8,30.2,51.1,sandy,sugarcane,urea
+59,32,79,28.2,87.6,64.8,peaty,barley,urea
+80,81,33,35.7,23.3,20.1,saline,sugarcane,superphosphate
+44,10,75,15.5,47.8,61.3,peaty,sorghum,dap
+50,55,96,31.0,78.5,32.0,sandy,rice,dap
+6,42,78,29.8,22.7,86.8,saline,maize,urea
+11,88,63,20.3,18.7,59.3,loamy,millet,urea
+71,22,8,24.7,19.8,30.9,loamy,rice,dap
+47,43,2,36.8,80.9,82.0,clay,sugarcane,mop
+75,47,38,17.5,29.3,61.7,loamy,cotton,complex fertilizer
+16,26,99,33.4,82.9,26.0,loamy,wheat,urea
+4,84,88,34.2,82.8,53.6,sandy,sugarcane,urea
+31,59,91,16.7,46.7,61.4,clay,barley,urea
+4,81,87,16.6,15.2,39.3,loamy,rice,urea
+29,11,12,30.5,44.5,71.7,saline,barley,urea
+30,96,69,19.5,56.6,37.6,sandy,rice,complex fertilizer
+14,70,66,32.5,79.3,40.9,clay,groundnut,urea
+81,98,46,17.3,51.4,69.0,peaty,maize,superphosphate
+69,69,24,33.3,62.8,58.3,saline,soybean,mop
+96,11,36,16.4,71.5,49.5,sandy,groundnut,dap
+57,54,52,23.7,33.8,46.5,peaty,sugarcane,complex fertilizer
+82,89,3,35.4,10.6,43.2,clay,wheat,mop
+60,10,2,18.1,60.9,25.1,clay,millet,dap
+36,76,55,39.4,75.8,77.4,clay,sorghum,complex fertilizer
+76,14,6,34.4,64.1,37.1,loamy,sorghum,dap
+6,99,77,17.1,78.4,25.3,sandy,millet,urea
+38,92,55,36.9,42.1,64.9,saline,wheat,dap
+15,8,30,19.8,89.4,47.0,loamy,soybean,urea
+73,45,58,33.1,53.9,52.9,sandy,sorghum,urea
+93,85,13,32.9,84.2,55.9,saline,sugarcane,mop
+41,99,95,17.5,85.6,80.6,clay,rice,superphosphate
+4,84,66,18.4,74.6,67.6,loamy,wheat,urea
+84,16,89,35.7,53.3,59.0,loamy,maize,dap
+100,34,43,21.8,64.5,81.0,saline,barley,dap
+17,65,52,32.0,59.9,42.4,clay,groundnut,urea
+21,39,57,34.8,37.2,55.8,sandy,wheat,urea
+4,73,1,33.2,16.7,58.3,loamy,groundnut,urea
+91,52,89,31.7,88.8,76.0,saline,barley,mop
+51,91,46,19.9,53.2,42.5,clay,maize,complex fertilizer
+50,18,17,30.5,58.8,87.1,saline,millet,dap
+49,78,12,30.6,47.7,63.0,loamy,soybean,mop
+18,10,75,36.0,83.7,40.7,saline,barley,urea
+12,93,30,27.5,57.2,60.5,peaty,wheat,urea
+35,61,64,37.1,29.3,23.3,loamy,sugarcane,complex fertilizer
+81,97,45,31.1,17.1,44.2,loamy,soybean,urea
+1,30,40,36.8,25.2,26.1,loamy,groundnut,urea
+63,79,65,24.1,84.7,58.1,peaty,cotton,urea
+49,40,17,20.3,70.6,23.3,sandy,maize,mop
+74,3,83,19.9,19.6,28.6,saline,groundnut,dap
+40,9,52,30.9,63.2,28.4,loamy,groundnut,dap
+15,81,8,20.1,46.3,30.6,clay,millet,urea
+92,100,49,25.9,47.3,36.5,sandy,wheat,dap
+33,3,85,37.1,27.2,82.6,saline,barley,dap
+69,49,66,28.5,19.2,41.9,loamy,cotton,complex fertilizer
+97,12,39,34.7,32.6,24.8,clay,millet,dap
+93,80,42,18.9,53.2,40.0,loamy,sugarcane,superphosphate
+93,96,77,33.2,26.8,20.7,loamy,rice,complex fertilizer
+22,60,90,18.3,78.6,33.5,sandy,sugarcane,urea
+22,70,82,16.4,43.8,58.3,peaty,barley,urea
+33,76,29,21.7,67.3,60.1,peaty,wheat,mop
+32,10,5,17.5,17.7,29.6,loamy,maize,dap
+21,14,73,15.9,68.9,44.9,saline,maize,urea
+13,6,63,32.8,13.0,79.0,loamy,soybean,urea
+49,49,58,38.3,74.1,31.0,saline,sorghum,mop
+86,91,23,34.2,58.2,31.0,clay,maize,mop
+85,33,25,27.3,50.3,61.3,saline,barley,mop
+3,47,64,34.5,39.1,45.2,loamy,maize,urea
+69,93,5,32.3,68.8,49.8,loamy,groundnut,mop
+51,20,75,30.2,13.7,59.8,peaty,sugarcane,dap
+95,10,72,16.9,85.7,38.0,loamy,sugarcane,dap
+61,44,37,35.5,34.1,59.5,peaty,groundnut,complex fertilizer
+22,37,46,21.2,89.6,86.7,peaty,wheat,urea
+66,27,26,17.8,23.8,26.4,loamy,wheat,dap
+60,10,54,21.6,84.7,40.3,saline,rice,dap
+41,30,77,34.6,86.1,45.4,clay,soybean,mop
+79,33,11,18.9,57.1,24.1,saline,wheat,mop
+22,92,28,38.1,55.0,43.1,sandy,barley,urea
+92,33,1,37.4,34.5,25.0,sandy,groundnut,mop
+29,84,20,31.4,58.8,74.4,clay,soybean,urea
+86,24,62,26.1,24.5,87.2,loamy,groundnut,dap
+29,9,57,30.2,65.7,27.3,sandy,wheat,urea
+6,66,52,21.8,48.1,85.4,loamy,rice,urea
+36,27,47,18.2,22.5,81.9,peaty,groundnut,dap
+29,58,62,33.3,36.5,54.9,sandy,groundnut,urea
+76,95,5,30.3,85.2,48.8,loamy,wheat,mop
+32,83,68,30.0,16.2,51.5,peaty,groundnut,dap
+19,77,27,18.0,47.5,76.2,peaty,barley,urea
+89,93,79,37.1,89.6,70.0,peaty,millet,complex fertilizer
+26,31,92,39.3,87.0,71.6,loamy,cotton,urea
+87,63,74,26.8,60.5,33.9,peaty,sugarcane,complex fertilizer
+92,44,88,18.1,56.0,52.8,loamy,maize,ammonium sulfate
+67,74,18,25.1,24.3,26.3,loamy,barley,mop
+28,0,64,33.9,57.5,35.8,loamy,cotton,urea
+3,20,49,25.4,32.5,77.5,peaty,barley,urea
+21,90,83,28.0,59.8,87.3,peaty,maize,urea
+64,90,20,33.2,83.4,22.7,loamy,cotton,mop
+40,54,64,29.3,55.1,35.9,saline,rice,superphosphate
+93,0,3,22.7,17.1,27.1,loamy,wheat,dap
+16,96,48,34.8,16.2,65.3,clay,barley,urea
+52,54,82,26.8,14.2,76.3,peaty,rice,dap
+28,91,60,35.5,62.0,33.7,sandy,sugarcane,urea
+46,88,5,19.6,54.1,76.4,clay,cotton,mop
+27,26,91,23.3,41.5,47.5,peaty,groundnut,urea
+47,76,26,21.1,77.0,65.5,sandy,soybean,mop
+84,1,11,17.5,45.0,59.7,sandy,sugarcane,dap
+53,46,62,16.8,12.5,37.6,peaty,groundnut,dap
+86,91,75,32.4,37.0,47.0,saline,maize,dap
+59,93,66,29.1,44.3,47.6,peaty,maize,dap
+15,76,26,17.0,89.2,53.5,loamy,sugarcane,urea
+30,54,72,29.7,76.2,28.6,sandy,rice,superphosphate
+87,34,78,25.0,77.6,52.9,peaty,rice,ammonium sulfate
+78,21,3,32.6,10.8,30.7,sandy,barley,dap
+89,97,65,16.1,19.6,72.8,saline,rice,superphosphate
+78,30,6,31.7,89.9,34.7,saline,sugarcane,mop
+39,12,9,28.6,63.9,48.4,saline,rice,dap
+51,11,38,24.4,84.3,60.4,sandy,sugarcane,dap
+93,73,25,35.8,13.6,38.0,peaty,sugarcane,mop
+24,84,53,36.2,10.4,66.5,loamy,millet,urea
+21,46,4,22.8,46.3,46.3,loamy,groundnut,urea
+18,30,98,35.6,55.4,81.9,saline,barley,urea
+87,49,4,24.9,81.6,84.2,sandy,groundnut,mop
+91,29,89,31.1,36.1,87.7,saline,sorghum,dap
+42,35,35,27.6,44.9,48.5,peaty,maize,urea
+95,41,46,33.9,48.5,34.6,loamy,wheat,ammonium sulfate
+59,1,92,16.1,81.3,41.4,clay,soybean,dap
+27,8,45,27.9,78.5,88.7,loamy,sorghum,urea
+90,44,42,34.2,74.9,23.2,peaty,millet,dap
+96,92,89,35.6,75.1,35.7,sandy,barley,ammonium sulfate
+73,11,40,30.1,50.5,74.7,saline,groundnut,dap
+67,17,2,18.1,62.1,33.8,loamy,groundnut,dap
+58,38,79,36.1,84.3,85.3,loamy,barley,ammonium sulfate
+29,8,20,40.0,26.1,40.5,peaty,sorghum,urea
+80,67,49,15.6,36.9,60.6,saline,wheat,mop
+26,15,5,27.4,39.2,75.6,saline,soybean,urea
+43,42,88,16.4,66.5,42.7,peaty,maize,complex fertilizer
+56,44,100,17.9,26.7,60.5,loamy,barley,urea
+27,33,76,20.0,79.9,41.5,clay,wheat,urea
+75,7,49,26.0,36.1,33.6,clay,rice,dap
+44,37,19,23.0,76.8,80.2,saline,sugarcane,mop
+5,20,30,28.1,30.4,36.9,clay,wheat,urea
+3,81,5,37.3,63.6,44.7,sandy,groundnut,urea
+52,50,13,23.3,65.5,84.1,loamy,rice,mop
+70,92,27,39.6,12.4,63.1,saline,soybean,mop
+32,98,19,38.8,73.9,86.2,loamy,millet,mop
+98,56,75,23.8,39.8,70.2,clay,rice,dap
+64,65,77,33.3,45.5,30.9,clay,soybean,superphosphate
+17,80,7,26.2,11.3,36.8,sandy,wheat,urea
+74,36,92,27.8,28.2,86.7,clay,millet,superphosphate
+63,54,60,25.9,78.8,89.3,sandy,millet,superphosphate
+30,70,44,27.2,32.8,80.4,sandy,wheat,complex fertilizer
+34,86,86,35.4,72.9,50.1,peaty,soybean,superphosphate
+22,43,10,37.8,58.4,68.0,loamy,barley,urea
+73,8,66,25.1,76.6,47.6,sandy,sugarcane,dap
+69,50,31,37.3,29.1,68.8,peaty,cotton,mop
+59,68,93,19.3,86.5,70.7,loamy,millet,ammonium sulfate
+97,79,16,20.3,80.0,45.7,sandy,rice,mop
+48,17,30,38.9,15.8,56.5,peaty,soybean,dap
+93,7,81,25.1,29.5,56.4,loamy,groundnut,dap
+66,94,8,16.8,37.5,40.0,saline,cotton,mop
+15,28,14,25.5,69.4,75.6,clay,sorghum,urea
+79,10,63,31.5,84.7,35.1,clay,sugarcane,dap
+14,10,76,19.5,10.3,57.5,clay,maize,urea
+90,65,10,20.5,78.7,34.6,saline,wheat,mop
+68,91,29,21.5,76.2,26.9,loamy,wheat,mop
+91,4,19,37.6,65.0,71.5,saline,millet,dap
+69,34,15,39.9,40.6,82.5,clay,rice,mop
+100,80,8,15.8,55.6,38.4,sandy,sorghum,mop
+74,27,94,39.0,42.6,64.0,loamy,millet,dap
+76,37,41,25.6,21.7,83.1,clay,sorghum,dap
+22,86,44,35.6,55.3,25.1,saline,barley,urea
+40,12,31,19.7,14.0,72.2,sandy,groundnut,dap
+23,96,18,19.0,32.6,65.0,sandy,sugarcane,urea
+100,77,12,36.8,26.1,69.0,saline,cotton,mop
+4,33,100,37.2,17.3,54.0,loamy,soybean,urea
+77,90,90,26.6,36.6,65.3,sandy,groundnut,urea
+37,89,25,25.5,16.9,61.5,loamy,cotton,mop
+99,64,56,37.4,19.1,33.1,loamy,cotton,mop
+46,82,40,28.8,52.3,51.3,sandy,cotton,complex fertilizer
+31,19,39,34.7,49.2,26.4,sandy,millet,dap
+59,84,54,19.4,16.9,67.5,loamy,groundnut,mop
+6,76,70,16.9,61.0,35.8,peaty,groundnut,urea
+62,22,17,21.3,85.2,37.8,sandy,groundnut,dap
+89,66,7,33.4,83.1,28.6,sandy,wheat,mop
+12,21,76,31.5,21.5,85.0,loamy,sugarcane,urea
+51,64,4,19.6,14.4,60.7,clay,rice,mop
+45,36,83,26.6,53.4,85.8,sandy,sugarcane,dap
+23,46,20,35.4,68.7,58.3,loamy,maize,urea
+88,82,37,18.5,10.4,54.7,peaty,groundnut,superphosphate
+62,57,73,34.4,11.8,30.5,sandy,sugarcane,ammonium sulfate
+14,7,66,32.7,42.0,85.9,loamy,millet,urea
+81,33,14,37.5,45.7,43.0,clay,cotton,mop
+16,93,68,30.3,68.5,51.5,saline,maize,urea
+100,17,86,21.9,34.6,44.8,loamy,wheat,dap
+92,13,60,20.5,23.0,65.0,sandy,sugarcane,dap
+21,55,25,28.9,84.0,50.5,loamy,maize,urea
+18,43,83,39.6,37.0,31.1,peaty,sorghum,urea
+11,48,33,28.8,38.2,55.8,clay,millet,urea
+32,6,9,22.0,41.6,57.0,saline,sorghum,dap
+92,42,93,31.8,55.4,82.2,saline,barley,urea
+36,56,76,33.1,77.9,66.7,loamy,sorghum,urea
+100,74,10,31.7,68.8,53.2,sandy,cotton,mop
+31,89,56,25.0,11.5,23.5,peaty,soybean,mop
+65,11,88,28.4,22.3,48.5,peaty,barley,dap
+75,52,57,38.8,82.1,60.1,loamy,groundnut,urea
+60,54,73,18.6,31.3,45.0,sandy,cotton,superphosphate
+3,43,3,36.2,83.9,51.3,saline,maize,urea
+31,70,60,16.6,11.9,89.1,loamy,sugarcane,mop
+18,50,49,34.8,53.0,22.3,sandy,millet,urea
+11,13,37,29.3,42.9,54.2,clay,cotton,urea
+95,1,33,24.3,26.6,44.0,sandy,groundnut,dap
+77,95,82,33.5,84.2,72.0,peaty,millet,mop
+76,26,74,27.3,65.7,68.2,peaty,rice,dap
+59,74,50,35.1,85.4,20.3,loamy,groundnut,superphosphate
+24,79,36,19.6,48.6,80.9,clay,wheat,urea
+27,29,89,29.0,68.1,39.1,peaty,rice,urea
+11,59,37,29.5,78.9,83.7,peaty,millet,urea
+49,18,67,22.2,79.1,71.4,saline,maize,dap
+79,50,34,36.8,76.9,32.8,clay,millet,urea
+98,42,56,31.9,10.5,24.2,sandy,sorghum,mop
+13,97,82,39.0,33.1,41.8,loamy,wheat,urea
+60,82,72,24.1,77.9,88.4,clay,sugarcane,ammonium sulfate
+27,72,94,16.9,53.1,59.1,saline,wheat,urea
+7,67,85,22.3,48.9,75.1,saline,barley,urea
+74,68,49,17.2,31.3,63.6,clay,groundnut,ammonium sulfate
+10,10,33,23.2,51.0,28.6,clay,sorghum,urea
+52,5,96,24.5,88.8,80.2,peaty,cotton,dap
+97,83,55,18.5,47.9,67.4,clay,rice,complex fertilizer
+22,86,23,20.5,49.6,41.5,sandy,soybean,urea
+99,90,84,38.7,52.0,22.2,saline,maize,superphosphate
+49,56,17,27.2,19.0,57.0,sandy,maize,mop
+85,67,39,18.0,39.7,66.5,clay,rice,complex fertilizer
+47,92,77,31.3,87.8,74.6,clay,cotton,urea
+32,3,19,25.5,26.1,38.0,saline,groundnut,dap
+2,73,46,33.9,88.1,63.2,clay,groundnut,urea
+90,78,93,35.9,42.9,63.7,clay,rice,ammonium sulfate
+57,15,6,22.0,77.7,85.3,saline,cotton,dap
+86,36,22,38.6,26.5,89.6,sandy,sugarcane,mop
+12,73,3,19.1,56.2,84.2,sandy,soybean,urea
+88,4,20,19.4,33.3,66.6,loamy,maize,dap
+42,96,79,18.5,53.2,77.7,saline,barley,mop
+82,18,88,17.4,56.0,87.7,sandy,maize,dap
+71,8,25,29.7,38.1,77.8,sandy,sorghum,dap
+8,9,57,38.5,46.2,27.8,loamy,sugarcane,urea
+57,79,98,21.1,66.1,32.9,clay,maize,mop
+1,66,63,32.7,22.3,70.7,sandy,cotton,urea
+12,85,92,20.2,10.2,68.3,sandy,soybean,urea
+43,12,43,34.4,12.7,48.3,clay,wheat,dap
+17,7,90,37.5,83.3,25.7,sandy,groundnut,urea
+94,13,54,25.3,23.6,32.2,loamy,groundnut,dap
+60,37,7,32.9,55.2,51.8,clay,sorghum,mop
+26,36,32,26.8,38.2,38.0,loamy,maize,urea
+49,0,51,39.0,25.5,88.3,saline,sorghum,dap
+58,78,43,35.1,44.7,44.9,clay,sorghum,ammonium sulfate
+82,62,24,17.2,24.9,28.1,sandy,maize,mop
+94,14,38,22.4,42.6,81.8,sandy,sugarcane,dap
+28,4,25,28.4,70.1,65.9,saline,soybean,urea
+40,46,63,36.0,66.1,55.4,loamy,sorghum,superphosphate
+69,70,80,33.6,51.8,72.1,loamy,sorghum,superphosphate
+35,13,83,33.2,12.8,32.4,peaty,barley,dap
+26,68,19,29.4,67.3,75.1,peaty,sugarcane,urea
+74,37,24,33.1,63.7,51.2,clay,sugarcane,mop
+28,11,41,37.9,87.1,29.2,sandy,soybean,urea
+51,87,91,27.0,86.3,30.1,loamy,maize,superphosphate
+3,29,69,26.5,50.1,31.9,clay,soybean,urea
+67,33,26,26.3,70.8,51.6,loamy,groundnut,mop
+79,63,46,33.0,58.0,61.6,clay,barley,mop
+96,2,93,25.6,86.2,81.1,sandy,barley,dap
+82,97,3,28.9,33.3,88.9,clay,millet,mop
+49,65,98,25.4,61.6,22.3,loamy,soybean,ammonium sulfate
+55,83,49,39.8,89.3,37.4,clay,millet,urea
+69,68,53,30.9,26.5,47.3,loamy,millet,complex fertilizer
+84,25,35,35.0,67.6,77.9,loamy,maize,dap
+8,59,56,24.2,23.3,52.3,loamy,sorghum,urea
+84,80,41,18.4,11.6,28.7,sandy,sorghum,mop
+87,100,49,30.9,36.3,69.1,peaty,sorghum,mop
+58,41,69,25.6,10.3,65.9,peaty,cotton,superphosphate
+99,9,77,18.5,31.3,54.3,saline,cotton,dap
+75,16,99,24.1,89.1,25.8,saline,sorghum,dap
+33,30,11,26.8,61.6,45.7,loamy,millet,mop
+17,80,98,25.9,27.2,82.3,clay,rice,urea
+6,9,3,16.2,47.7,52.6,saline,sugarcane,urea
+85,87,59,21.6,88.5,27.9,peaty,rice,complex fertilizer
+20,24,37,38.1,84.3,31.8,clay,barley,urea
+54,67,15,17.5,47.8,47.9,clay,sorghum,mop
+25,40,7,30.8,36.8,61.5,peaty,wheat,urea
+24,45,96,15.7,38.7,60.0,saline,soybean,urea
+51,7,76,26.1,23.5,56.2,sandy,groundnut,dap
+33,81,19,23.1,80.5,24.3,peaty,maize,mop
+8,58,17,31.6,59.6,43.2,sandy,barley,urea
+95,10,54,29.2,55.7,55.0,sandy,wheat,dap
+95,72,26,31.0,14.5,68.8,saline,millet,mop
+65,90,16,29.3,45.0,52.3,sandy,millet,mop
+29,0,51,38.0,16.3,25.2,sandy,wheat,urea
+48,37,53,17.4,44.7,70.1,saline,groundnut,complex fertilizer
+6,2,41,24.2,32.2,67.4,peaty,rice,urea
+59,2,24,36.2,68.6,32.7,clay,wheat,dap
+27,18,70,19.5,64.2,57.8,peaty,wheat,urea
+33,5,79,29.4,67.1,37.2,clay,maize,dap
+26,3,70,33.4,14.8,32.3,peaty,barley,urea
+91,72,30,22.4,20.7,71.3,sandy,cotton,superphosphate
+42,29,36,35.6,57.2,29.0,saline,sugarcane,dap
+98,40,13,29.3,80.5,83.5,saline,maize,mop
+52,79,46,31.9,30.3,51.3,sandy,barley,mop
+68,25,71,19.9,77.5,71.1,sandy,maize,dap
+64,6,57,27.5,24.7,34.6,sandy,barley,dap
+96,37,90,15.9,68.0,28.7,sandy,groundnut,mop
+16,20,8,22.5,61.1,43.3,clay,maize,urea
+98,100,28,29.5,67.6,38.8,loamy,groundnut,mop
+18,68,60,36.4,44.3,79.0,saline,cotton,urea
+9,16,88,31.0,76.4,85.4,peaty,maize,urea
+68,88,25,33.1,63.6,62.7,saline,barley,mop
+56,87,1,22.3,85.6,79.1,clay,rice,mop
+69,37,27,18.7,49.9,24.0,loamy,cotton,mop
+26,58,91,18.6,25.3,84.1,sandy,wheat,urea
+27,65,26,29.0,67.6,45.6,loamy,wheat,urea
+3,72,77,18.6,12.1,58.9,sandy,groundnut,urea
+95,46,61,25.3,41.1,77.3,peaty,maize,ammonium sulfate
+96,3,69,28.8,26.2,49.3,sandy,wheat,dap
+62,48,96,23.6,56.3,60.9,peaty,sugarcane,complex fertilizer
+29,100,46,28.7,16.0,27.9,saline,cotton,urea
+23,86,80,35.1,62.5,59.2,loamy,millet,urea
+61,69,30,36.7,89.0,89.5,saline,sorghum,dap
+52,42,25,17.7,38.9,65.2,clay,maize,mop
+18,64,16,30.6,41.2,44.8,clay,millet,urea
+25,68,73,25.9,52.0,68.5,sandy,barley,urea
+17,46,11,17.7,80.5,54.3,sandy,maize,urea
+10,41,3,16.9,21.3,54.4,loamy,barley,urea
+81,19,37,38.2,15.9,38.7,loamy,sugarcane,dap
+23,49,54,22.2,66.6,24.6,sandy,millet,urea
+57,58,32,29.6,44.9,88.9,loamy,sugarcane,dap
+48,48,80,24.2,60.7,79.8,peaty,rice,mop
+53,58,4,25.7,14.2,88.8,sandy,barley,mop
+32,39,19,22.8,11.8,75.2,clay,soybean,mop
+55,56,44,23.8,70.7,69.2,sandy,maize,ammonium sulfate
+16,62,56,26.6,79.9,38.6,loamy,barley,urea
+94,34,35,28.6,65.7,86.6,loamy,soybean,complex fertilizer
+8,83,82,28.6,45.0,65.2,loamy,millet,urea
+99,10,30,29.2,64.6,87.9,peaty,wheat,dap
+97,57,92,32.8,85.5,84.1,clay,groundnut,ammonium sulfate
+50,19,74,29.3,88.8,64.0,clay,maize,dap
+3,100,17,21.7,24.2,34.4,loamy,wheat,urea
+73,18,94,30.1,39.1,38.7,peaty,sugarcane,dap
+36,99,85,19.5,24.3,65.0,sandy,sorghum,dap
+13,2,100,25.7,82.3,76.5,sandy,rice,urea
+83,48,43,27.6,15.1,45.2,saline,sorghum,urea
+43,70,72,38.4,79.7,88.8,peaty,wheat,ammonium sulfate
+93,45,83,16.8,82.5,61.9,peaty,maize,superphosphate
+10,7,50,26.8,76.1,73.6,sandy,barley,urea
+60,26,60,22.8,62.7,28.6,peaty,wheat,dap
+7,65,94,34.9,52.4,64.0,peaty,barley,urea
+54,30,26,34.6,27.1,35.8,loamy,soybean,mop
+6,40,34,35.8,66.2,78.7,clay,wheat,urea
+31,23,76,37.4,84.1,33.5,clay,maize,dap
+60,60,38,27.1,35.0,88.1,peaty,maize,complex fertilizer
+15,26,0,15.9,30.0,77.3,saline,rice,urea
+25,78,13,19.9,85.8,52.1,loamy,millet,urea
+59,81,9,35.1,74.3,20.3,peaty,maize,mop
+50,4,10,29.4,55.5,25.2,saline,millet,dap
+73,14,80,33.3,58.5,68.5,loamy,cotton,dap
+6,90,46,37.1,70.9,59.7,saline,cotton,urea
+86,22,7,31.6,36.3,74.9,clay,sorghum,dap
+3,14,57,24.3,23.0,65.7,sandy,groundnut,urea
+0,16,70,28.2,32.8,73.9,peaty,millet,urea
+3,2,54,18.5,17.0,32.6,loamy,cotton,urea
+45,64,50,22.8,21.1,49.2,saline,barley,superphosphate
+69,42,2,20.7,85.7,69.4,saline,barley,mop
+20,18,16,34.3,60.1,80.7,loamy,rice,urea
+83,84,3,25.6,62.0,61.3,saline,millet,mop
+88,12,82,33.3,22.0,57.1,sandy,rice,dap
+94,21,10,29.8,16.7,66.9,clay,soybean,dap
+4,15,96,25.2,23.3,64.1,loamy,wheat,urea
+96,14,67,24.8,58.1,33.5,loamy,soybean,dap
+42,21,35,16.7,28.3,37.4,peaty,rice,dap
+74,98,80,35.8,14.7,68.0,loamy,wheat,mop
+15,53,89,24.8,34.6,50.7,saline,barley,urea
+9,5,66,29.3,35.8,50.3,peaty,groundnut,urea
+91,51,46,26.0,12.2,73.9,loamy,wheat,complex fertilizer
+62,45,62,33.9,33.4,40.2,saline,barley,complex fertilizer
+60,36,74,29.3,18.5,52.6,peaty,sugarcane,mop
+82,60,86,21.9,73.7,88.0,loamy,wheat,mop
+26,63,44,23.6,10.8,63.0,sandy,wheat,urea
+82,81,100,32.7,16.1,60.3,loamy,maize,complex fertilizer
+89,0,58,35.7,71.8,83.4,saline,soybean,dap
+2,34,80,39.5,30.9,32.3,clay,cotton,urea
+11,28,35,22.0,25.5,80.3,peaty,groundnut,urea
+100,30,93,29.2,81.7,83.7,loamy,wheat,ammonium sulfate
+12,51,63,30.2,80.9,73.0,peaty,barley,urea
+3,95,4,32.3,57.2,57.3,peaty,barley,urea
+61,15,71,33.5,50.9,76.2,saline,soybean,dap
+36,35,30,19.3,28.0,83.4,sandy,rice,superphosphate
+99,75,89,32.6,39.1,34.3,loamy,wheat,urea
+73,47,21,35.2,56.7,54.2,sandy,wheat,mop
+9,74,2,32.1,47.7,34.1,clay,rice,urea
+49,91,1,33.0,18.8,28.9,saline,cotton,mop
+64,55,7,38.1,28.8,71.7,sandy,sorghum,mop
+42,69,31,37.6,62.6,20.1,clay,maize,ammonium sulfate
+28,69,52,25.0,74.1,34.3,sandy,sugarcane,urea
+24,66,75,29.2,34.0,45.2,clay,barley,urea
+92,40,44,32.4,36.2,62.4,clay,millet,dap
+32,98,94,22.0,66.7,44.0,clay,cotton,ammonium sulfate
+54,21,19,24.5,66.1,28.8,saline,millet,dap
+39,43,22,20.2,22.6,53.5,peaty,barley,mop
+75,54,32,19.1,18.9,31.4,peaty,cotton,ammonium sulfate
+20,82,18,33.7,11.0,66.6,peaty,millet,urea
+48,55,18,27.7,72.2,40.7,loamy,maize,mop
+43,35,93,38.0,76.5,47.3,loamy,sugarcane,urea
+71,13,10,27.6,52.2,40.2,clay,cotton,dap
+15,11,73,24.2,73.8,29.9,clay,millet,urea
+15,97,39,39.4,39.8,52.5,loamy,groundnut,urea
+66,56,74,28.0,63.4,74.5,peaty,cotton,dap
+69,11,38,26.1,65.7,63.9,saline,groundnut,dap
+3,48,14,33.5,75.5,36.7,clay,sorghum,urea
+92,32,55,21.0,12.9,49.5,peaty,sugarcane,complex fertilizer
+99,41,35,39.9,85.9,63.3,loamy,rice,mop
+53,43,59,33.9,42.4,60.7,peaty,millet,mop
+70,14,39,39.1,66.3,31.5,sandy,soybean,dap
+54,75,56,22.1,71.9,41.1,sandy,groundnut,urea
+20,26,54,36.9,83.1,23.8,loamy,wheat,urea
+13,12,44,27.1,45.1,71.6,sandy,groundnut,urea
+23,95,58,26.7,53.1,89.6,sandy,wheat,urea
+38,97,70,15.5,41.2,82.6,sandy,groundnut,mop
+96,70,71,31.8,88.3,49.1,peaty,barley,ammonium sulfate
+90,35,60,29.7,40.6,23.7,saline,soybean,ammonium sulfate
+26,93,45,27.9,43.7,40.6,loamy,groundnut,urea
+4,84,7,29.6,32.5,39.5,saline,millet,urea
+54,91,44,16.6,18.5,46.7,loamy,sugarcane,complex fertilizer
+63,13,22,26.2,12.7,78.9,peaty,millet,dap
+19,11,73,34.6,47.7,24.8,clay,millet,urea
+70,1,75,35.1,32.7,65.3,saline,sorghum,dap
+68,17,43,34.0,61.6,54.0,loamy,groundnut,dap
+54,8,33,26.1,25.4,48.3,loamy,maize,dap
+67,99,32,37.7,34.5,35.4,clay,cotton,mop
+47,56,45,31.9,48.7,67.4,loamy,millet,urea
+77,7,67,35.9,30.3,59.5,peaty,sugarcane,dap
+68,37,16,32.7,30.5,51.2,peaty,millet,mop
+44,56,43,34.5,37.8,41.8,loamy,soybean,superphosphate
+37,4,70,23.8,40.2,33.5,saline,sorghum,dap
+45,47,10,36.7,10.4,65.3,sandy,soybean,mop
+72,74,83,32.4,72.4,62.9,clay,cotton,mop
+76,38,82,21.4,15.4,62.0,peaty,sorghum,dap
+87,18,38,33.0,54.3,53.1,clay,sugarcane,dap
+22,35,29,35.6,86.4,31.4,sandy,groundnut,urea
+84,14,92,28.6,65.5,81.0,peaty,groundnut,dap
+39,74,69,20.2,23.2,75.5,sandy,barley,mop
+87,24,32,27.4,48.5,61.1,clay,wheat,dap
+75,60,72,37.2,31.5,25.4,sandy,cotton,dap
+13,89,93,18.3,25.5,71.9,clay,barley,urea
+29,55,80,39.4,60.3,33.7,loamy,cotton,urea
+23,37,78,15.2,70.0,53.4,loamy,sorghum,urea
+47,86,51,39.4,81.3,39.7,saline,soybean,dap
+64,93,51,31.0,69.6,56.4,clay,soybean,superphosphate
+43,68,85,24.4,89.6,49.6,loamy,millet,ammonium sulfate
+11,82,4,30.7,26.5,56.0,clay,cotton,urea
+91,45,6,30.4,59.5,35.3,loamy,barley,mop
+88,82,84,20.0,31.7,54.0,loamy,rice,dap
+6,58,61,38.2,78.0,30.0,saline,rice,urea
+30,58,73,25.2,29.0,83.8,peaty,maize,ammonium sulfate
+90,3,60,24.7,85.7,39.3,saline,maize,dap
+30,74,14,27.7,12.5,56.3,sandy,wheat,mop
+15,67,56,17.8,39.6,23.5,clay,sorghum,urea
+72,43,62,18.5,46.2,67.0,loamy,groundnut,mop
+31,76,82,21.7,41.5,22.3,peaty,soybean,ammonium sulfate
+64,2,75,26.1,59.1,34.5,loamy,sorghum,dap
+74,80,60,38.4,34.0,87.0,sandy,millet,dap
+69,19,90,22.2,87.6,20.4,sandy,soybean,dap
+30,18,49,19.5,62.0,36.3,loamy,millet,dap
+59,59,2,23.7,80.7,48.0,clay,groundnut,mop
+51,66,17,36.3,14.2,61.0,sandy,sugarcane,mop
+2,15,2,23.2,48.0,77.7,clay,millet,urea
+17,50,34,25.6,52.4,76.1,saline,millet,urea
+31,59,46,17.6,56.2,74.1,peaty,soybean,superphosphate
+31,52,92,30.5,36.7,65.2,clay,cotton,urea
+82,63,72,22.4,46.4,71.6,clay,rice,complex fertilizer
+59,48,17,30.4,36.4,62.2,clay,barley,mop
+94,3,1,18.6,20.0,44.1,loamy,rice,dap
+98,73,13,20.5,65.5,80.7,clay,maize,mop
+86,25,53,32.6,74.7,44.6,clay,maize,dap
+93,79,65,29.6,47.0,85.0,loamy,millet,mop
+38,0,1,31.9,15.9,82.5,clay,sorghum,dap
+83,77,54,21.0,56.2,77.2,loamy,rice,superphosphate
+26,3,13,22.8,58.7,34.3,loamy,maize,urea
+48,98,97,28.0,25.6,48.3,clay,soybean,complex fertilizer
+8,42,94,19.7,75.8,40.0,loamy,cotton,urea
+66,76,52,30.4,27.4,62.8,sandy,sorghum,complex fertilizer
+26,84,29,30.5,51.4,85.3,sandy,sorghum,urea
+45,28,46,16.9,20.0,58.9,loamy,soybean,dap
+81,80,72,20.6,60.6,29.6,clay,sugarcane,mop
+29,36,11,25.6,18.1,23.2,sandy,soybean,urea
+12,58,67,20.0,19.2,36.1,clay,maize,urea
+34,18,58,31.0,69.3,57.4,sandy,wheat,dap
+30,20,78,31.5,23.7,55.0,clay,wheat,dap
+81,13,76,27.0,19.7,39.7,loamy,wheat,dap
+54,55,55,17.5,85.4,76.3,sandy,soybean,mop
+7,30,5,16.7,85.6,79.6,loamy,cotton,urea
+83,99,47,18.8,26.9,34.2,saline,soybean,urea
+68,24,71,27.4,64.1,60.9,clay,millet,dap
+51,53,50,26.4,23.1,30.2,saline,maize,dap
+59,79,30,28.3,55.8,89.3,sandy,sugarcane,urea
+5,100,38,33.8,16.8,82.1,loamy,rice,urea
+47,76,17,22.8,29.4,24.6,saline,sugarcane,mop
+69,49,76,20.1,30.9,77.7,peaty,cotton,dap
+8,36,42,26.4,71.0,41.1,sandy,maize,urea
+74,61,73,38.0,11.8,44.9,sandy,cotton,complex fertilizer
+93,56,34,24.0,59.8,55.7,sandy,sugarcane,superphosphate
+74,53,29,18.2,46.1,41.1,saline,barley,mop
+34,80,62,18.6,58.1,71.9,clay,soybean,urea
+21,28,94,39.0,57.1,83.3,saline,sorghum,urea
+27,55,53,23.5,28.5,48.5,loamy,groundnut,urea
+43,71,19,29.2,58.0,74.5,saline,sugarcane,mop
+94,74,73,15.4,34.2,62.2,clay,cotton,complex fertilizer
+97,8,5,18.4,56.3,20.9,loamy,soybean,dap
+25,18,14,38.0,33.0,30.9,clay,millet,urea
+19,68,21,32.1,12.4,63.9,peaty,rice,urea
+10,20,55,32.3,40.1,47.7,peaty,barley,urea
+73,43,6,18.8,70.2,80.3,clay,wheat,mop
+95,8,34,39.0,24.8,53.7,sandy,millet,dap
+21,87,61,15.3,51.1,67.5,sandy,millet,urea
+65,34,17,39.6,22.0,23.3,loamy,groundnut,mop
+76,20,2,20.8,62.1,43.1,peaty,barley,dap
+48,6,91,25.7,69.7,22.8,saline,soybean,dap
+37,76,33,37.0,65.8,84.1,saline,wheat,urea
+31,4,6,32.3,82.8,20.7,saline,rice,dap
+64,54,17,23.8,85.0,65.9,peaty,millet,mop
+79,50,85,39.7,45.1,57.8,peaty,millet,urea
+66,47,25,38.4,56.5,80.1,clay,barley,mop
+23,59,68,26.2,72.4,39.2,peaty,barley,urea
+37,23,6,36.4,16.0,87.3,clay,maize,dap
+21,60,88,24.0,58.3,30.3,peaty,barley,urea
+48,0,63,39.2,76.7,50.6,saline,cotton,dap
+32,59,41,38.1,81.9,45.1,loamy,soybean,mop
+31,52,19,39.3,47.5,20.3,peaty,barley,mop
+77,95,55,19.6,83.9,75.6,peaty,cotton,dap
+6,78,44,27.0,43.9,36.1,sandy,rice,urea
+32,25,16,34.3,33.0,57.3,clay,millet,dap
+25,41,17,29.5,79.4,73.7,saline,sorghum,urea
+26,36,81,39.0,79.5,72.5,sandy,sorghum,urea
+25,29,24,30.3,83.3,78.8,saline,groundnut,urea
+66,57,37,37.2,12.6,62.5,saline,rice,superphosphate
+40,39,65,37.3,74.6,65.1,saline,sugarcane,ammonium sulfate
+63,32,24,24.9,77.0,52.3,clay,maize,mop
+80,10,46,15.6,34.1,83.3,saline,sugarcane,dap
+83,37,23,38.4,11.6,38.2,loamy,soybean,mop
+5,32,89,18.6,42.4,79.6,sandy,cotton,urea
+21,68,91,39.7,44.1,31.7,clay,millet,urea
+0,4,38,15.4,56.7,72.7,saline,rice,urea
+49,43,56,24.6,43.1,63.4,clay,rice,dap
+10,17,87,35.3,45.8,71.7,saline,cotton,urea
+28,56,3,28.3,85.7,82.8,sandy,barley,urea
+20,88,29,20.2,82.0,24.4,peaty,millet,urea
+21,34,6,28.8,53.1,24.7,peaty,groundnut,urea
+97,2,61,38.9,55.3,42.5,clay,rice,dap
+18,43,0,32.2,42.6,65.5,sandy,cotton,urea
+58,10,33,39.9,19.6,43.3,clay,soybean,dap
+2,27,92,24.7,63.2,61.5,loamy,soybean,urea
+90,34,89,18.3,53.3,78.8,saline,millet,ammonium sulfate
+33,99,51,27.6,31.0,51.3,loamy,groundnut,urea
+14,8,32,33.5,63.2,23.5,saline,groundnut,urea
+72,37,87,28.9,66.2,35.3,saline,sugarcane,urea
+38,22,82,32.3,75.3,35.2,sandy,millet,dap
+81,57,93,38.7,24.7,43.6,saline,barley,mop
+41,72,24,16.8,16.6,88.1,clay,cotton,mop
+31,48,57,39.1,52.2,43.6,sandy,sorghum,ammonium sulfate
+88,52,22,31.6,60.4,81.8,saline,sorghum,mop
+19,29,37,34.3,55.8,84.5,sandy,groundnut,urea
+11,23,18,24.3,67.5,80.0,loamy,wheat,urea
+49,61,98,17.2,62.3,83.0,loamy,groundnut,superphosphate
+22,68,9,18.2,61.7,78.7,loamy,cotton,urea
+9,22,43,20.5,68.7,35.0,saline,wheat,urea
+74,5,93,16.7,51.7,56.0,saline,soybean,dap
+35,94,16,29.1,83.2,69.5,clay,wheat,mop
+41,98,70,23.6,68.6,44.6,saline,cotton,superphosphate
+41,23,89,34.8,28.7,49.0,clay,cotton,dap
+50,70,37,16.1,55.5,21.3,loamy,millet,complex fertilizer
+8,9,49,38.4,17.7,27.4,loamy,groundnut,urea
+31,55,38,20.3,21.8,83.2,loamy,wheat,urea
+93,7,100,24.7,36.3,89.5,saline,rice,dap
+26,82,73,34.2,10.9,52.4,saline,rice,urea
+97,42,100,25.1,29.0,70.7,clay,rice,superphosphate
+54,99,99,21.6,53.7,25.4,peaty,sugarcane,complex fertilizer
+3,63,3,36.9,66.9,89.4,sandy,maize,urea
+64,17,65,35.9,18.5,63.2,loamy,barley,dap
+71,18,79,27.5,51.4,66.9,clay,sugarcane,dap
+54,97,3,25.9,73.8,42.9,sandy,sugarcane,mop
+2,41,8,25.2,88.5,31.1,clay,sorghum,urea
+5,28,69,21.0,58.6,71.9,saline,sugarcane,urea
+6,19,88,30.6,68.4,72.1,clay,maize,urea
+35,6,63,30.5,18.1,66.6,sandy,groundnut,dap
+79,57,73,33.0,64.9,82.9,clay,wheat,superphosphate
+5,73,19,28.4,17.0,52.2,saline,wheat,urea
+32,60,58,18.4,52.9,29.0,clay,sorghum,dap
+60,80,98,16.3,75.8,31.0,peaty,sorghum,mop
+4,56,3,21.7,60.4,38.2,loamy,barley,urea
+92,12,50,24.3,32.4,55.7,sandy,groundnut,dap
+15,91,42,21.1,88.1,67.1,peaty,rice,urea
+42,42,33,33.2,35.5,85.1,sandy,sorghum,dap
+82,49,65,18.6,15.0,43.0,peaty,millet,dap
+43,81,65,26.6,74.5,89.3,loamy,sugarcane,dap
+31,80,52,22.3,25.9,64.9,saline,maize,mop
+10,6,83,31.8,27.3,62.4,clay,sugarcane,urea
+77,92,32,38.9,26.8,29.9,saline,barley,ammonium sulfate
+76,97,85,35.3,26.9,20.9,clay,sugarcane,ammonium sulfate
+47,32,2,27.9,88.6,39.0,loamy,groundnut,mop
+70,95,61,20.6,62.9,42.1,loamy,barley,dap
+4,85,75,35.2,80.3,62.5,clay,cotton,urea
+21,69,54,26.4,19.7,86.0,saline,soybean,urea
+25,39,53,30.1,63.6,34.1,peaty,groundnut,urea
+22,45,66,38.5,67.8,36.2,loamy,sugarcane,urea
+35,36,25,27.1,58.8,40.2,saline,sugarcane,mop
+66,8,11,27.7,12.1,63.7,saline,maize,dap
+22,12,27,22.7,26.7,34.7,clay,rice,urea
+61,1,38,29.0,31.3,82.3,saline,groundnut,dap
+7,24,89,19.1,65.7,61.5,peaty,rice,urea
+69,35,99,36.4,79.4,65.0,peaty,wheat,ammonium sulfate
+71,12,1,27.8,55.3,65.9,sandy,soybean,dap
+73,43,29,32.8,52.9,50.5,sandy,maize,mop
+32,66,54,24.8,86.2,87.5,saline,maize,mop
+35,78,18,15.7,19.3,66.3,clay,rice,mop
+89,51,10,17.6,65.4,27.7,clay,soybean,mop
+59,48,99,24.3,46.8,24.2,saline,wheat,superphosphate
+35,77,31,25.7,55.5,31.1,saline,wheat,dap
+19,33,71,38.7,55.3,47.9,clay,cotton,urea
+43,5,95,36.8,69.8,67.6,loamy,sugarcane,dap
+7,99,68,28.0,32.5,30.1,sandy,maize,urea
+41,88,10,32.3,25.4,49.5,sandy,rice,mop
+96,35,93,15.9,80.5,26.7,sandy,rice,complex fertilizer
+76,55,62,37.2,48.6,74.3,peaty,sorghum,superphosphate
+84,58,53,27.6,14.7,23.2,sandy,cotton,dap
+86,35,89,24.9,87.0,64.9,peaty,groundnut,ammonium sulfate
+49,53,48,25.7,13.1,70.6,peaty,groundnut,dap
+92,40,17,36.6,27.2,70.0,saline,rice,mop
+74,3,15,32.9,65.9,69.9,clay,rice,dap
+31,36,83,27.8,89.4,33.6,loamy,sorghum,urea
+38,46,94,31.0,21.6,77.7,clay,soybean,dap
+23,66,59,38.9,52.4,26.3,peaty,cotton,urea
+76,85,93,38.1,60.9,62.2,peaty,groundnut,superphosphate
+80,73,20,19.9,48.0,34.8,sandy,millet,mop
+86,24,16,21.8,87.7,83.5,sandy,cotton,dap
+79,5,79,37.2,47.2,80.0,saline,rice,dap
+14,65,84,32.6,75.6,53.9,sandy,millet,urea
+49,36,12,19.4,44.7,76.5,peaty,maize,mop
+20,39,92,25.9,10.1,65.9,loamy,soybean,urea
+72,84,69,29.1,33.2,72.3,loamy,groundnut,ammonium sulfate
+70,37,69,21.0,64.8,81.3,saline,barley,dap
+69,34,79,20.0,21.4,75.2,loamy,cotton,superphosphate
+89,95,36,19.2,82.7,42.5,peaty,wheat,superphosphate
+28,14,3,28.6,85.3,84.4,clay,cotton,urea
+63,91,65,32.0,35.5,44.5,clay,groundnut,superphosphate
+68,72,4,21.1,22.7,28.3,sandy,sugarcane,mop
+98,88,18,39.0,43.9,59.2,saline,groundnut,mop
+3,75,18,38.5,30.7,26.0,clay,sugarcane,urea
+73,96,13,20.9,25.5,73.5,clay,millet,mop
+55,0,64,33.2,87.8,46.0,sandy,groundnut,dap
+92,36,100,27.3,67.6,40.9,sandy,sugarcane,complex fertilizer
+12,37,97,15.4,22.1,22.0,clay,cotton,urea
+97,69,76,28.0,58.1,58.7,clay,barley,dap
+57,45,30,21.1,85.0,24.5,peaty,cotton,dap
+54,89,46,31.4,77.9,42.9,sandy,wheat,dap
+90,39,61,37.9,39.8,36.9,saline,cotton,superphosphate
+88,31,70,23.6,83.8,29.0,peaty,groundnut,dap
+10,13,42,26.5,83.5,76.6,clay,groundnut,urea
+2,47,34,25.2,80.1,80.8,loamy,maize,urea
+50,33,28,15.9,26.9,21.0,peaty,maize,mop
+50,68,60,23.0,82.9,29.2,peaty,wheat,superphosphate
+94,51,10,20.6,28.6,78.6,sandy,rice,mop
+66,23,72,33.1,24.0,44.4,clay,millet,dap
+6,79,67,15.7,18.1,31.3,clay,soybean,urea
+24,68,1,16.5,45.1,33.0,saline,rice,urea
+87,37,10,23.2,23.2,29.4,loamy,barley,mop
+70,1,16,38.0,62.8,88.8,sandy,soybean,dap
+19,94,30,17.2,10.8,70.8,sandy,cotton,urea
+68,96,32,23.4,38.6,34.0,sandy,wheat,ammonium sulfate
+8,42,58,24.9,59.7,54.3,sandy,soybean,urea
+68,73,19,22.6,79.7,74.1,clay,barley,mop
+48,26,55,32.9,74.9,53.0,sandy,wheat,dap
+71,42,43,37.6,80.0,36.7,loamy,soybean,urea
+78,37,44,19.7,44.3,76.2,sandy,rice,dap
+29,91,82,18.5,73.8,27.0,sandy,soybean,urea
+60,26,80,33.3,37.6,55.1,sandy,soybean,dap
+14,5,23,22.5,53.0,80.9,sandy,millet,urea
+29,82,96,21.5,67.1,87.5,peaty,rice,urea
+98,68,0,26.4,73.2,87.6,clay,millet,mop
+55,22,92,25.7,37.1,29.6,clay,maize,dap
+63,79,100,22.9,74.7,83.7,clay,sugarcane,complex fertilizer
+38,82,89,34.6,21.7,81.0,sandy,maize,complex fertilizer
+69,21,90,35.6,27.4,65.6,loamy,maize,dap
+12,62,66,33.1,63.3,54.7,loamy,wheat,urea
+11,46,53,27.7,17.4,49.6,clay,wheat,urea
+47,54,59,29.0,16.6,82.8,clay,wheat,superphosphate
+29,11,43,26.1,70.3,83.7,sandy,maize,urea
+33,39,12,35.1,10.5,86.1,loamy,wheat,mop
+86,72,89,29.2,15.4,54.3,saline,cotton,superphosphate
+93,99,54,22.5,55.6,69.6,sandy,wheat,mop
+94,97,12,27.9,65.1,78.4,sandy,cotton,mop
+44,59,98,36.1,86.2,82.8,sandy,groundnut,mop
+83,39,85,33.3,44.5,53.7,sandy,millet,mop
+23,33,72,35.1,22.2,73.7,sandy,rice,urea
+78,1,93,26.7,41.6,59.0,loamy,barley,dap
+90,37,46,15.7,45.0,44.7,loamy,barley,urea
+97,41,40,30.3,57.3,81.0,peaty,maize,ammonium sulfate
+49,95,73,15.8,66.5,61.9,sandy,groundnut,superphosphate
+73,66,37,17.9,63.2,26.7,loamy,barley,ammonium sulfate
+32,4,78,24.0,16.1,59.3,sandy,wheat,dap
+6,17,72,36.6,38.6,20.1,saline,rice,urea
+38,83,87,26.9,57.8,79.4,clay,sorghum,superphosphate
+84,49,9,37.9,13.2,29.9,peaty,groundnut,mop
+91,54,86,27.5,18.7,88.0,clay,cotton,urea
+76,34,10,18.5,82.0,50.7,sandy,cotton,mop
+24,42,70,30.9,36.1,62.6,sandy,wheat,urea
+98,7,8,16.2,28.4,38.7,sandy,maize,dap
+23,13,84,24.2,56.3,45.7,saline,groundnut,urea
+6,64,79,29.6,43.4,50.4,clay,millet,urea
+40,33,36,36.1,48.7,71.5,sandy,barley,dap
+48,83,13,23.4,80.7,49.2,saline,sorghum,mop
+93,76,50,28.9,71.5,75.2,peaty,wheat,urea
+97,36,33,25.5,46.9,57.2,sandy,groundnut,mop
+33,75,93,34.1,80.2,87.9,loamy,sugarcane,ammonium sulfate
+83,97,88,16.4,50.0,72.4,sandy,maize,mop
+51,70,96,28.3,42.1,54.7,clay,soybean,urea
+7,26,74,35.6,45.8,79.1,loamy,sugarcane,urea
+69,27,72,24.3,59.0,69.9,clay,rice,dap
+91,49,70,23.0,74.2,26.1,clay,soybean,superphosphate
+29,91,84,16.1,33.0,43.8,clay,wheat,urea
+95,75,28,19.4,64.8,28.2,sandy,rice,mop
+70,78,93,16.5,33.5,80.3,clay,soybean,mop
+72,81,86,35.2,27.4,28.5,clay,groundnut,urea
+66,22,74,25.3,79.9,39.0,saline,maize,dap
+66,28,26,21.0,21.5,54.3,sandy,wheat,dap
+25,33,78,33.6,80.2,83.4,clay,wheat,urea
+5,88,64,22.1,74.4,75.3,loamy,rice,urea
+25,78,96,15.5,25.4,37.9,clay,millet,urea
+91,52,6,16.3,10.3,80.2,sandy,wheat,mop
+61,88,48,19.8,45.4,27.4,saline,wheat,complex fertilizer
+20,73,17,28.6,52.0,25.8,loamy,barley,urea
+47,75,27,34.8,62.5,86.2,saline,wheat,mop
+67,30,19,19.8,26.4,89.6,clay,soybean,mop
+4,34,10,37.3,10.9,77.3,clay,barley,urea
+2,21,81,29.1,45.0,88.1,loamy,sorghum,urea
+21,50,70,36.7,44.0,59.8,sandy,rice,urea
+57,26,57,26.7,36.6,52.7,loamy,millet,dap
+73,92,56,28.9,47.5,25.0,peaty,soybean,superphosphate
+3,68,53,20.6,52.9,81.0,peaty,wheat,urea
+49,67,89,17.7,29.1,70.9,clay,soybean,dap
+51,38,81,33.7,47.5,74.7,saline,sugarcane,ammonium sulfate
+39,30,46,29.4,60.4,67.0,clay,soybean,mop
+94,55,75,24.5,40.6,23.8,clay,rice,mop
+1,95,86,30.4,69.2,67.4,clay,barley,urea
+70,97,1,18.6,39.1,64.6,peaty,barley,mop
+5,44,13,39.2,20.1,75.5,loamy,barley,urea
+37,27,17,36.0,53.6,51.1,clay,soybean,dap
+84,97,18,34.9,36.0,40.5,sandy,groundnut,mop
+87,74,30,20.7,53.3,53.3,clay,barley,superphosphate
+71,36,51,25.1,40.7,56.4,peaty,barley,mop
+8,35,6,27.9,58.1,85.1,clay,groundnut,urea
+52,85,32,35.1,37.8,59.3,sandy,groundnut,urea
+55,9,13,35.4,86.2,74.8,saline,rice,dap
+71,80,75,32.5,80.7,77.4,loamy,maize,dap
+55,27,34,22.5,10.8,53.1,peaty,millet,dap
+7,84,84,33.9,49.5,38.6,sandy,wheat,urea
+67,29,90,30.8,53.0,80.4,clay,soybean,dap
+17,36,61,25.1,47.2,89.8,peaty,rice,urea
+11,26,13,18.7,41.3,57.2,sandy,sorghum,urea
+31,50,26,24.9,66.3,34.7,peaty,millet,mop
+41,44,72,20.0,22.8,59.3,saline,millet,dap
+86,36,29,35.0,58.8,71.0,saline,maize,mop
+62,75,16,28.0,74.5,46.1,peaty,sorghum,mop
+79,77,4,16.0,11.7,48.0,peaty,rice,mop
+52,97,8,27.0,23.1,85.0,saline,wheat,mop
+36,36,85,21.1,36.4,57.5,clay,sorghum,urea
+63,89,15,22.2,19.0,29.7,loamy,soybean,mop
+24,97,93,31.5,76.5,40.0,sandy,rice,urea
+36,55,6,20.3,27.2,70.4,saline,wheat,mop
+32,70,28,36.2,14.5,35.6,saline,sorghum,mop
+83,1,63,35.4,28.8,23.4,loamy,wheat,dap
+92,55,100,19.2,49.3,59.2,saline,groundnut,superphosphate
+10,66,19,20.8,13.4,38.2,clay,sugarcane,urea
+22,25,66,33.4,16.4,64.2,loamy,sorghum,urea
+13,12,77,22.1,34.7,48.2,sandy,cotton,urea
+91,87,26,29.7,31.9,47.8,clay,maize,mop
+59,27,5,37.8,72.2,84.0,saline,millet,dap
+56,79,28,29.4,29.6,48.4,saline,soybean,mop
+80,10,39,30.8,85.6,40.2,loamy,sorghum,dap
+35,92,96,30.8,10.6,68.2,clay,sugarcane,complex fertilizer
+20,22,24,33.3,48.1,51.3,saline,maize,urea
+81,82,85,31.2,82.3,78.1,clay,groundnut,complex fertilizer
+20,72,73,34.0,44.4,80.0,sandy,rice,urea
+89,77,62,28.2,54.6,49.3,loamy,millet,dap
+7,68,39,19.6,84.0,55.8,sandy,sorghum,urea
+40,50,52,22.3,37.1,77.0,peaty,rice,complex fertilizer
+77,11,93,16.9,54.9,66.2,clay,barley,dap
+62,29,20,36.5,40.6,27.3,saline,maize,dap
+35,53,13,19.4,70.9,47.3,sandy,groundnut,mop
+21,100,27,39.6,86.2,48.9,loamy,rice,urea
+79,78,33,28.2,57.1,76.2,sandy,wheat,superphosphate
+30,60,48,17.4,88.4,79.7,sandy,rice,mop
+44,20,10,36.3,79.3,27.8,peaty,barley,dap
+73,0,92,19.0,17.7,58.6,peaty,millet,dap
+75,20,80,28.8,14.9,88.2,clay,sugarcane,dap
+18,75,19,16.5,72.2,67.5,clay,groundnut,urea
+4,37,61,31.5,56.6,47.1,peaty,rice,urea
+70,10,79,21.6,60.7,34.1,peaty,sorghum,dap
+85,2,42,17.2,70.1,44.0,saline,maize,dap
+53,52,85,21.0,26.0,63.9,peaty,cotton,dap
+49,9,81,23.6,56.6,22.9,sandy,wheat,dap
+57,68,16,18.5,21.7,48.8,peaty,rice,mop
+76,81,72,21.8,12.4,40.6,peaty,groundnut,superphosphate
+2,47,72,38.1,73.8,62.9,peaty,cotton,urea
+41,33,66,37.5,48.6,29.9,sandy,rice,complex fertilizer
+91,95,23,30.0,82.0,28.2,loamy,wheat,mop
+47,41,7,38.7,78.2,89.4,clay,wheat,mop
+98,70,18,28.9,30.4,62.5,clay,soybean,mop
+100,78,9,25.7,44.0,43.0,saline,wheat,mop
+24,79,74,21.1,45.1,39.7,sandy,barley,urea
+26,100,91,16.4,36.1,50.9,loamy,rice,urea
+65,87,64,20.8,15.1,60.0,clay,cotton,superphosphate
+43,22,17,18.3,71.3,56.3,saline,rice,dap
+53,67,13,26.3,70.2,87.9,saline,sugarcane,mop
+58,100,58,32.4,74.0,55.3,clay,wheat,urea
+32,46,82,39.2,41.8,45.2,saline,rice,ammonium sulfate
+37,55,66,31.2,85.2,39.9,clay,groundnut,urea
+20,42,56,31.0,17.7,70.5,sandy,maize,urea
+10,82,10,34.9,65.5,74.9,loamy,maize,urea
+96,84,31,27.5,21.0,88.5,clay,barley,urea
+33,13,57,29.1,32.9,28.5,saline,wheat,dap
+34,5,15,31.2,48.2,56.9,saline,sugarcane,dap
+82,98,78,26.5,24.2,26.8,clay,sorghum,dap
+50,19,70,27.3,55.3,50.9,sandy,soybean,dap
+69,56,61,26.0,14.4,39.9,peaty,maize,dap
+68,1,45,39.6,80.0,50.4,loamy,millet,dap
+35,7,52,30.7,81.3,30.9,peaty,sorghum,dap
+2,34,50,22.0,44.6,34.6,clay,cotton,urea
+26,45,51,28.8,55.4,44.0,peaty,cotton,urea
+47,20,53,26.2,15.9,69.8,saline,cotton,dap
+10,29,51,24.3,57.6,82.0,saline,maize,urea
+89,72,46,30.2,48.3,26.3,saline,millet,dap
+100,50,95,34.0,37.8,67.8,sandy,barley,urea
+12,7,67,33.2,60.9,24.3,sandy,maize,urea
+79,30,28,20.3,48.8,35.0,saline,barley,mop
+85,56,21,37.0,42.6,34.4,clay,maize,mop
+51,86,87,20.4,84.0,40.8,loamy,soybean,mop
+96,98,38,22.1,14.7,27.6,saline,millet,ammonium sulfate
+95,14,41,25.5,61.2,44.6,sandy,soybean,dap
+95,86,90,20.4,26.8,38.5,sandy,sorghum,complex fertilizer
+93,94,62,20.6,15.6,44.8,saline,soybean,urea
+19,24,43,17.6,50.3,80.2,saline,millet,urea
+2,5,74,28.9,73.4,22.2,saline,rice,urea
+32,37,24,37.9,64.8,71.1,saline,barley,mop
+6,0,66,17.1,67.5,23.4,peaty,soybean,urea
+33,8,68,16.5,28.4,56.3,saline,cotton,dap
+44,18,54,16.1,77.5,30.9,saline,sugarcane,dap
+49,84,54,36.6,21.4,25.4,saline,wheat,superphosphate
+98,84,88,24.9,68.6,61.5,clay,sugarcane,complex fertilizer
+93,3,11,21.0,69.2,75.6,peaty,wheat,dap
+73,53,79,30.6,20.3,73.6,saline,cotton,complex fertilizer
+57,74,100,31.5,84.1,70.0,sandy,rice,complex fertilizer
+96,97,56,18.0,77.0,67.2,saline,groundnut,superphosphate
+65,39,7,16.2,71.0,38.6,loamy,wheat,mop
+20,14,21,16.9,15.5,42.3,loamy,wheat,urea
+26,67,1,38.3,10.2,30.2,peaty,barley,urea
+42,52,53,17.9,49.9,48.7,clay,groundnut,urea
+69,95,42,29.9,71.5,42.0,saline,rice,complex fertilizer
+77,84,89,29.3,40.6,88.9,clay,maize,mop
+93,43,26,17.4,59.3,32.3,sandy,cotton,mop
+71,86,83,35.8,52.6,58.7,peaty,cotton,superphosphate
+54,20,8,35.3,50.1,84.2,loamy,rice,dap
+35,17,10,30.5,42.7,87.0,peaty,cotton,dap
+45,40,71,39.6,17.5,48.2,loamy,sugarcane,complex fertilizer
+85,26,23,19.5,33.8,69.5,sandy,rice,dap
+55,24,72,30.2,70.0,67.4,loamy,sugarcane,dap
+19,24,97,18.0,41.9,56.1,loamy,wheat,urea
+88,46,65,20.6,82.5,57.9,clay,groundnut,dap
+50,91,6,38.0,86.7,40.9,peaty,groundnut,mop
+9,5,68,30.4,45.0,40.3,clay,rice,urea
+90,16,2,21.2,83.1,41.0,peaty,rice,dap
+24,39,79,28.6,40.6,52.3,sandy,maize,urea
+72,97,70,24.1,58.4,57.3,saline,groundnut,urea
+11,33,83,31.5,16.3,78.4,peaty,sorghum,urea
+48,70,82,16.2,68.3,81.4,loamy,millet,complex fertilizer
+61,13,39,29.5,89.0,41.0,clay,rice,dap
+43,65,57,31.1,46.1,45.6,peaty,cotton,superphosphate
+16,45,0,33.8,45.4,42.5,clay,maize,urea
+84,94,38,32.2,61.6,27.7,loamy,millet,superphosphate
+90,86,96,21.2,31.3,87.6,loamy,soybean,ammonium sulfate
+56,99,4,37.0,37.1,47.6,peaty,cotton,mop
+85,97,23,26.8,66.2,48.4,saline,cotton,mop
+90,38,8,21.4,65.6,21.0,loamy,millet,mop
+11,43,82,24.4,68.1,25.8,clay,cotton,urea
+59,45,43,24.3,33.0,75.8,clay,soybean,superphosphate
+38,8,46,20.8,77.2,66.5,clay,wheat,dap
+40,67,11,39.2,32.6,53.3,saline,sugarcane,mop
+11,63,74,23.1,19.1,41.9,sandy,sorghum,urea
+62,97,90,31.6,58.8,55.0,saline,barley,ammonium sulfate
+83,84,81,23.3,42.4,65.8,sandy,groundnut,dap
+93,50,45,29.2,73.8,89.9,saline,soybean,dap
+29,26,69,28.4,82.6,53.1,peaty,wheat,urea
+61,18,19,24.9,54.9,50.0,saline,barley,dap
+2,50,42,38.6,66.8,25.9,clay,barley,urea
+95,44,48,20.3,25.8,43.3,loamy,groundnut,mop
+18,70,47,36.7,61.8,36.0,sandy,rice,urea
+2,75,26,27.4,71.1,29.9,peaty,maize,urea
+59,23,85,31.3,48.3,32.0,peaty,maize,dap
+86,68,15,35.3,74.1,58.9,clay,maize,mop
+89,7,33,39.7,22.4,49.7,sandy,maize,dap
+2,51,8,33.1,53.7,82.5,peaty,groundnut,urea
+33,30,58,16.4,14.0,65.5,loamy,rice,complex fertilizer
+75,12,57,17.5,35.5,32.4,loamy,sugarcane,dap
+6,19,13,17.7,58.6,73.5,saline,soybean,urea
+7,33,36,17.4,25.3,51.0,saline,cotton,urea
+82,5,41,29.4,82.3,28.6,sandy,groundnut,dap
+14,86,14,24.5,77.4,60.5,clay,sorghum,urea
+80,16,5,29.0,57.4,64.3,loamy,soybean,dap
+82,87,29,17.6,52.9,52.4,clay,barley,mop
+12,98,72,37.3,58.6,50.9,loamy,soybean,urea
+82,34,26,29.5,22.0,27.1,clay,maize,mop
+58,37,25,39.3,51.4,33.0,peaty,barley,mop
+57,39,45,24.7,52.9,86.8,peaty,rice,ammonium sulfate
+82,90,57,29.9,16.6,23.1,loamy,sorghum,mop
+32,7,25,15.5,60.7,23.1,sandy,sorghum,dap
+39,28,89,34.3,89.1,63.2,peaty,millet,dap
+98,88,56,39.8,46.0,37.4,loamy,rice,mop
+21,22,79,22.2,31.5,55.6,sandy,cotton,urea
+8,6,17,21.5,27.9,73.6,peaty,groundnut,urea
+9,78,6,33.2,85.1,24.2,sandy,maize,urea
+4,51,85,27.0,50.8,37.9,loamy,rice,urea
+99,20,41,22.6,72.1,74.2,loamy,barley,dap
+34,5,18,18.9,62.5,36.9,saline,groundnut,dap
+41,69,59,24.9,57.3,25.4,clay,maize,superphosphate
+93,52,93,21.1,33.9,46.6,clay,barley,urea
+90,96,6,38.7,86.8,88.4,saline,groundnut,mop
+38,3,6,17.9,19.6,73.9,loamy,rice,dap
+28,19,74,15.5,81.5,69.3,peaty,rice,urea
+80,52,51,21.8,71.1,53.0,sandy,groundnut,ammonium sulfate
+42,68,100,21.9,54.5,38.2,peaty,sorghum,urea
+88,0,26,29.1,48.5,44.7,peaty,cotton,dap
+97,100,61,27.1,52.7,53.3,saline,wheat,urea
+96,16,26,32.9,69.1,32.0,loamy,cotton,dap
+34,33,28,22.2,25.3,67.1,saline,groundnut,mop
+23,94,79,19.6,64.6,56.6,clay,maize,urea
+76,67,43,15.3,17.9,28.5,peaty,groundnut,urea
+49,80,4,35.5,35.2,77.5,saline,sorghum,mop
+64,35,64,30.1,17.3,23.5,clay,millet,urea
+3,75,73,34.3,34.0,42.4,peaty,soybean,urea
+3,27,43,30.2,65.3,74.4,loamy,cotton,urea
+66,59,33,16.7,31.4,58.5,sandy,sorghum,ammonium sulfate
+48,82,11,16.1,13.0,75.3,peaty,barley,mop
+39,76,88,35.5,65.2,43.7,clay,barley,complex fertilizer
+58,75,38,33.7,52.4,70.6,loamy,groundnut,superphosphate
+90,26,59,38.1,32.0,47.3,loamy,rice,dap
+17,87,34,28.0,70.1,21.1,sandy,wheat,urea
+57,47,62,16.7,27.2,79.9,clay,rice,dap
+24,72,86,29.9,38.7,35.9,saline,groundnut,urea
+56,99,35,36.2,67.5,89.8,saline,wheat,dap
+67,38,46,31.6,26.7,26.5,peaty,wheat,mop
+93,86,90,39.5,52.6,69.4,loamy,cotton,complex fertilizer
+44,46,9,27.8,78.0,87.2,loamy,rice,mop
+37,21,42,32.7,87.2,26.7,sandy,sorghum,dap
+98,36,76,39.6,69.8,53.7,sandy,wheat,superphosphate
+92,69,40,24.5,64.8,68.7,peaty,sugarcane,superphosphate
+21,49,98,27.7,63.0,83.2,saline,barley,urea
+93,70,38,29.1,86.0,84.2,loamy,wheat,complex fertilizer
+43,33,21,17.3,62.9,41.7,peaty,wheat,mop
+21,19,56,30.4,20.0,87.3,peaty,barley,urea
+34,83,6,33.6,58.8,80.8,sandy,barley,mop
+68,66,37,22.4,30.9,49.5,clay,soybean,mop
+58,62,60,36.7,21.3,48.6,saline,rice,complex fertilizer
+65,31,38,30.5,16.2,70.6,peaty,sorghum,mop
+10,32,4,24.1,15.1,69.8,saline,cotton,urea
+0,33,90,35.4,28.5,25.6,loamy,millet,urea
+88,55,59,31.4,16.2,55.8,clay,maize,urea
+47,25,88,37.9,22.6,81.7,sandy,cotton,dap
+71,79,37,27.1,10.0,50.7,saline,wheat,dap
+87,80,35,30.7,24.3,58.9,clay,groundnut,ammonium sulfate
+27,8,100,32.9,51.4,59.0,loamy,soybean,urea
+15,51,77,29.1,14.6,23.2,loamy,millet,urea
+37,80,62,22.3,43.9,40.7,saline,sorghum,complex fertilizer
+93,91,90,28.5,19.6,63.3,peaty,sorghum,dap
+61,59,5,22.1,17.9,43.3,loamy,sorghum,mop
+12,86,31,27.5,89.2,80.4,sandy,soybean,urea
+43,95,81,16.1,57.7,83.2,peaty,cotton,superphosphate
+94,5,67,20.0,47.1,67.1,peaty,rice,dap
+70,97,44,27.0,39.1,47.5,sandy,barley,urea
+80,47,7,18.5,14.6,44.7,loamy,sorghum,mop
+49,78,39,36.2,56.3,24.2,loamy,millet,urea
+30,73,66,27.5,55.0,67.2,saline,millet,superphosphate
+24,39,86,39.9,66.7,24.7,loamy,cotton,urea
+44,48,61,17.6,34.8,84.5,loamy,groundnut,dap
+27,41,34,25.5,79.2,57.9,clay,millet,urea
+20,34,70,32.4,12.7,73.0,peaty,sorghum,urea
+7,70,20,39.8,60.5,74.2,sandy,millet,urea
+96,62,88,17.3,58.9,35.4,clay,rice,superphosphate
+72,70,75,16.5,37.0,59.4,loamy,barley,ammonium sulfate
+69,69,49,32.9,87.9,35.6,sandy,soybean,ammonium sulfate
+91,9,59,31.7,56.9,65.0,peaty,maize,dap
+0,87,46,16.3,42.9,29.5,peaty,maize,urea
+33,22,56,38.9,19.6,80.6,saline,sorghum,dap
+72,51,1,20.7,87.7,79.3,clay,soybean,mop
+51,70,84,36.4,17.9,58.7,sandy,rice,complex fertilizer
+59,95,24,15.1,69.8,40.8,sandy,sorghum,mop
+35,48,29,17.9,39.6,23.3,saline,millet,mop
+92,38,51,15.1,75.0,61.5,clay,groundnut,ammonium sulfate
+58,99,55,32.1,57.2,49.1,sandy,maize,complex fertilizer
+36,2,99,27.2,44.7,21.9,loamy,soybean,dap
+6,1,77,39.4,61.4,38.5,clay,groundnut,urea
+13,18,13,37.0,69.3,49.6,saline,rice,urea
+53,87,77,34.7,57.5,76.7,clay,maize,mop
+34,46,12,16.6,41.4,74.9,sandy,soybean,mop
+50,37,84,19.5,31.9,85.2,sandy,sorghum,urea
+23,55,10,19.6,74.6,27.7,sandy,sorghum,urea
+7,19,58,33.4,26.4,20.9,loamy,maize,urea
+80,74,63,30.3,83.3,86.0,peaty,cotton,dap
+28,13,7,21.5,34.8,89.4,saline,maize,urea
+3,52,56,29.6,49.1,70.6,peaty,sugarcane,urea
+46,52,97,23.4,14.3,24.3,peaty,sorghum,urea
+100,99,6,28.4,17.7,80.6,peaty,cotton,mop
+83,46,2,20.4,49.6,66.9,clay,wheat,mop
+73,3,42,18.0,68.9,35.2,saline,millet,dap
+47,84,31,33.1,14.8,63.2,peaty,sugarcane,complex fertilizer
+22,17,81,25.7,62.5,88.0,loamy,cotton,urea
+53,38,80,25.5,47.1,39.4,peaty,soybean,mop
+12,3,35,21.7,11.7,74.8,saline,rice,urea
+63,97,8,39.9,62.7,20.1,saline,cotton,mop
+95,10,78,17.8,43.9,20.6,clay,sugarcane,dap
+27,39,42,21.2,26.6,42.1,loamy,sugarcane,urea
+54,93,23,19.4,13.1,33.4,clay,sugarcane,mop
+56,97,61,23.9,57.5,23.4,saline,sugarcane,urea
+61,93,64,19.2,36.5,52.8,peaty,soybean,complex fertilizer
+52,86,13,19.4,53.1,54.3,loamy,sugarcane,mop
+45,23,66,19.3,23.9,82.2,saline,soybean,dap
+83,96,72,39.2,82.2,80.6,loamy,soybean,complex fertilizer
+16,20,74,31.5,60.9,65.7,clay,cotton,urea
+40,9,40,30.7,50.7,28.0,clay,cotton,dap
+49,78,14,29.7,65.0,36.7,clay,sugarcane,mop
+81,85,14,30.2,32.2,62.4,loamy,sugarcane,mop
+7,2,3,39.9,34.4,72.7,sandy,maize,urea
+74,23,14,21.2,17.4,63.5,peaty,millet,dap
+50,25,73,35.0,83.2,22.5,clay,soybean,dap
+77,31,58,25.3,39.7,61.1,peaty,wheat,dap
+72,83,0,38.6,37.8,46.1,clay,sorghum,mop
+27,2,17,23.0,15.2,30.2,peaty,millet,urea
+49,27,8,19.2,54.7,70.2,peaty,sorghum,dap
+23,96,83,37.9,89.3,65.3,peaty,soybean,urea
+93,43,100,32.3,53.9,78.5,sandy,barley,mop
+22,49,0,20.1,39.8,86.2,loamy,barley,urea
+87,39,36,24.7,18.2,44.9,loamy,soybean,mop
+52,98,89,15.8,34.3,71.3,loamy,maize,urea
+9,67,82,22.3,44.4,33.5,sandy,maize,urea
+38,7,35,35.9,80.8,68.8,peaty,sugarcane,dap
+96,18,88,15.6,44.2,70.4,peaty,cotton,dap
+0,25,80,37.8,18.6,26.7,sandy,barley,urea
+22,8,56,38.1,31.9,31.1,peaty,sugarcane,urea
+44,4,27,26.1,23.8,72.2,peaty,rice,dap
+18,68,19,24.0,27.9,43.0,sandy,soybean,urea
+39,62,93,28.3,52.6,41.7,saline,cotton,urea
+48,85,77,19.7,77.1,47.1,sandy,barley,ammonium sulfate
+87,78,62,24.0,52.3,23.7,loamy,sugarcane,ammonium sulfate
+79,63,46,35.8,24.9,74.1,peaty,sorghum,urea
+44,55,87,25.1,86.6,48.5,clay,barley,ammonium sulfate
+73,97,48,28.3,81.6,52.8,loamy,wheat,ammonium sulfate
+90,69,19,33.8,47.1,29.4,saline,cotton,mop
+1,71,80,19.9,33.4,37.8,peaty,maize,urea
+65,54,7,27.4,25.7,47.2,sandy,millet,mop
+20,25,70,28.5,45.0,89.8,loamy,barley,urea
+3,60,77,38.2,10.4,77.4,peaty,sugarcane,urea
+100,48,83,35.6,86.3,30.4,saline,soybean,complex fertilizer
+20,54,56,30.6,23.7,79.3,clay,sugarcane,urea
+25,86,21,27.0,64.8,42.9,saline,soybean,urea
+94,33,22,21.9,80.0,43.9,peaty,soybean,mop
+83,27,47,26.5,26.9,42.5,clay,barley,dap
+7,98,91,18.4,76.1,31.0,clay,barley,urea
+68,55,10,24.5,58.6,62.2,loamy,maize,mop
+69,59,56,24.4,45.6,53.7,clay,sorghum,complex fertilizer
+1,23,74,29.5,41.1,59.7,loamy,wheat,urea
+11,1,57,36.3,26.8,53.5,loamy,sugarcane,urea
+58,84,41,39.9,20.0,66.3,saline,cotton,dap
+69,68,49,19.8,57.7,61.6,sandy,barley,ammonium sulfate
+35,92,33,16.7,73.1,40.5,loamy,sorghum,dap
+77,40,42,18.1,86.9,31.2,sandy,sugarcane,urea
+1,84,60,17.4,18.8,85.3,peaty,cotton,urea
+9,71,22,17.8,17.5,40.2,peaty,soybean,urea
+32,94,24,22.9,23.2,71.5,saline,barley,mop
+83,88,15,26.9,24.0,52.2,loamy,sorghum,mop
+5,41,55,24.7,60.6,76.4,clay,soybean,urea
+79,61,79,19.7,13.0,86.0,peaty,rice,mop
+74,45,59,24.7,66.9,37.8,clay,soybean,ammonium sulfate
+39,59,100,29.4,37.4,82.5,clay,millet,superphosphate
+31,97,34,18.7,70.6,23.0,clay,rice,complex fertilizer
+57,76,92,30.4,50.4,88.8,loamy,sorghum,urea
+88,71,63,22.4,77.2,61.1,clay,millet,ammonium sulfate
+78,94,0,33.7,68.2,56.2,peaty,sugarcane,mop
+41,61,100,29.9,34.0,49.5,peaty,cotton,ammonium sulfate
+76,29,15,32.4,40.3,65.7,clay,groundnut,dap
+18,82,69,25.5,19.0,79.5,sandy,sugarcane,urea
+94,50,52,28.9,37.6,81.5,clay,barley,mop
+10,10,91,34.0,15.3,78.1,sandy,rice,urea
+34,10,79,19.8,86.1,83.5,saline,maize,dap
+22,17,22,37.9,24.5,57.3,sandy,rice,urea
+7,69,64,34.9,38.4,21.5,sandy,barley,urea
+54,68,34,24.0,18.7,79.7,loamy,groundnut,mop
+59,94,90,20.0,55.3,28.9,loamy,rice,dap
+22,44,70,37.7,75.8,88.1,peaty,sugarcane,urea
+25,54,83,31.8,80.3,73.1,sandy,maize,urea
+59,2,76,33.4,23.2,75.6,clay,cotton,dap
+91,42,56,25.9,20.9,62.4,sandy,maize,mop
+54,30,53,25.6,76.6,39.5,peaty,groundnut,dap
+11,57,3,18.3,73.2,28.3,clay,cotton,urea
+33,79,42,28.8,46.5,62.5,sandy,barley,dap
+71,48,5,34.1,31.8,31.1,clay,sorghum,mop
+82,24,61,27.5,89.6,45.7,clay,wheat,dap
+18,35,61,22.6,16.0,42.6,peaty,cotton,urea
+4,14,47,19.8,89.7,40.6,clay,groundnut,urea
+18,1,79,39.0,76.3,64.3,saline,barley,urea
+19,37,14,33.4,28.8,58.3,clay,groundnut,urea
+2,82,95,26.8,64.6,80.9,peaty,sorghum,urea
+24,94,15,23.8,36.7,24.3,saline,soybean,urea
+37,2,87,15.7,82.6,30.7,loamy,cotton,dap
+90,19,48,26.8,29.7,88.6,clay,soybean,dap
+83,91,76,32.4,68.3,34.9,loamy,barley,superphosphate
+13,0,33,30.8,84.6,87.5,saline,wheat,urea
+94,45,62,32.5,88.1,48.0,peaty,soybean,complex fertilizer
+2,72,70,33.1,23.2,52.1,peaty,barley,urea
+33,47,51,23.3,38.1,40.4,peaty,wheat,urea
+51,82,95,31.2,53.4,74.7,peaty,maize,urea
+33,72,32,20.7,71.1,75.1,saline,barley,dap
+78,44,55,36.6,10.1,63.8,peaty,sugarcane,complex fertilizer
+0,3,49,30.8,80.0,21.8,peaty,cotton,urea
+94,93,8,35.9,35.4,59.3,peaty,wheat,mop
+33,22,51,37.1,66.0,51.0,loamy,wheat,dap
+35,40,76,39.1,56.8,75.4,loamy,millet,ammonium sulfate
+38,17,34,28.2,18.2,33.4,sandy,groundnut,dap
+98,14,58,25.1,60.6,30.5,saline,maize,dap
+18,75,86,34.9,83.2,42.1,loamy,wheat,urea
+15,37,78,19.7,36.1,41.2,peaty,soybean,urea
+83,91,2,28.3,32.6,88.9,peaty,groundnut,mop
+58,6,8,33.9,17.2,25.4,peaty,groundnut,dap
+77,29,84,19.9,28.1,62.8,peaty,barley,dap
+92,67,70,15.4,43.4,25.0,loamy,sorghum,ammonium sulfate
+76,12,82,26.8,87.0,70.9,loamy,sorghum,dap
+69,59,47,37.1,20.5,82.1,sandy,sorghum,complex fertilizer
+84,94,71,20.9,67.4,59.5,loamy,rice,urea
+85,47,10,27.3,37.2,80.6,loamy,rice,mop
+13,76,48,19.2,57.3,55.1,peaty,wheat,urea
+76,96,37,24.9,27.1,23.5,saline,groundnut,complex fertilizer
+16,69,6,39.0,53.2,80.0,saline,millet,urea
+68,47,88,35.9,46.6,35.5,peaty,rice,complex fertilizer
+55,20,72,16.1,63.2,67.7,loamy,wheat,dap
+88,57,36,24.5,25.4,53.5,sandy,maize,ammonium sulfate
+12,74,54,28.6,38.9,20.2,clay,maize,urea
+41,25,15,24.0,61.9,71.6,sandy,soybean,dap
+96,18,22,37.1,38.5,40.8,peaty,millet,dap
+12,98,38,31.9,11.5,63.4,loamy,barley,urea
+75,81,46,23.8,72.9,39.4,peaty,rice,complex fertilizer
+52,55,84,23.3,74.1,75.9,clay,soybean,complex fertilizer
+16,82,84,30.0,16.2,36.0,clay,sugarcane,urea
+99,97,18,18.7,11.8,62.2,clay,cotton,mop
+76,77,66,23.9,82.6,84.7,clay,cotton,mop
+6,37,0,28.0,65.1,59.9,loamy,sugarcane,urea
+6,66,1,25.3,61.0,27.6,sandy,barley,urea
+74,9,5,38.3,79.8,76.0,peaty,groundnut,dap
+8,78,92,17.5,10.2,29.9,loamy,rice,urea
+35,7,57,16.1,14.8,71.7,clay,sugarcane,dap
+24,94,59,38.2,78.9,30.9,peaty,maize,urea
+18,78,2,18.6,55.8,63.8,sandy,millet,urea
+92,80,56,24.6,60.8,72.4,loamy,millet,urea
+9,84,55,18.6,80.9,61.8,sandy,sugarcane,urea
+53,38,29,19.9,24.7,82.8,sandy,rice,mop
+72,84,34,20.4,89.1,78.1,saline,groundnut,urea
+48,79,34,33.5,42.6,53.5,peaty,barley,ammonium sulfate
+27,25,22,17.4,59.8,23.8,sandy,rice,urea
+66,83,40,34.0,45.9,79.3,sandy,sorghum,ammonium sulfate
+29,6,36,24.2,85.2,38.2,saline,sugarcane,urea
+38,54,60,25.1,88.2,78.9,peaty,sugarcane,urea
+12,20,34,20.5,26.6,75.2,clay,sugarcane,urea
+77,3,10,36.8,67.9,61.6,clay,soybean,dap
+62,2,30,19.5,39.0,26.3,loamy,rice,dap
+68,53,15,21.3,21.5,45.6,sandy,wheat,mop
+22,50,31,16.9,47.8,71.7,sandy,maize,urea
+8,14,22,18.2,56.1,33.9,peaty,wheat,urea
+17,87,51,31.7,59.7,24.6,loamy,soybean,urea
+63,67,39,38.0,38.8,67.2,saline,sugarcane,dap
+53,51,38,18.4,74.0,55.9,saline,barley,ammonium sulfate
+61,37,81,26.0,58.9,46.5,loamy,groundnut,mop
+55,65,15,37.2,79.8,71.2,saline,rice,mop
+83,63,3,30.8,19.7,39.0,loamy,sugarcane,mop
+54,58,0,29.0,81.4,47.2,sandy,cotton,mop
+6,74,88,36.2,49.1,57.2,clay,wheat,urea
+83,24,63,27.5,14.8,34.5,loamy,sorghum,dap
+67,17,21,19.5,26.6,36.8,sandy,barley,dap
+63,13,70,17.3,15.2,41.6,clay,maize,dap
+26,73,43,22.9,64.7,67.1,clay,millet,urea
+41,0,99,19.3,59.1,54.4,loamy,soybean,dap
+88,40,49,27.6,62.4,43.5,clay,millet,urea
+99,73,3,38.3,29.0,71.0,saline,cotton,mop
+22,88,88,31.2,54.2,85.4,sandy,sorghum,urea
+85,79,64,30.4,84.1,45.8,loamy,sorghum,mop
+31,42,17,17.9,51.7,81.2,clay,millet,mop
+69,38,18,28.5,51.0,68.9,sandy,groundnut,mop
+48,19,31,23.0,84.8,23.7,loamy,rice,dap
+39,68,95,28.2,30.1,40.9,loamy,groundnut,mop
+63,33,67,35.8,13.2,73.3,peaty,soybean,superphosphate
+11,94,35,37.0,63.6,89.9,sandy,millet,urea
+44,36,1,33.3,19.8,28.8,loamy,sorghum,mop
+71,76,7,26.5,10.4,84.9,loamy,barley,mop
+37,51,50,36.2,56.0,50.9,clay,rice,superphosphate
+90,10,95,16.9,49.2,63.1,peaty,wheat,dap
+76,26,37,39.1,78.8,20.7,peaty,wheat,dap
+27,69,16,37.2,87.8,74.1,peaty,sugarcane,urea
+99,2,94,28.2,80.6,52.6,saline,barley,dap
+25,8,39,34.1,33.0,79.0,sandy,cotton,urea
+77,57,20,18.4,64.0,56.1,saline,rice,mop
+56,97,26,20.1,12.0,59.9,sandy,sorghum,mop
+22,48,56,20.0,48.7,33.8,peaty,cotton,urea
+19,62,91,39.9,46.4,29.1,saline,cotton,urea
+0,86,26,38.9,44.4,64.5,loamy,rice,urea
+83,93,46,15.0,22.4,43.7,peaty,maize,dap
+90,86,57,31.4,41.3,54.6,peaty,sorghum,superphosphate
+8,15,12,17.3,55.5,51.1,clay,rice,urea
+33,8,51,21.9,46.3,57.8,loamy,wheat,dap
+97,7,0,28.5,51.3,34.2,loamy,sorghum,dap
+84,94,60,23.1,37.9,33.7,sandy,sugarcane,complex fertilizer
+40,66,45,26.5,87.0,22.2,clay,wheat,complex fertilizer
+14,86,25,28.7,35.6,45.8,peaty,wheat,urea
+10,37,35,24.2,64.8,76.0,saline,sugarcane,urea
+100,43,53,22.9,31.9,45.2,peaty,rice,urea
+22,50,62,39.8,43.4,44.0,sandy,wheat,urea
+57,89,53,32.8,51.4,22.3,sandy,sorghum,mop
+26,78,26,36.9,22.9,31.9,saline,sugarcane,urea
+44,24,24,21.8,65.0,31.6,peaty,soybean,dap
+64,36,95,16.6,63.5,46.6,loamy,sorghum,mop
+53,4,87,24.2,22.1,35.2,sandy,wheat,dap
+27,74,75,37.9,39.2,83.5,sandy,sugarcane,urea
+66,25,84,35.1,19.6,25.4,peaty,wheat,dap
+67,49,84,23.6,64.0,59.7,loamy,soybean,superphosphate
+70,34,39,18.1,47.2,65.4,loamy,millet,urea
+62,17,23,22.7,19.1,36.7,loamy,sorghum,dap
+79,66,28,23.2,70.9,84.0,peaty,maize,mop
+64,40,28,33.7,80.7,35.7,peaty,millet,mop
+56,48,17,29.0,80.4,43.6,peaty,maize,mop
+69,72,76,21.1,11.1,89.4,clay,soybean,mop
+73,95,86,31.2,16.8,83.3,saline,sorghum,complex fertilizer
+94,4,38,27.5,75.6,21.5,peaty,sugarcane,dap
+93,61,48,23.0,51.3,36.5,sandy,barley,urea
+31,99,91,33.0,77.9,49.8,sandy,sugarcane,ammonium sulfate
+86,98,80,26.2,82.5,86.9,clay,cotton,complex fertilizer
+17,25,67,20.1,75.1,30.2,sandy,wheat,urea
+21,86,54,26.3,19.1,70.5,sandy,wheat,urea
+39,16,54,24.6,54.1,88.6,saline,maize,dap
+16,2,39,37.7,73.6,81.0,saline,wheat,urea
+59,86,67,29.2,51.8,42.8,peaty,cotton,superphosphate
+28,55,86,25.9,67.5,26.2,sandy,groundnut,urea
+16,31,69,35.0,38.9,82.8,peaty,millet,urea
+37,53,41,39.3,11.4,78.2,clay,sugarcane,ammonium sulfate
+22,7,36,20.5,82.6,33.2,loamy,sorghum,urea
+9,32,52,15.5,86.3,69.4,peaty,cotton,urea
+8,95,25,16.7,68.7,69.3,saline,sorghum,urea
+42,73,23,23.3,22.6,78.6,peaty,wheat,mop
+45,52,23,31.0,61.4,21.7,clay,sugarcane,mop
+45,20,86,19.9,86.0,52.2,saline,rice,dap
+20,8,34,35.9,85.5,77.8,clay,soybean,urea
+56,39,73,34.4,14.8,28.3,loamy,sorghum,superphosphate
+80,56,31,25.0,20.0,20.1,loamy,millet,urea
+25,34,78,27.2,10.5,59.5,clay,soybean,urea
+0,4,62,18.4,26.9,25.9,peaty,soybean,urea
+10,94,87,38.7,39.7,27.2,peaty,maize,urea
+28,38,35,36.4,85.2,39.5,saline,barley,urea
+93,8,25,38.0,30.6,63.1,peaty,soybean,dap
+11,79,99,33.1,56.3,37.0,loamy,sorghum,urea
+0,12,33,37.1,89.8,59.3,peaty,rice,urea
+85,69,7,33.5,83.9,87.7,loamy,barley,mop
+61,43,86,37.1,18.2,32.6,peaty,sugarcane,complex fertilizer
+63,66,47,16.3,33.1,76.6,sandy,millet,urea
+59,24,31,35.3,60.6,49.7,saline,sugarcane,dap
+99,51,54,25.3,60.3,58.2,loamy,maize,urea
+12,11,62,38.0,33.9,63.4,peaty,sugarcane,urea
+70,53,17,22.9,65.7,49.8,peaty,barley,mop
+34,25,30,38.0,79.3,81.4,loamy,cotton,dap
+9,29,99,35.5,15.2,66.8,loamy,rice,urea
+4,28,61,31.2,65.4,55.5,loamy,barley,urea
+100,95,59,36.4,53.1,70.2,peaty,sugarcane,complex fertilizer
+6,8,36,32.6,23.9,39.8,peaty,sugarcane,urea
+15,35,39,22.5,81.7,32.7,clay,barley,urea
+30,63,17,16.1,13.7,27.3,loamy,groundnut,mop
+7,14,7,27.8,67.3,56.0,saline,millet,urea
+9,13,50,35.1,89.0,70.4,loamy,millet,urea
+84,91,100,30.6,33.1,78.3,clay,soybean,complex fertilizer
+10,43,20,21.7,78.4,41.2,clay,cotton,urea
+81,37,65,38.7,48.7,57.1,sandy,wheat,mop
+56,93,84,21.1,60.6,32.9,loamy,groundnut,mop
+36,14,98,37.5,41.0,77.3,saline,soybean,dap
+78,84,64,23.7,25.0,68.5,peaty,cotton,superphosphate
+24,45,72,24.0,51.5,27.1,peaty,sugarcane,urea
+66,72,46,23.6,73.2,52.8,loamy,sugarcane,superphosphate
+45,76,55,32.9,45.7,67.0,peaty,barley,mop
+34,8,56,18.8,73.0,89.6,peaty,sugarcane,dap
+27,78,47,17.3,63.0,75.9,clay,groundnut,urea
+93,13,53,37.5,17.6,86.0,saline,sorghum,dap
+8,38,51,16.9,15.1,38.4,sandy,millet,urea
+46,24,40,31.0,17.2,27.2,loamy,maize,dap
+41,56,4,21.2,26.5,72.8,clay,wheat,mop
+63,69,50,15.7,70.4,61.6,peaty,millet,complex fertilizer
+85,88,43,30.3,23.6,45.9,clay,maize,superphosphate
+97,56,16,30.8,69.4,85.9,saline,rice,mop
+57,5,12,35.5,57.8,21.8,peaty,wheat,dap
+44,47,50,16.8,20.8,48.0,loamy,groundnut,ammonium sulfate
+52,77,25,37.2,64.0,67.8,peaty,rice,mop
+41,42,59,22.9,36.9,39.1,saline,barley,mop
+48,56,42,24.3,11.8,79.6,peaty,sugarcane,complex fertilizer
+44,34,42,30.2,45.2,76.7,saline,wheat,complex fertilizer
+66,23,46,23.8,60.6,65.7,clay,cotton,dap
+56,28,97,26.3,40.6,55.1,loamy,sorghum,dap
+84,75,65,27.5,77.0,40.7,saline,wheat,superphosphate
+99,37,84,17.1,65.7,32.7,loamy,groundnut,mop
+31,61,88,28.8,77.9,43.3,peaty,rice,superphosphate
+46,94,78,23.2,85.1,66.1,peaty,maize,dap
+72,82,62,19.8,77.2,65.3,sandy,soybean,complex fertilizer
+69,95,99,23.8,56.8,51.4,peaty,maize,complex fertilizer
+56,62,99,30.5,56.4,42.9,peaty,barley,ammonium sulfate
+70,30,94,25.7,89.5,39.1,loamy,millet,urea
+18,5,16,32.1,60.6,83.8,loamy,cotton,urea
+12,89,36,26.2,22.9,52.7,peaty,barley,urea
+7,84,89,16.6,20.6,61.8,clay,rice,urea
+5,77,86,15.1,48.1,55.7,clay,maize,urea
+65,49,69,18.8,26.1,88.8,peaty,soybean,urea
+30,53,24,33.4,10.1,30.9,saline,groundnut,mop
+39,78,50,32.8,41.1,49.0,peaty,sorghum,ammonium sulfate
+5,68,28,24.1,55.0,81.8,loamy,cotton,urea
+65,74,4,18.8,35.8,57.1,peaty,groundnut,mop
+64,71,44,38.6,70.5,66.6,clay,millet,urea
+42,39,73,35.3,49.8,63.4,saline,wheat,dap
+80,13,49,27.9,89.9,69.2,peaty,sorghum,dap
+40,92,4,39.0,21.6,79.0,loamy,maize,mop
+56,79,3,28.4,28.7,65.1,clay,cotton,mop
+62,11,52,32.5,73.5,51.9,loamy,maize,dap
+73,51,69,39.9,65.5,80.1,peaty,groundnut,dap
+56,23,47,19.5,36.9,38.2,sandy,sorghum,dap
+50,82,43,17.9,32.1,36.7,peaty,wheat,urea
+39,84,53,15.3,46.0,84.0,clay,cotton,mop
+12,94,26,31.0,67.7,20.4,loamy,barley,urea
+45,78,76,21.0,43.8,32.9,saline,barley,ammonium sulfate
+56,25,49,18.6,47.7,27.4,clay,sugarcane,dap
+94,98,18,36.2,21.0,64.8,sandy,sorghum,mop
+100,77,22,20.8,30.5,35.8,loamy,groundnut,mop
+94,55,33,29.2,11.1,58.3,saline,cotton,dap
+70,72,43,22.8,57.1,87.9,saline,maize,ammonium sulfate
+26,0,42,16.7,28.4,85.6,clay,cotton,urea
+82,43,93,16.3,31.5,56.9,saline,millet,complex fertilizer
+73,42,54,36.7,28.0,35.7,sandy,rice,mop
+16,60,1,26.0,79.7,73.2,peaty,wheat,urea
+1,52,39,27.2,50.1,51.2,clay,millet,urea
+91,99,74,22.3,86.1,30.3,clay,sugarcane,superphosphate
+24,46,58,16.1,63.6,86.0,saline,millet,urea
+83,16,16,37.7,76.5,77.1,peaty,sorghum,dap
+20,77,15,24.8,84.0,37.0,saline,soybean,urea
+66,32,35,17.0,13.2,86.6,sandy,sorghum,urea
+27,37,65,38.0,39.8,27.8,loamy,barley,urea
+92,55,74,18.7,78.8,68.4,loamy,cotton,urea
+12,36,0,39.5,10.4,51.5,sandy,soybean,urea
+28,87,88,18.9,32.2,64.5,loamy,sorghum,urea
+38,11,37,29.3,22.9,25.0,clay,rice,dap
+48,70,66,31.7,65.5,67.2,sandy,soybean,superphosphate
+70,87,93,22.3,39.6,81.9,sandy,wheat,ammonium sulfate
+34,66,77,27.3,67.6,42.7,clay,maize,complex fertilizer
+19,1,97,37.6,18.8,78.7,saline,soybean,urea
+62,9,44,31.8,73.6,75.9,peaty,barley,dap
+39,22,85,36.4,45.7,31.6,peaty,barley,dap
+20,32,16,38.4,38.2,42.6,sandy,sugarcane,urea
+42,27,64,29.6,64.9,49.9,loamy,groundnut,dap
+56,23,62,33.7,67.6,31.9,loamy,sugarcane,dap
+66,48,39,18.1,68.8,31.9,clay,sugarcane,dap
+40,34,88,36.5,31.0,69.5,peaty,soybean,mop
+94,93,57,21.6,50.3,61.8,loamy,sorghum,mop
+70,29,50,24.6,79.6,26.0,clay,maize,dap
+48,29,15,29.5,22.9,62.0,sandy,cotton,dap
+96,69,24,25.4,85.6,22.2,clay,barley,mop
+51,17,71,29.3,40.9,68.4,loamy,rice,dap
+20,57,38,31.1,67.0,30.4,saline,cotton,urea
+14,96,23,18.2,52.4,71.6,peaty,sorghum,urea
+38,74,39,19.8,55.1,36.3,peaty,groundnut,complex fertilizer
+99,1,58,16.4,41.8,47.3,saline,soybean,dap
+71,67,9,38.5,69.0,51.2,saline,maize,mop
+42,0,51,23.2,62.3,40.0,sandy,millet,dap
+99,0,94,22.0,62.7,25.2,peaty,wheat,dap
+67,1,81,39.1,41.6,82.4,sandy,millet,dap
+98,43,59,39.9,33.4,64.7,clay,millet,dap
+1,74,1,28.3,40.9,25.2,loamy,millet,urea
+65,92,74,18.2,35.7,74.1,saline,millet,superphosphate
+72,83,100,26.2,11.4,58.7,clay,groundnut,ammonium sulfate
+84,59,50,19.4,68.7,69.9,saline,sorghum,superphosphate
+29,20,15,25.7,22.7,62.3,saline,millet,urea
+94,56,33,29.1,25.6,25.1,peaty,cotton,superphosphate
+77,75,1,22.7,52.5,26.2,clay,groundnut,mop
+25,43,20,24.1,11.5,50.3,peaty,cotton,urea
+75,77,82,32.4,17.2,28.2,loamy,soybean,mop
+54,95,92,15.6,63.8,46.8,saline,groundnut,urea
+19,76,65,27.0,14.0,26.2,peaty,sugarcane,urea
+32,39,36,26.8,52.8,60.4,sandy,sorghum,complex fertilizer
+14,58,13,21.5,74.7,56.1,loamy,wheat,urea
+95,49,87,19.0,74.4,60.8,saline,rice,mop
+52,31,91,17.4,82.2,60.2,clay,rice,dap
+37,25,16,17.9,31.2,74.3,clay,soybean,dap
+9,84,38,21.7,89.9,45.5,loamy,sorghum,urea
+76,97,57,30.3,36.8,37.1,peaty,millet,ammonium sulfate
+39,3,24,39.1,63.4,23.2,saline,barley,dap
+75,94,93,38.4,84.0,56.0,peaty,soybean,superphosphate
+24,23,4,22.2,46.8,68.9,saline,sugarcane,urea
+8,80,39,24.5,25.4,72.5,sandy,soybean,urea
+70,5,72,23.1,38.2,21.1,clay,wheat,dap
+66,57,67,34.8,63.4,83.6,sandy,wheat,ammonium sulfate
+3,77,52,36.0,11.0,31.8,peaty,wheat,urea
+51,98,47,32.9,35.6,69.7,clay,groundnut,complex fertilizer
+50,60,31,16.0,65.4,80.0,sandy,wheat,urea
+69,20,31,21.1,69.0,72.5,saline,sorghum,dap
+30,31,50,29.1,42.0,43.8,saline,sorghum,complex fertilizer
+90,93,67,23.5,72.3,71.6,loamy,cotton,dap
+40,59,56,29.8,46.5,43.2,peaty,wheat,urea
+4,41,82,22.0,83.9,88.6,loamy,sugarcane,urea
+62,41,16,33.8,34.3,78.4,sandy,soybean,mop
+50,32,41,34.7,59.1,26.6,saline,cotton,dap
+100,10,4,32.5,73.6,21.9,sandy,groundnut,dap
+32,36,42,36.8,38.2,49.4,sandy,millet,dap
+45,88,100,35.6,85.0,34.4,peaty,millet,superphosphate
+46,36,38,38.8,30.9,58.7,loamy,soybean,complex fertilizer
+79,67,36,39.7,86.5,35.7,sandy,barley,urea
+24,30,62,15.6,68.8,60.4,clay,wheat,urea
+71,59,65,22.5,84.0,43.5,clay,cotton,urea
+40,91,89,31.9,75.6,62.4,clay,maize,mop
+68,82,91,25.4,89.4,67.5,loamy,millet,complex fertilizer
+60,42,23,39.3,12.4,75.0,saline,soybean,mop
+82,44,25,37.0,60.0,34.0,clay,millet,mop
+7,86,72,35.7,34.8,86.2,saline,maize,urea
+59,42,89,27.0,74.7,84.0,loamy,millet,complex fertilizer
+87,52,85,26.4,14.0,87.9,peaty,sugarcane,dap
+27,64,49,20.1,89.0,46.1,sandy,cotton,urea
+11,87,73,26.5,62.2,65.5,sandy,sugarcane,urea
+25,31,7,22.1,56.9,27.2,peaty,maize,urea
+53,100,9,31.8,12.4,89.9,clay,millet,mop
+1,50,76,36.4,70.1,67.1,clay,rice,urea
+23,0,5,32.4,78.4,40.7,sandy,soybean,urea
+85,10,68,39.4,52.4,70.9,loamy,rice,dap
+31,72,17,25.6,64.0,46.6,saline,sorghum,mop
+58,71,60,18.5,19.3,20.3,peaty,sorghum,urea
+29,15,70,36.6,12.2,45.4,peaty,barley,urea
+75,21,71,24.2,42.7,41.7,loamy,millet,dap
+38,12,61,36.8,70.7,63.6,saline,rice,dap
+42,80,83,31.5,43.6,35.7,loamy,groundnut,urea
+98,73,48,30.1,53.7,86.0,loamy,sugarcane,ammonium sulfate
+84,27,62,38.9,46.5,46.8,peaty,sugarcane,dap
+6,34,100,39.1,57.0,81.2,peaty,groundnut,urea
+98,93,20,15.7,42.8,35.9,saline,sugarcane,mop
+61,97,24,36.8,86.4,41.0,peaty,cotton,mop
+72,8,67,27.3,38.8,68.6,peaty,maize,dap
+19,4,69,37.5,87.0,75.0,loamy,rice,urea
+3,76,33,24.4,31.4,75.6,peaty,maize,urea
+22,65,5,24.5,37.7,28.3,loamy,millet,urea
+40,91,10,25.3,24.7,89.9,peaty,sorghum,mop
+97,79,91,23.4,60.6,41.4,sandy,rice,urea
+7,86,11,33.2,79.6,69.3,saline,rice,urea
+76,90,1,19.3,42.5,52.8,sandy,groundnut,mop
+31,92,100,15.0,10.0,49.9,loamy,millet,complex fertilizer
+95,69,22,20.2,86.9,38.3,clay,barley,mop
+31,16,44,36.0,33.8,52.6,peaty,sorghum,dap
+67,38,27,33.9,75.6,73.9,clay,cotton,mop
+52,21,39,29.9,43.8,30.5,saline,maize,dap
+4,87,55,35.5,74.1,72.5,loamy,rice,urea
+95,51,24,20.2,51.4,81.3,sandy,barley,mop
+72,60,66,29.6,69.7,70.8,sandy,groundnut,ammonium sulfate
+50,56,23,15.5,14.8,45.7,clay,cotton,mop
+34,80,40,26.0,26.3,21.1,saline,soybean,urea
+35,16,4,34.9,42.7,77.8,sandy,soybean,dap
+24,23,100,27.0,18.6,84.5,peaty,barley,urea
+16,98,64,30.6,41.8,71.0,peaty,rice,urea
+76,33,63,15.2,50.0,46.2,clay,groundnut,dap
+19,4,85,30.5,10.8,30.9,sandy,wheat,urea
+59,79,13,30.8,62.9,64.8,saline,millet,mop
+17,41,5,18.8,45.1,67.2,clay,groundnut,urea
+55,75,39,32.3,61.7,45.8,clay,groundnut,ammonium sulfate
+92,99,68,26.4,60.5,28.5,sandy,barley,urea
+55,68,25,30.2,10.5,60.3,saline,millet,mop
+49,81,30,18.0,30.9,35.7,clay,wheat,urea
+34,46,68,24.9,14.1,21.2,loamy,groundnut,complex fertilizer
+80,65,1,24.4,23.9,21.7,sandy,soybean,mop
+84,2,3,32.6,17.2,61.6,loamy,cotton,dap
+54,75,55,39.6,89.7,67.8,clay,sugarcane,mop
+89,91,2,28.4,50.4,33.9,peaty,barley,mop
+27,2,100,25.6,24.7,63.8,saline,wheat,urea
+31,19,63,22.1,35.9,33.9,loamy,wheat,dap
+56,35,19,22.6,83.9,77.8,loamy,millet,mop
+15,60,4,17.2,42.8,48.9,sandy,groundnut,urea
+40,8,64,15.6,34.0,40.3,peaty,groundnut,dap
+83,90,8,38.5,83.6,66.5,peaty,groundnut,mop
+93,20,78,30.0,31.5,32.8,saline,maize,dap
+0,33,43,25.6,27.9,30.6,loamy,cotton,urea
+48,42,52,28.8,66.4,83.5,saline,barley,complex fertilizer
+67,3,63,15.7,38.7,55.2,peaty,groundnut,dap
+97,15,79,18.8,80.1,64.1,loamy,sorghum,dap
+29,95,84,23.0,71.2,45.7,loamy,millet,urea
+84,45,70,28.1,84.2,21.1,loamy,wheat,urea
+61,49,43,37.7,39.5,63.9,clay,sugarcane,dap
+51,8,10,20.5,11.6,59.5,saline,sorghum,dap
+11,22,93,35.4,31.8,71.2,sandy,cotton,urea
+88,75,87,29.9,54.9,26.3,saline,soybean,urea
+20,24,70,34.9,37.7,44.4,clay,rice,urea
+72,40,27,26.3,33.8,25.7,sandy,soybean,mop
+0,86,66,18.8,58.3,59.2,peaty,cotton,urea
+18,75,49,24.1,63.8,27.3,saline,wheat,urea
+8,29,27,18.4,82.5,86.2,clay,cotton,urea
+13,37,57,25.7,57.2,77.2,sandy,sorghum,urea
+66,78,35,16.3,85.1,75.7,loamy,groundnut,mop
+98,100,53,37.4,65.9,84.0,sandy,maize,mop
+19,2,77,36.7,50.3,25.6,clay,soybean,urea
+41,50,13,22.8,58.7,20.5,clay,groundnut,mop
+53,15,93,29.8,78.0,32.3,clay,rice,dap
+74,52,58,27.4,54.4,61.9,clay,sugarcane,superphosphate
+31,14,13,20.1,30.8,21.9,clay,sugarcane,dap
+66,30,16,39.5,75.4,89.5,clay,cotton,mop
+13,95,19,27.7,44.7,66.5,sandy,wheat,urea
+55,54,18,24.3,40.7,41.7,saline,groundnut,mop
+11,59,45,33.9,64.1,54.2,loamy,sorghum,urea
+91,57,69,17.0,73.3,42.0,saline,soybean,ammonium sulfate
+96,89,5,20.5,68.8,80.1,sandy,cotton,mop
+24,51,53,38.3,19.2,61.8,saline,sugarcane,urea
+2,94,84,28.9,20.1,73.0,peaty,sorghum,urea
+55,42,100,37.3,45.3,55.0,saline,sugarcane,ammonium sulfate
+14,91,16,19.1,10.1,76.3,peaty,groundnut,urea
+33,88,48,29.8,43.8,65.4,saline,sorghum,mop
+11,93,49,23.3,52.3,87.5,saline,sorghum,urea
+86,19,42,21.2,31.5,39.7,sandy,maize,dap
+33,28,91,22.6,53.4,64.7,saline,rice,dap
+0,47,83,30.7,81.2,42.4,clay,millet,urea
+65,1,55,31.7,28.9,32.8,peaty,maize,dap
+73,97,11,17.6,81.4,71.5,peaty,sorghum,mop
+57,99,27,20.1,12.7,34.9,sandy,groundnut,mop
+89,78,69,26.8,33.1,23.0,clay,barley,ammonium sulfate
+35,22,6,19.9,18.2,78.7,peaty,millet,dap
+42,74,24,34.3,25.4,66.1,clay,maize,mop
+39,65,0,26.3,10.7,32.6,loamy,cotton,mop
+67,68,69,34.9,25.3,45.7,clay,cotton,urea
+79,38,64,29.6,44.3,69.8,sandy,maize,urea
+41,86,11,21.5,10.7,80.8,peaty,cotton,mop
+15,70,24,25.2,24.4,28.4,loamy,groundnut,urea
+96,44,85,37.4,74.3,66.4,peaty,barley,urea
+100,15,74,18.7,41.7,81.0,peaty,barley,dap
+1,37,11,20.4,64.2,44.5,sandy,maize,urea
+25,3,90,16.2,43.7,66.1,clay,rice,urea
+47,85,83,30.9,69.6,47.7,loamy,rice,superphosphate
+30,29,39,21.8,36.7,78.1,sandy,soybean,dap
+91,74,72,32.8,83.0,77.4,clay,rice,superphosphate
+79,74,63,24.5,65.0,64.8,clay,wheat,superphosphate
+1,69,43,38.2,21.6,65.1,loamy,maize,urea
+46,1,4,25.8,88.3,70.4,peaty,soybean,dap
+54,55,24,32.3,46.3,83.5,clay,groundnut,mop
+45,59,33,37.4,76.5,59.0,saline,millet,superphosphate
+24,23,38,28.3,69.1,67.7,saline,groundnut,urea
+27,18,73,15.8,87.5,26.2,peaty,wheat,urea
+55,28,69,32.9,28.8,29.5,peaty,wheat,dap
+32,0,93,31.9,80.6,79.4,clay,soybean,dap
+15,22,27,21.7,55.2,86.1,sandy,wheat,urea
+38,39,34,34.1,65.6,48.3,sandy,groundnut,dap
+48,8,40,31.1,69.4,78.5,clay,groundnut,dap
+99,38,53,35.7,42.0,52.0,saline,groundnut,mop
+18,98,95,29.2,64.9,81.7,saline,maize,urea
+44,99,99,33.0,82.7,51.4,peaty,cotton,dap
+53,20,73,36.0,52.2,23.7,peaty,sugarcane,dap
+76,68,3,17.2,18.2,87.6,sandy,groundnut,mop
+97,83,38,38.6,55.6,77.4,loamy,sorghum,urea
+25,92,47,23.7,87.2,29.9,clay,groundnut,urea
+13,81,92,22.5,75.3,87.3,saline,sugarcane,urea
+16,30,81,34.8,22.3,31.6,peaty,sugarcane,urea
+30,99,25,30.9,19.9,20.4,clay,groundnut,mop
+57,92,38,29.2,32.4,87.3,clay,maize,urea
+31,7,49,25.2,45.4,43.6,saline,barley,dap
+76,31,45,26.7,77.6,52.8,loamy,cotton,ammonium sulfate
+79,17,3,19.9,30.8,60.9,sandy,rice,dap
+7,38,80,39.0,56.5,38.1,saline,soybean,urea
+62,21,71,18.9,45.6,28.3,sandy,maize,dap
+85,85,70,25.7,61.7,81.6,clay,sorghum,complex fertilizer
+52,41,18,22.6,61.0,36.5,loamy,sugarcane,mop
+5,46,59,25.5,89.9,77.6,loamy,wheat,urea
+52,87,28,15.8,19.7,71.0,sandy,wheat,mop
+48,50,34,38.7,88.1,79.7,saline,rice,dap
+12,2,13,16.8,54.7,22.3,saline,wheat,urea
+27,8,80,38.7,46.2,73.1,sandy,groundnut,urea
+19,27,23,28.3,13.2,32.1,saline,rice,urea
+13,67,24,20.1,41.7,50.7,loamy,soybean,urea
+74,53,1,32.8,65.8,61.6,saline,rice,mop
+57,52,94,15.2,72.2,33.9,loamy,millet,mop
+22,96,54,39.1,26.0,78.9,peaty,wheat,urea
+83,38,23,23.6,53.3,32.5,peaty,maize,mop
+20,7,57,34.7,24.3,43.9,peaty,cotton,urea
+42,57,22,17.8,21.7,84.7,peaty,wheat,mop
+60,58,86,33.7,12.4,37.9,sandy,cotton,urea
+50,72,28,35.0,48.3,49.9,clay,wheat,mop
+58,37,50,20.6,11.9,73.6,sandy,millet,complex fertilizer
+76,96,34,22.4,84.1,61.2,peaty,sugarcane,urea
+78,56,58,22.4,16.7,23.7,saline,groundnut,dap
+82,79,71,34.5,57.1,62.2,sandy,wheat,superphosphate
+66,53,39,22.3,34.6,70.6,saline,millet,mop
+26,79,29,19.1,20.4,30.4,peaty,millet,urea
+54,90,85,27.6,42.3,73.7,sandy,millet,superphosphate
+56,9,91,37.8,49.2,61.9,loamy,rice,dap
+21,57,74,29.3,40.7,22.4,saline,cotton,urea
+58,50,55,30.9,27.1,63.6,sandy,maize,complex fertilizer
+53,72,8,15.7,23.9,53.8,clay,maize,mop
+10,61,49,35.1,10.5,29.4,peaty,cotton,urea
+66,72,53,33.3,19.6,61.3,saline,sorghum,mop
+87,20,82,28.4,46.4,50.8,loamy,sugarcane,dap
+15,84,99,33.6,66.4,43.6,sandy,wheat,urea
+14,22,7,32.7,71.2,87.9,clay,barley,urea
+11,4,57,36.7,65.4,44.3,saline,soybean,urea
+44,42,7,36.1,70.2,79.0,saline,barley,mop
+42,5,51,24.3,75.1,48.9,loamy,soybean,dap
+5,67,14,25.4,85.7,74.2,clay,sorghum,urea
+33,64,12,15.1,21.1,59.8,peaty,cotton,mop
+92,90,60,17.9,32.9,89.3,peaty,millet,superphosphate
+0,80,5,23.7,31.7,51.6,sandy,barley,urea
+76,11,40,24.2,61.7,58.4,loamy,rice,dap
+91,98,3,24.3,26.3,21.1,saline,wheat,mop
+49,51,1,38.1,64.2,78.1,saline,groundnut,mop
+78,23,28,18.1,47.9,41.0,saline,barley,dap
+12,30,68,33.5,25.2,69.8,saline,millet,urea
+58,14,70,35.6,63.0,72.8,peaty,millet,dap
+9,37,8,39.8,24.6,64.9,clay,maize,urea
+38,15,29,27.2,83.0,85.9,sandy,maize,dap
+26,79,88,24.3,34.5,31.6,clay,groundnut,urea
+81,94,95,35.4,43.8,36.0,saline,cotton,mop
+77,20,7,33.3,67.8,50.0,sandy,barley,dap
+63,83,21,26.8,84.3,44.1,peaty,sorghum,mop
+13,82,28,34.2,64.9,54.0,loamy,barley,urea
+99,3,65,21.7,65.7,46.1,loamy,barley,dap
+26,34,38,21.1,60.0,26.9,loamy,cotton,urea
+80,11,77,23.8,76.0,28.4,clay,barley,dap
+97,16,70,32.2,78.4,88.3,loamy,groundnut,dap
+20,96,36,25.9,80.6,68.3,clay,sorghum,urea
+17,98,58,20.5,84.3,30.9,sandy,sugarcane,urea
+60,63,12,29.8,38.6,82.9,clay,sorghum,mop
+15,69,88,24.4,78.1,88.6,peaty,maize,urea
+46,70,11,31.9,19.8,68.4,clay,wheat,mop
+15,73,52,16.8,68.8,27.1,sandy,wheat,urea
+62,36,79,18.7,69.3,70.0,clay,cotton,ammonium sulfate
+24,23,53,22.1,88.1,84.6,clay,groundnut,urea
+80,81,97,37.0,14.2,47.6,sandy,rice,dap
+66,91,97,25.7,38.6,75.2,peaty,barley,superphosphate
+28,95,52,16.1,66.6,81.1,sandy,rice,urea
+12,24,87,22.8,84.7,20.8,loamy,rice,urea
+94,54,92,24.7,57.5,75.0,peaty,millet,superphosphate
+10,52,7,18.6,70.3,40.1,sandy,soybean,urea
+16,54,45,36.2,78.9,29.2,loamy,barley,urea
+38,72,46,15.6,49.8,74.0,sandy,groundnut,mop
+78,38,80,32.6,22.3,63.9,loamy,rice,complex fertilizer
+56,70,97,29.8,87.1,72.3,clay,barley,superphosphate
+82,95,16,18.6,53.9,26.6,saline,soybean,mop
+5,52,88,36.8,24.7,33.8,saline,groundnut,urea
+39,80,19,23.0,69.7,37.4,peaty,soybean,mop
+53,41,4,24.4,12.4,84.2,sandy,sugarcane,mop
+97,10,5,35.0,86.3,84.0,sandy,wheat,dap
+85,88,43,39.0,65.2,66.5,saline,maize,ammonium sulfate
+36,35,97,34.6,71.4,26.3,clay,rice,dap
+75,31,37,34.6,24.9,57.9,peaty,sugarcane,urea
+39,63,50,18.8,78.4,31.3,sandy,barley,complex fertilizer
+41,21,39,35.6,61.2,36.1,clay,rice,dap
+56,71,44,37.3,51.0,54.5,saline,millet,mop
+43,22,84,38.9,52.3,82.1,sandy,barley,dap
+65,25,48,34.5,67.4,47.3,sandy,soybean,dap
+98,12,93,27.7,77.6,37.5,saline,sorghum,dap
+77,57,0,25.5,63.0,29.4,clay,rice,mop
+4,29,24,34.9,73.4,66.5,sandy,millet,urea
+55,11,4,17.1,44.6,77.1,peaty,millet,dap
+39,98,95,26.9,10.0,83.8,peaty,soybean,ammonium sulfate
+17,74,31,35.1,29.4,30.6,saline,cotton,urea
+21,17,5,20.3,76.2,64.5,saline,millet,urea
+90,53,86,19.1,84.8,57.5,sandy,maize,dap
+76,15,65,32.9,19.8,45.7,peaty,groundnut,dap
+60,96,60,23.9,87.4,24.0,loamy,rice,complex fertilizer
+55,27,6,27.8,50.8,30.8,peaty,rice,dap
+53,7,9,28.7,53.1,39.0,peaty,sorghum,dap
+32,76,59,35.0,73.7,82.4,sandy,groundnut,superphosphate
+21,47,99,23.0,24.4,58.6,clay,maize,urea
+23,96,18,17.8,52.5,60.3,clay,millet,urea
+10,63,62,22.8,20.3,51.1,loamy,soybean,urea
+93,0,75,23.7,12.3,29.7,clay,sugarcane,dap
+7,10,10,36.9,75.7,38.3,sandy,sugarcane,urea
+80,7,2,18.3,87.4,31.6,saline,rice,dap
+43,70,46,28.0,80.1,65.7,saline,rice,complex fertilizer
+10,56,24,29.0,13.7,73.4,sandy,cotton,urea
+79,83,39,27.9,50.1,56.9,clay,cotton,mop
+48,93,27,32.6,34.3,55.9,saline,sugarcane,mop
+77,15,84,29.3,89.2,32.8,sandy,cotton,dap
+16,9,76,39.2,30.9,52.9,peaty,sorghum,urea
+6,70,23,34.7,37.9,88.8,loamy,soybean,urea
+3,64,71,33.1,81.3,62.3,clay,sorghum,urea
+32,82,80,20.5,30.8,27.1,peaty,cotton,complex fertilizer
+80,98,5,23.3,84.5,49.4,peaty,soybean,mop
+91,6,60,38.3,86.0,22.4,sandy,groundnut,dap
+8,86,39,33.5,66.8,43.4,peaty,maize,urea
+88,46,50,16.5,26.8,46.2,peaty,sugarcane,complex fertilizer
+85,75,12,17.0,40.4,45.5,sandy,millet,mop
+19,19,61,21.9,23.9,43.8,clay,rice,urea
+4,5,52,21.0,81.0,79.7,sandy,groundnut,urea
+96,18,20,38.4,84.6,66.3,peaty,soybean,dap
+41,75,48,35.7,28.5,81.6,clay,maize,mop
+72,96,23,25.1,16.0,69.6,sandy,barley,mop
+37,28,97,17.8,72.5,45.4,loamy,barley,dap
+3,37,69,31.1,58.8,89.5,peaty,groundnut,urea
+44,11,63,22.6,63.8,47.7,sandy,sugarcane,dap
+97,9,73,32.4,75.0,59.9,peaty,barley,dap
+23,53,18,15.3,46.3,53.8,clay,groundnut,urea
+3,40,32,21.9,18.2,43.9,peaty,millet,urea
+79,39,22,20.5,78.8,78.9,loamy,cotton,mop
+23,2,98,27.3,13.5,72.8,saline,cotton,urea
+32,74,47,23.4,10.6,36.9,clay,cotton,ammonium sulfate
+49,83,44,29.4,83.8,67.1,loamy,sugarcane,dap
+18,56,39,38.6,42.4,37.8,loamy,millet,urea
+47,100,35,21.4,10.2,48.7,peaty,barley,urea
+91,94,77,26.1,17.2,35.6,loamy,groundnut,urea
+77,99,66,39.3,69.2,66.2,peaty,cotton,urea
+97,18,91,19.6,42.4,30.6,clay,soybean,dap
+17,1,20,39.0,48.8,69.1,peaty,sorghum,urea
+11,88,73,25.4,48.3,35.9,loamy,cotton,urea
+29,30,78,21.4,50.3,25.3,clay,groundnut,urea
+21,35,4,16.6,61.6,75.9,saline,barley,urea
+15,27,37,15.4,65.2,69.8,sandy,maize,urea
+35,3,6,36.4,62.5,37.3,loamy,maize,dap
+77,31,89,20.9,70.9,39.9,saline,rice,mop
+53,24,38,35.6,67.3,85.7,clay,sugarcane,dap
+14,94,95,32.9,11.4,38.7,clay,sorghum,urea
+99,34,34,31.2,48.7,25.4,sandy,sorghum,ammonium sulfate
+28,42,25,17.0,15.7,44.0,loamy,barley,urea
+42,64,74,20.8,37.7,84.5,saline,sugarcane,complex fertilizer
+14,5,84,35.4,37.5,30.8,loamy,cotton,urea
+13,55,33,17.6,88.0,23.2,peaty,millet,urea
+50,67,44,17.7,45.9,47.6,peaty,groundnut,complex fertilizer
+5,59,43,28.0,38.4,79.1,sandy,millet,urea
+82,63,56,38.7,54.4,21.6,saline,sugarcane,ammonium sulfate
+66,13,40,16.6,77.3,29.2,loamy,soybean,dap
+70,54,21,17.3,65.6,51.5,sandy,sorghum,mop
+44,55,49,37.4,38.4,22.3,clay,rice,dap
+53,0,88,24.4,21.7,71.6,loamy,sorghum,dap
+15,77,24,34.9,86.0,71.5,peaty,sugarcane,urea
+65,73,57,39.4,86.2,73.4,clay,maize,complex fertilizer
+95,36,90,21.3,38.1,41.0,sandy,millet,urea
+2,8,68,36.1,41.1,33.8,peaty,groundnut,urea
+45,15,50,16.4,76.6,40.2,sandy,maize,dap
+37,75,29,27.9,59.4,56.2,saline,cotton,mop
+70,15,13,20.4,37.8,56.3,sandy,sorghum,dap
+37,99,0,35.0,68.9,42.9,loamy,wheat,mop
+94,93,0,16.9,25.1,76.4,saline,groundnut,mop
+48,0,4,34.4,53.4,29.6,sandy,millet,dap
+32,2,59,28.8,70.0,49.9,peaty,groundnut,dap
+13,37,17,28.4,77.0,43.6,clay,sugarcane,urea
+31,92,67,38.0,59.1,36.7,loamy,millet,urea
+13,44,15,30.0,58.2,73.5,saline,sorghum,urea
+32,71,44,16.5,16.2,35.1,saline,soybean,superphosphate
+12,58,69,16.6,53.5,69.1,clay,sorghum,urea
+49,45,0,19.0,56.1,21.2,loamy,wheat,mop
+85,16,50,22.3,31.9,24.1,clay,millet,dap
+27,30,41,29.0,11.1,58.5,sandy,millet,urea
+92,3,85,21.3,42.1,78.8,saline,sugarcane,dap
+0,72,99,16.7,69.7,32.8,sandy,wheat,urea
+87,18,67,34.1,66.4,46.8,peaty,sugarcane,dap
+92,75,88,29.8,69.4,87.5,loamy,barley,mop
+40,57,40,16.5,13.4,70.7,saline,wheat,complex fertilizer
+85,78,85,28.2,80.8,74.9,sandy,cotton,complex fertilizer
+81,10,63,30.3,12.0,79.6,loamy,barley,dap
+60,11,58,24.6,40.0,70.4,peaty,rice,dap
+79,57,12,27.1,60.1,64.5,sandy,soybean,mop
+57,77,72,16.1,78.6,56.8,loamy,soybean,urea
+9,88,76,32.7,45.3,49.4,sandy,cotton,urea
+86,65,48,34.2,30.4,50.5,peaty,cotton,superphosphate
+100,30,34,16.8,86.0,58.2,peaty,millet,ammonium sulfate
+97,37,45,35.1,13.4,38.1,peaty,wheat,mop
+53,76,16,30.0,71.3,58.5,sandy,rice,mop
+80,39,96,29.9,56.6,43.9,saline,groundnut,superphosphate
+55,54,17,17.6,17.7,37.2,clay,cotton,mop
+61,87,57,16.5,84.5,55.6,saline,groundnut,mop
+36,93,36,31.6,74.4,47.7,loamy,maize,complex fertilizer
+89,71,4,35.3,79.6,78.1,sandy,millet,mop
+69,26,77,25.4,65.4,33.0,sandy,soybean,dap
+68,93,22,16.9,34.3,22.3,clay,groundnut,mop
+32,82,19,27.6,38.9,58.8,peaty,barley,mop
+40,69,83,34.5,75.9,85.9,clay,millet,urea
+66,94,21,17.6,50.3,85.0,saline,sorghum,mop
+82,5,44,26.0,26.0,82.3,clay,maize,dap
+17,81,35,18.9,48.2,41.6,saline,cotton,urea
+5,27,23,34.1,67.8,54.8,sandy,sugarcane,urea
+84,80,95,26.0,10.8,62.1,saline,groundnut,dap
+32,53,28,26.6,12.0,21.2,peaty,cotton,mop
+91,23,93,25.4,43.4,88.0,saline,groundnut,dap
+53,13,99,19.3,45.8,65.2,peaty,barley,dap
+23,11,51,33.8,55.8,44.1,peaty,millet,urea
+50,5,51,39.2,84.7,72.8,clay,sugarcane,dap
+13,64,18,33.3,81.5,55.5,saline,millet,urea
+42,71,43,31.3,18.5,32.9,peaty,maize,dap
+14,30,11,33.9,42.3,65.6,saline,soybean,urea
+43,67,19,26.7,87.4,82.4,loamy,sorghum,mop
+76,79,69,19.2,20.1,75.0,sandy,barley,dap
+83,32,78,27.8,19.8,47.3,loamy,sorghum,ammonium sulfate
+39,15,51,36.4,67.7,53.5,sandy,barley,dap
+10,17,24,30.9,73.1,72.5,sandy,sugarcane,urea
+65,17,23,31.0,13.8,44.8,saline,cotton,dap
+90,53,77,32.5,59.6,71.1,sandy,cotton,ammonium sulfate
+2,34,12,31.2,40.6,30.1,saline,millet,urea
+54,15,84,23.4,39.2,48.3,saline,cotton,dap
+21,68,70,22.0,11.3,24.5,loamy,rice,urea
+76,10,16,16.6,11.8,78.3,clay,soybean,dap
+61,48,33,39.8,35.4,58.6,clay,millet,superphosphate
+66,12,11,23.2,44.7,40.1,peaty,millet,dap
+100,57,67,26.4,63.1,48.8,clay,wheat,superphosphate
+79,17,58,34.0,13.2,73.5,sandy,millet,dap
+65,95,100,26.8,11.4,26.7,sandy,wheat,complex fertilizer
+24,61,31,21.1,69.8,76.2,saline,wheat,urea
+48,4,50,35.8,18.6,84.3,clay,millet,dap
+63,47,64,15.9,62.4,43.1,sandy,cotton,urea
+99,86,92,28.4,37.4,21.9,sandy,sorghum,dap
+17,27,73,18.6,50.4,86.4,peaty,barley,urea
+90,62,40,37.3,89.5,31.0,clay,rice,complex fertilizer
+52,75,74,29.9,63.3,53.6,clay,sorghum,ammonium sulfate
+35,8,9,38.2,10.4,72.2,loamy,maize,dap
+45,23,36,34.3,39.9,42.1,clay,rice,dap
+93,37,38,29.1,64.6,62.4,clay,maize,superphosphate
+32,70,39,24.4,23.1,71.5,clay,wheat,mop
+5,57,30,18.9,71.5,54.8,clay,groundnut,urea
+86,93,2,26.5,31.1,29.0,clay,cotton,mop
+42,32,76,27.8,13.9,45.3,peaty,maize,dap
+51,7,20,28.4,13.7,84.6,saline,soybean,dap
+15,79,72,20.6,21.0,66.2,clay,sorghum,urea
+17,50,31,17.3,35.0,39.4,peaty,wheat,urea
+0,65,75,31.4,36.9,53.2,loamy,cotton,urea
+12,6,26,16.7,59.4,20.9,loamy,barley,urea
+72,26,2,16.3,16.4,69.6,saline,wheat,dap
+91,12,10,18.1,17.3,28.1,sandy,cotton,dap
+3,73,67,16.4,15.4,72.1,peaty,sorghum,urea
+80,85,10,34.7,61.7,70.6,saline,millet,mop
+44,15,80,29.5,45.2,71.2,peaty,cotton,dap
+39,52,3,36.1,71.9,51.2,sandy,wheat,mop
+33,91,73,31.7,40.5,51.1,clay,soybean,dap
+41,30,69,31.4,71.2,65.8,peaty,cotton,mop
+0,88,39,22.3,51.1,22.1,peaty,maize,urea
+33,21,47,32.9,73.6,41.2,clay,millet,dap
+51,98,52,31.2,54.6,75.1,clay,millet,ammonium sulfate
+13,70,100,23.0,83.8,37.4,clay,barley,urea
+77,24,68,36.1,67.6,55.2,clay,sorghum,dap
+87,97,63,22.3,85.6,57.5,sandy,soybean,superphosphate
+14,17,0,19.9,15.4,73.5,sandy,sorghum,urea
+74,65,23,30.3,13.5,62.6,sandy,wheat,mop
+45,97,36,28.5,19.1,60.8,saline,rice,superphosphate
+20,18,12,29.9,12.8,55.4,clay,sorghum,urea
+13,56,32,22.2,67.4,34.5,loamy,rice,urea
+59,79,78,37.3,42.1,49.0,saline,maize,complex fertilizer
+0,27,42,18.3,44.0,36.8,clay,rice,urea
+41,26,76,15.8,28.2,58.4,peaty,groundnut,dap
+34,26,40,22.4,80.7,62.4,clay,sorghum,dap
+88,30,87,25.8,37.5,80.9,saline,rice,mop
+27,23,83,18.5,42.6,83.7,saline,soybean,urea
+80,9,65,37.9,63.8,66.5,clay,maize,dap
+2,79,62,34.3,31.7,55.6,clay,rice,urea
+39,50,8,35.1,58.1,37.7,sandy,sorghum,mop
+76,66,13,39.6,12.7,37.0,peaty,sugarcane,mop
+91,26,69,20.1,52.3,47.6,saline,maize,dap
+33,4,15,39.0,25.0,68.5,saline,barley,dap
+11,89,52,26.9,55.7,52.3,peaty,soybean,urea
+52,98,42,20.8,12.2,87.3,peaty,maize,mop
+18,76,40,22.9,69.0,59.6,clay,sugarcane,urea
+44,49,81,39.6,69.6,42.4,sandy,groundnut,superphosphate
+67,67,47,34.2,37.3,22.6,clay,sorghum,dap
+67,38,2,35.4,11.8,84.6,loamy,cotton,mop
+57,46,59,15.9,16.3,86.7,sandy,barley,mop
+10,66,13,36.6,17.6,58.5,sandy,sorghum,urea
+22,75,70,28.5,24.0,37.0,clay,millet,urea
+65,54,14,21.7,66.3,40.6,clay,cotton,mop
+14,51,71,16.6,49.4,68.9,clay,rice,urea
+97,25,76,24.6,30.0,50.6,loamy,barley,dap
+26,64,92,39.8,71.8,42.1,loamy,maize,urea
+88,33,34,35.8,44.9,25.0,clay,soybean,mop
+42,40,42,33.1,59.5,60.1,loamy,cotton,dap
+78,32,97,29.8,60.0,46.3,clay,rice,ammonium sulfate
+52,100,3,37.6,62.5,56.7,loamy,maize,mop
+76,81,36,31.5,76.2,42.4,sandy,soybean,complex fertilizer
+11,33,39,16.9,58.7,87.6,saline,soybean,urea
+46,19,70,27.6,63.4,53.1,peaty,wheat,dap
+36,28,22,36.9,43.7,22.9,saline,cotton,dap
+80,9,77,15.2,57.9,63.5,saline,rice,dap
+49,42,63,38.8,75.4,80.6,sandy,groundnut,ammonium sulfate
+43,79,28,28.0,13.3,77.7,sandy,soybean,mop
+53,74,13,25.2,19.0,80.2,sandy,maize,mop
+21,94,39,30.5,73.8,25.6,sandy,soybean,urea
+6,99,54,18.8,72.3,41.3,loamy,wheat,urea
+91,4,81,16.1,28.9,43.3,loamy,soybean,dap
+86,33,14,35.9,15.1,64.6,saline,maize,mop
+69,30,62,35.2,77.6,72.4,loamy,soybean,dap
+11,75,94,31.7,71.9,67.1,clay,cotton,urea
+24,66,78,25.5,64.9,22.3,peaty,groundnut,urea
+65,87,69,17.3,38.0,75.0,peaty,soybean,mop
+23,37,100,22.1,61.5,89.9,saline,rice,urea
+94,37,27,30.1,24.0,66.5,sandy,cotton,mop
+12,26,58,36.7,85.1,21.9,saline,wheat,urea
+5,100,4,17.0,44.9,39.6,loamy,soybean,urea
+20,38,33,19.9,69.2,32.1,sandy,sorghum,urea
+60,54,9,32.3,85.9,57.2,loamy,barley,mop
+65,60,53,26.1,69.1,80.4,peaty,groundnut,mop
+54,1,77,35.1,40.9,81.4,sandy,wheat,dap
+9,9,82,33.1,75.9,33.7,clay,millet,urea
+96,41,60,35.6,28.2,36.6,sandy,cotton,ammonium sulfate
+86,75,32,35.7,86.7,53.2,sandy,cotton,mop
+21,71,3,29.7,82.2,34.5,saline,wheat,urea
+14,55,52,27.2,55.6,43.1,saline,groundnut,urea
+5,61,10,26.7,22.5,63.9,peaty,cotton,urea
+30,76,92,35.9,69.3,56.3,sandy,sorghum,dap
+83,98,72,19.3,59.9,83.1,saline,rice,superphosphate
+40,45,91,24.1,16.5,89.4,sandy,millet,urea
+65,39,46,22.3,10.7,87.6,saline,sorghum,dap
+15,74,49,17.2,34.6,46.6,saline,soybean,urea
+20,49,40,20.3,30.7,66.5,loamy,soybean,urea
+76,19,51,24.5,17.1,31.7,clay,soybean,dap
+70,36,68,34.9,81.4,83.0,saline,soybean,ammonium sulfate
+68,0,48,15.9,19.7,66.1,loamy,cotton,dap
+5,43,27,15.7,51.8,65.8,sandy,millet,urea
+27,67,99,25.0,26.5,48.6,sandy,wheat,urea
+98,61,14,24.0,59.1,31.3,loamy,barley,mop
+77,43,37,35.4,41.9,69.5,sandy,sugarcane,complex fertilizer
+32,53,65,26.1,67.8,77.2,sandy,wheat,dap
+50,11,75,26.4,30.7,77.3,saline,sorghum,dap
+6,58,58,39.6,11.6,74.7,sandy,wheat,urea
+30,85,8,18.8,58.9,67.3,sandy,sugarcane,mop
+58,43,63,24.8,84.3,21.6,saline,groundnut,superphosphate
+16,48,9,18.1,85.1,23.8,peaty,millet,urea
+67,79,57,37.7,33.4,77.6,sandy,sugarcane,ammonium sulfate
+74,62,50,36.3,70.9,60.0,clay,groundnut,mop
+67,57,26,22.3,24.8,55.9,loamy,cotton,mop
+14,68,8,35.7,18.2,67.9,loamy,soybean,urea
+62,56,10,22.0,67.5,64.4,loamy,maize,mop
+57,76,50,21.3,46.8,50.8,loamy,cotton,complex fertilizer
+56,45,73,20.4,61.9,30.3,peaty,barley,superphosphate
+24,20,39,26.1,60.4,67.1,sandy,cotton,urea
+90,9,43,22.4,41.0,53.3,clay,millet,dap
+91,92,50,27.8,49.7,32.0,loamy,rice,complex fertilizer
+92,97,33,32.8,60.8,34.8,clay,sugarcane,urea
+35,55,66,15.6,36.8,76.0,clay,groundnut,dap
+92,18,88,21.5,21.6,48.9,peaty,groundnut,dap
+63,10,19,24.3,89.8,55.2,sandy,sugarcane,dap
+98,19,43,29.3,57.1,61.0,loamy,soybean,dap
+53,82,63,23.0,64.0,62.5,clay,barley,complex fertilizer
+92,38,27,34.7,44.3,26.1,peaty,groundnut,mop
+3,82,34,22.7,30.9,65.4,sandy,barley,urea
+78,26,47,31.5,24.4,43.4,loamy,maize,dap
+48,79,34,36.3,73.4,25.7,sandy,rice,ammonium sulfate
+69,25,27,29.3,39.3,39.6,peaty,sugarcane,dap
+96,49,47,20.6,56.1,47.5,saline,rice,urea
+90,78,15,19.5,36.2,71.2,sandy,barley,mop
+17,37,85,32.1,57.8,25.0,saline,groundnut,urea
+31,3,26,24.3,72.3,34.0,loamy,soybean,dap
+74,92,88,30.0,76.9,85.7,loamy,soybean,ammonium sulfate
+36,16,53,33.8,89.9,86.0,peaty,barley,dap
+63,52,92,20.2,51.3,33.3,loamy,sugarcane,ammonium sulfate
+6,21,0,38.9,58.9,50.3,saline,rice,urea
+75,92,54,17.5,86.1,39.1,clay,sugarcane,ammonium sulfate
+11,6,38,19.6,27.9,40.6,saline,groundnut,urea
+52,78,84,24.0,71.5,79.8,peaty,wheat,urea
+41,99,65,28.2,73.0,57.8,clay,millet,dap
+67,27,90,31.2,19.8,24.4,sandy,sugarcane,dap
+37,13,77,22.4,67.3,37.9,sandy,barley,dap
+60,59,66,30.8,73.1,44.1,peaty,rice,urea
+45,43,11,37.2,75.2,25.4,sandy,sorghum,mop
+27,96,29,26.9,76.0,84.5,clay,wheat,urea
+33,51,36,22.5,88.4,61.3,loamy,sorghum,ammonium sulfate
+57,27,85,24.2,15.7,26.7,peaty,millet,dap
+49,89,75,20.7,17.4,58.1,peaty,cotton,mop
+64,45,97,34.2,16.0,45.5,peaty,groundnut,superphosphate
+9,93,48,30.1,13.6,29.7,loamy,barley,urea
+59,0,36,34.0,23.2,80.3,saline,groundnut,dap
+83,56,32,30.6,62.1,26.5,peaty,sugarcane,superphosphate
+36,1,31,33.0,22.6,36.9,peaty,sorghum,dap
+54,35,28,26.3,76.5,31.7,peaty,millet,mop
+9,57,88,37.1,10.3,66.2,sandy,groundnut,urea
+45,33,2,38.2,36.6,54.9,saline,millet,mop
+55,49,72,33.0,28.9,50.6,saline,millet,superphosphate
+67,84,44,20.8,89.8,48.0,clay,cotton,mop
+69,50,89,18.6,28.8,54.2,clay,sorghum,urea
+53,98,29,24.9,18.8,60.2,clay,soybean,mop
+27,18,40,27.1,53.6,60.5,clay,soybean,urea
+1,58,38,16.4,43.8,68.0,loamy,wheat,urea
+11,37,11,22.5,36.1,61.7,sandy,wheat,urea
+91,53,83,26.7,75.3,63.4,saline,millet,complex fertilizer
+11,97,41,30.6,17.3,34.2,sandy,soybean,urea
+89,99,23,38.5,71.5,30.1,saline,sugarcane,mop
+6,76,82,33.7,74.7,66.2,sandy,groundnut,urea
+24,71,45,29.6,51.4,54.5,saline,cotton,urea
+84,56,42,21.2,76.1,26.7,saline,cotton,complex fertilizer
+93,64,75,30.2,86.5,64.2,loamy,maize,ammonium sulfate
+90,95,7,30.7,34.5,75.4,loamy,barley,mop
+68,11,2,30.2,74.9,66.4,clay,barley,dap
+97,16,50,22.9,55.1,67.9,clay,sugarcane,dap
+62,95,41,32.5,17.2,36.1,saline,wheat,complex fertilizer
+67,43,37,22.3,47.4,24.7,clay,sorghum,urea
+60,91,80,36.8,40.5,82.4,saline,millet,superphosphate
+69,86,13,18.4,43.2,44.5,loamy,sugarcane,mop
+36,60,49,35.3,38.8,42.5,peaty,groundnut,dap
+40,52,82,18.8,68.6,62.4,saline,rice,superphosphate
+12,97,57,23.5,69.3,42.3,loamy,groundnut,urea
+38,64,87,21.8,44.4,40.4,loamy,barley,superphosphate
+9,56,64,37.6,20.9,50.4,loamy,millet,urea
+97,61,40,37.3,13.7,32.0,peaty,maize,dap
+3,59,65,25.5,31.8,76.3,loamy,maize,urea
+33,89,62,33.3,65.7,26.2,peaty,millet,ammonium sulfate
+59,29,13,15.4,47.0,59.6,loamy,sugarcane,dap
+30,30,70,16.1,55.8,57.9,peaty,sorghum,mop
+42,51,69,37.3,79.4,68.2,sandy,wheat,complex fertilizer
+53,52,57,33.5,61.0,38.0,saline,soybean,dap
+18,2,62,18.9,17.1,28.0,clay,sorghum,urea
+24,21,59,31.5,48.6,25.9,clay,groundnut,urea
+35,100,79,35.8,63.4,73.4,clay,groundnut,mop
+18,1,20,27.7,58.1,39.3,sandy,barley,urea
+86,49,25,22.6,15.9,43.1,loamy,barley,mop
+40,94,45,32.7,59.1,33.3,sandy,rice,dap
+70,94,5,21.7,18.5,73.2,clay,millet,mop
+82,26,86,30.3,46.1,77.1,saline,millet,dap
+74,36,98,16.4,22.4,56.1,sandy,sugarcane,mop
+46,14,49,24.8,83.6,25.2,peaty,maize,dap
+55,53,46,17.2,63.4,70.6,clay,sugarcane,urea
+41,25,89,16.5,10.8,45.1,peaty,millet,dap
+44,41,13,37.7,10.3,31.8,peaty,wheat,mop
+46,68,15,40.0,35.5,63.1,clay,sugarcane,mop
+93,8,43,30.1,87.0,32.0,sandy,barley,dap
+61,5,61,15.1,64.9,43.6,sandy,sorghum,dap
+54,72,22,39.2,82.6,46.3,peaty,groundnut,mop
+44,46,14,26.1,33.9,55.7,peaty,maize,mop
+55,74,84,27.3,70.8,83.8,saline,wheat,mop
+77,16,41,37.8,18.6,65.7,peaty,millet,dap
+99,81,22,31.8,22.8,38.6,clay,cotton,mop
+57,5,57,38.2,10.9,48.1,clay,sorghum,dap
+53,45,57,24.0,49.8,30.7,clay,sorghum,complex fertilizer
+78,33,37,15.2,64.1,25.3,sandy,sorghum,dap
+42,23,45,28.8,79.4,21.4,clay,millet,dap
+94,15,73,39.4,36.7,62.6,sandy,maize,dap
+55,12,94,22.1,83.8,89.6,saline,soybean,dap
+79,62,36,36.3,59.1,55.3,loamy,soybean,ammonium sulfate
+34,39,79,27.7,52.9,44.7,clay,groundnut,ammonium sulfate
+71,98,10,15.5,66.3,57.4,clay,maize,mop
+43,95,31,25.8,24.4,52.6,loamy,maize,urea
+4,25,73,30.9,16.6,27.7,loamy,rice,urea
+13,43,33,37.2,80.1,52.6,loamy,soybean,urea
+8,46,41,35.1,86.5,86.2,saline,groundnut,urea
+6,86,94,16.8,16.6,54.5,saline,cotton,urea
+28,54,95,21.2,39.4,42.9,sandy,maize,urea
+53,98,63,29.8,31.5,60.2,loamy,groundnut,complex fertilizer
+2,95,2,20.6,13.0,31.6,clay,sorghum,urea
+99,55,52,33.8,59.3,44.6,clay,soybean,dap
+47,64,17,18.1,29.1,60.6,sandy,groundnut,mop
+88,4,55,21.9,14.6,81.2,clay,groundnut,dap
+14,80,36,15.7,75.5,73.9,peaty,millet,urea
+73,98,90,24.7,64.7,54.8,sandy,wheat,superphosphate
+79,77,81,34.9,66.8,67.4,loamy,barley,ammonium sulfate
+41,93,25,30.1,70.3,75.5,sandy,barley,mop
+99,19,4,24.5,78.3,61.2,saline,rice,dap
+49,40,80,18.1,47.1,65.1,peaty,groundnut,mop
+69,57,72,21.4,35.3,23.9,peaty,sorghum,urea
+66,68,44,38.2,79.9,76.4,sandy,wheat,urea
+68,33,16,29.0,71.0,41.2,sandy,rice,mop
+98,95,47,24.6,52.3,25.2,saline,maize,urea
+100,37,57,29.4,47.7,68.0,loamy,cotton,mop
+2,21,87,39.0,60.5,53.9,peaty,maize,urea
+49,38,59,17.4,57.4,23.9,loamy,rice,mop
+0,87,56,29.4,88.0,66.1,sandy,groundnut,urea
+43,9,66,18.1,68.4,24.5,loamy,sorghum,dap
+55,22,12,30.7,82.4,50.4,loamy,rice,dap
+6,71,86,23.2,69.7,36.4,peaty,sugarcane,urea
+59,2,70,23.3,77.4,70.1,peaty,maize,dap
+43,5,4,16.7,46.0,58.9,clay,maize,dap
+59,39,74,20.7,57.2,65.5,clay,sorghum,urea
+62,17,52,22.6,67.8,30.2,saline,maize,dap
+50,33,9,18.5,59.1,69.0,peaty,barley,mop
+4,50,10,15.7,66.8,84.8,saline,maize,urea
+73,10,54,17.1,78.3,46.4,clay,barley,dap
+51,22,83,18.9,11.1,76.6,clay,sugarcane,dap
+53,34,30,31.7,25.9,55.3,loamy,millet,superphosphate
+9,41,53,23.6,19.7,56.8,clay,rice,urea
+18,44,65,32.9,85.4,31.2,peaty,maize,urea
+83,30,93,35.6,67.5,28.6,clay,maize,ammonium sulfate
+76,27,88,37.6,19.8,66.2,peaty,cotton,dap
+27,56,28,37.9,39.6,62.6,clay,soybean,urea
+49,18,91,30.8,80.3,37.5,saline,rice,dap
+45,74,25,38.1,17.2,69.0,clay,maize,mop
+20,78,15,23.5,34.0,64.6,loamy,wheat,urea
+36,92,92,17.7,75.7,66.6,loamy,wheat,urea
+54,50,11,31.3,74.3,58.7,clay,groundnut,mop
+30,94,37,35.1,10.9,71.8,saline,sugarcane,complex fertilizer
+6,22,24,29.8,56.3,78.4,saline,soybean,urea
+31,8,31,33.3,53.5,53.4,loamy,wheat,dap
+81,35,33,33.5,66.8,55.1,peaty,sugarcane,superphosphate
+38,13,92,16.9,86.4,59.8,sandy,millet,dap
+74,11,22,31.9,65.2,67.9,saline,wheat,dap
+27,0,35,25.0,14.3,49.9,sandy,soybean,urea
+29,1,80,19.3,31.4,74.6,sandy,sugarcane,urea
+63,66,21,20.7,68.8,44.0,loamy,rice,mop
+64,67,22,36.4,17.2,88.5,peaty,groundnut,mop
+1,96,92,21.4,50.1,54.5,sandy,millet,urea
+75,18,36,32.1,46.6,51.3,saline,rice,dap
+18,31,9,19.4,56.1,54.7,clay,rice,urea
+24,62,27,38.9,75.8,42.3,loamy,maize,urea
+60,0,52,17.1,55.6,56.0,clay,wheat,dap
+81,98,31,23.6,17.7,56.5,saline,rice,complex fertilizer
+27,43,80,39.6,39.9,27.5,peaty,barley,urea
+62,92,100,35.7,24.7,49.0,sandy,sugarcane,dap
+20,28,90,22.8,12.5,44.7,loamy,soybean,urea
+94,98,92,24.0,75.3,64.2,saline,groundnut,superphosphate
+20,56,17,16.0,41.7,21.7,sandy,sorghum,urea
+46,38,16,26.3,39.7,78.2,clay,millet,mop
+49,13,12,21.5,62.9,41.6,saline,rice,dap
+14,33,26,28.8,41.7,41.7,sandy,millet,urea
+82,54,27,15.2,46.3,21.6,sandy,rice,mop
+69,86,23,24.5,45.0,61.8,clay,rice,mop
+75,39,6,17.8,56.0,29.7,peaty,millet,mop
+19,39,59,18.5,75.9,39.6,loamy,millet,urea
+20,24,53,38.4,39.9,29.3,loamy,barley,urea
+90,68,8,27.0,19.7,48.7,sandy,wheat,mop
+78,10,33,29.6,53.8,59.0,loamy,rice,dap
+43,84,51,34.3,53.2,73.5,peaty,soybean,urea
+100,45,52,24.7,83.3,58.9,sandy,barley,dap
+25,72,63,26.6,23.1,27.5,peaty,cotton,urea
+15,92,73,16.6,39.6,31.4,saline,groundnut,urea
+85,5,5,33.2,75.1,70.2,clay,rice,dap
+49,36,12,24.3,32.6,28.1,clay,cotton,mop
+99,61,66,18.5,47.4,45.2,saline,barley,complex fertilizer
+5,89,96,32.7,54.3,24.4,sandy,cotton,urea
+42,39,67,37.3,62.8,40.3,sandy,barley,urea
+90,75,18,38.7,72.4,26.4,sandy,sugarcane,mop
+11,17,34,15.9,27.4,20.2,clay,barley,urea
+48,37,14,27.7,70.4,65.9,clay,millet,mop
+88,81,16,31.4,12.4,83.5,peaty,sugarcane,mop
+98,44,49,19.0,37.7,62.3,clay,millet,complex fertilizer
+30,44,2,37.6,88.4,43.5,clay,sorghum,mop
+34,80,43,37.2,62.3,69.2,clay,groundnut,mop
+38,96,13,17.8,45.1,23.4,sandy,cotton,mop
+44,48,9,29.8,27.0,20.8,clay,millet,mop
+93,72,3,30.9,61.2,31.2,saline,wheat,mop
+27,57,46,30.8,37.9,61.1,loamy,barley,urea
+73,83,97,31.4,86.7,51.6,clay,sorghum,mop
+5,50,32,21.6,44.9,55.1,saline,soybean,urea
+19,2,44,19.8,82.5,22.4,loamy,wheat,urea
+60,28,88,29.3,26.8,78.2,loamy,groundnut,dap
+78,14,31,20.9,15.8,70.6,clay,groundnut,dap
+30,4,1,24.3,67.4,76.4,clay,sugarcane,dap
+22,74,82,20.0,72.9,31.6,saline,soybean,urea
+69,42,68,33.9,50.7,33.1,loamy,wheat,urea
+78,23,76,18.2,16.0,63.3,loamy,millet,dap
+11,38,95,28.8,70.8,63.8,saline,millet,urea
+28,28,45,19.5,44.0,61.9,peaty,rice,urea
+43,15,6,16.1,88.8,66.8,clay,millet,dap
+83,2,19,19.6,69.5,77.5,sandy,soybean,dap
+0,26,17,30.6,49.6,41.2,saline,millet,urea
+100,23,45,29.8,12.0,88.5,loamy,millet,dap
+24,42,38,15.5,24.6,69.2,clay,barley,urea
+13,17,16,34.4,23.3,75.7,peaty,soybean,urea
+29,74,17,28.7,44.4,56.6,clay,barley,urea
+49,71,31,33.2,20.1,68.5,peaty,rice,dap
+58,39,44,36.4,34.7,34.6,sandy,millet,superphosphate
+5,38,94,30.9,75.9,23.8,loamy,rice,urea
+88,79,40,18.1,57.4,80.7,saline,sorghum,complex fertilizer
+88,53,66,15.9,64.4,80.5,loamy,soybean,mop
+70,31,25,32.6,87.3,64.2,saline,soybean,mop
+24,10,2,35.4,55.2,76.8,saline,barley,urea
+32,99,77,20.2,84.4,27.1,clay,sorghum,mop
+78,94,48,27.3,23.9,88.9,loamy,cotton,mop
+9,8,30,39.5,21.2,30.0,saline,sorghum,urea
+4,3,22,36.0,80.8,41.3,peaty,wheat,urea
+13,98,17,22.4,47.2,20.8,loamy,sugarcane,urea
+14,53,23,24.0,76.1,60.8,loamy,millet,urea
+89,83,69,21.9,31.8,64.1,loamy,sugarcane,ammonium sulfate
+47,56,41,39.3,82.1,89.9,clay,cotton,complex fertilizer
+13,80,83,22.1,80.3,82.3,sandy,rice,urea
+100,32,0,28.4,66.7,84.2,peaty,groundnut,mop
+29,69,81,24.4,14.9,25.0,clay,cotton,urea
+8,23,97,21.4,12.8,48.9,clay,soybean,urea
+96,88,48,30.5,56.1,37.3,peaty,barley,ammonium sulfate
+54,23,53,26.4,35.6,34.2,peaty,sugarcane,dap
+10,57,92,38.8,25.1,49.7,saline,barley,urea
+7,8,3,16.3,68.1,82.7,saline,maize,urea
+29,32,72,15.8,36.9,46.5,clay,cotton,urea
+37,88,91,32.9,22.5,73.1,peaty,groundnut,dap
+82,80,56,37.5,48.8,52.2,loamy,maize,dap
+31,99,19,16.5,71.0,30.1,saline,sugarcane,mop
+85,40,83,31.6,80.9,72.8,loamy,cotton,mop
+20,73,84,16.9,35.9,45.7,peaty,barley,urea
+29,49,38,18.5,25.0,75.5,peaty,millet,urea
+15,27,25,18.1,69.5,29.0,sandy,soybean,urea
+64,46,33,39.0,55.3,77.9,clay,barley,ammonium sulfate
+53,42,41,37.1,89.6,73.9,sandy,sorghum,complex fertilizer
+44,94,67,38.2,41.5,88.6,saline,sorghum,ammonium sulfate
+55,80,22,30.3,71.3,22.6,saline,sugarcane,mop
+29,6,26,29.8,13.2,46.3,saline,maize,urea
+30,88,28,23.5,21.6,85.6,sandy,millet,mop
+9,44,93,26.7,47.4,84.6,saline,soybean,urea
+5,77,25,18.0,12.1,48.2,loamy,cotton,urea
+10,70,91,39.6,38.1,56.7,peaty,wheat,urea
+41,68,53,33.7,32.6,79.6,clay,soybean,urea
+62,53,7,18.8,53.9,20.2,loamy,wheat,mop
+23,58,2,20.2,87.5,51.7,loamy,barley,urea
+48,8,51,25.3,13.4,56.9,loamy,soybean,dap
+92,10,23,28.7,10.7,42.3,peaty,groundnut,dap
+63,9,17,37.4,60.1,71.8,clay,wheat,dap
+91,10,40,39.7,73.9,86.2,peaty,sugarcane,dap
+55,44,11,17.1,38.2,42.7,loamy,sugarcane,mop
+78,27,33,35.7,16.9,60.2,saline,maize,dap
+24,80,11,38.6,38.2,63.0,clay,sorghum,urea
+25,48,12,31.9,23.5,75.0,saline,groundnut,urea
+0,20,23,24.7,19.3,70.7,sandy,maize,urea
+86,85,63,27.7,39.7,88.9,sandy,wheat,mop
+93,55,97,35.3,42.1,33.5,peaty,rice,ammonium sulfate
+8,67,17,39.6,87.4,37.1,peaty,cotton,urea
+43,68,0,19.9,48.4,57.8,saline,sugarcane,mop
+66,42,31,33.8,77.8,84.8,peaty,sugarcane,dap
+60,24,75,20.9,35.7,70.4,saline,sugarcane,dap
+64,63,37,39.2,15.1,49.0,saline,millet,mop
+12,62,43,24.6,75.0,69.8,peaty,groundnut,urea
+57,75,70,21.6,23.3,33.1,saline,millet,urea
+17,98,58,23.9,62.8,78.6,peaty,cotton,urea
+23,64,25,20.8,25.7,88.1,peaty,barley,urea
+53,10,26,24.2,72.2,63.9,saline,barley,dap
+36,98,7,25.2,31.9,53.0,sandy,sorghum,mop
+36,0,38,27.6,38.0,70.9,clay,soybean,dap
+13,45,2,19.7,63.1,50.4,saline,soybean,urea
+14,89,10,17.5,12.6,56.9,clay,sugarcane,urea
+10,91,61,37.4,20.8,69.9,sandy,millet,urea
+22,2,82,18.8,25.5,67.8,loamy,sugarcane,urea
+34,27,48,33.8,78.1,41.2,clay,sorghum,dap
+86,93,25,35.7,49.2,25.9,loamy,wheat,mop
+58,90,40,18.3,45.8,33.9,peaty,barley,superphosphate
+63,40,85,27.9,88.7,84.0,clay,wheat,mop
+53,16,69,17.8,88.7,81.4,saline,soybean,dap
+40,50,35,20.7,13.0,25.9,sandy,millet,mop
+98,59,69,27.9,72.4,70.3,sandy,rice,dap
+61,68,94,21.5,10.5,47.9,clay,barley,mop
+11,61,62,24.2,85.2,30.7,peaty,sorghum,urea
+42,15,3,18.3,46.6,33.4,saline,groundnut,dap
+51,98,68,33.7,23.1,43.4,loamy,rice,dap
+34,12,61,35.8,79.5,77.8,clay,wheat,dap
+56,33,0,17.8,52.9,45.1,sandy,cotton,mop
+47,75,85,32.7,83.6,85.2,clay,wheat,superphosphate
+88,71,33,26.9,41.4,59.4,sandy,barley,dap
+76,64,67,30.5,50.9,67.8,sandy,soybean,dap
+44,0,54,39.2,84.8,35.0,saline,barley,dap
+27,19,29,35.5,30.4,28.7,sandy,sugarcane,urea
+40,93,91,17.1,50.5,26.1,clay,wheat,superphosphate
+9,19,12,24.9,64.0,59.3,clay,cotton,urea
+91,86,11,32.4,52.8,74.2,peaty,cotton,mop
+86,44,30,15.5,80.8,60.5,loamy,wheat,superphosphate
+54,83,9,15.3,56.0,64.8,sandy,soybean,mop
+80,15,26,38.5,59.3,37.4,saline,sorghum,dap
+89,45,67,37.3,27.5,20.2,loamy,sorghum,urea
+69,2,94,17.9,44.0,82.7,saline,groundnut,dap
+69,28,41,24.2,87.2,26.5,saline,wheat,dap
+14,89,13,18.5,16.7,88.3,clay,barley,urea
+96,77,1,34.7,75.2,83.9,clay,maize,mop
+95,88,19,28.5,62.6,84.3,saline,maize,mop
+55,30,3,30.0,11.0,45.2,sandy,millet,mop
+26,99,84,26.6,10.3,60.5,loamy,sugarcane,urea
+100,6,41,19.8,16.3,32.7,peaty,sugarcane,dap
+94,61,86,38.7,60.5,88.6,clay,sorghum,dap
+96,31,80,32.4,17.0,75.9,sandy,sorghum,complex fertilizer
+96,52,7,30.5,83.2,75.3,peaty,sugarcane,mop
+44,55,78,22.4,87.1,55.2,saline,rice,urea
+82,2,27,31.1,25.7,26.6,sandy,sugarcane,dap
+18,27,44,15.8,69.6,80.3,sandy,groundnut,urea
+52,34,45,15.4,57.2,75.9,saline,wheat,dap
+49,8,83,37.3,16.4,85.2,peaty,millet,dap
+68,33,83,22.1,34.6,60.0,peaty,millet,ammonium sulfate
+27,41,33,37.8,83.3,64.9,peaty,groundnut,urea
+45,15,59,36.9,67.2,55.4,sandy,rice,dap
+76,78,17,22.4,78.2,78.4,peaty,groundnut,mop
+79,28,60,21.3,15.3,43.2,loamy,sugarcane,dap
+23,38,75,18.0,62.0,59.3,saline,groundnut,urea
+8,71,12,39.3,75.8,74.3,sandy,cotton,urea
+86,15,17,31.1,52.4,74.9,loamy,millet,dap
+0,23,52,35.9,20.7,35.2,clay,sorghum,urea
+23,17,24,17.6,15.7,32.5,peaty,sorghum,urea
+100,11,45,32.6,80.4,73.8,clay,soybean,dap
+57,19,34,35.6,39.8,80.4,saline,cotton,dap
+90,29,91,17.8,83.8,55.9,sandy,millet,dap
+32,64,46,25.8,40.0,58.5,sandy,soybean,ammonium sulfate
+20,65,13,35.7,22.2,20.4,peaty,cotton,urea
+32,83,84,25.5,45.8,53.4,saline,sugarcane,dap
+4,10,93,25.2,48.3,29.8,peaty,soybean,urea
+9,81,48,16.5,48.4,43.9,sandy,rice,urea
+59,24,96,17.5,25.3,45.4,sandy,millet,dap
+36,67,9,19.1,32.7,67.1,loamy,maize,mop
+86,19,21,22.3,60.8,38.1,loamy,barley,dap
+60,92,19,26.7,41.3,64.0,peaty,sorghum,mop
+59,62,62,38.3,71.1,48.6,peaty,sugarcane,urea
+53,82,20,18.3,61.6,79.4,sandy,cotton,mop
+43,4,12,25.3,30.9,63.8,peaty,rice,dap
+59,26,57,37.4,42.0,69.6,peaty,maize,dap
+76,17,82,23.8,33.2,35.2,loamy,sorghum,dap
+12,89,51,16.3,69.6,48.3,clay,groundnut,urea
+81,46,12,23.8,43.6,34.2,saline,wheat,mop
+17,80,20,16.5,46.5,53.5,loamy,wheat,urea
+16,8,84,22.9,71.9,49.2,saline,maize,urea
+4,14,99,34.6,77.6,56.6,sandy,maize,urea
+12,21,39,17.2,31.7,69.8,saline,sorghum,urea
+87,92,31,22.8,51.0,44.3,sandy,barley,mop
+53,78,20,27.3,70.0,47.1,loamy,groundnut,mop
+71,36,86,24.6,18.6,72.6,peaty,sorghum,dap
+18,95,98,17.0,49.5,66.9,peaty,sorghum,urea
+92,14,96,27.4,18.7,53.9,sandy,maize,dap
+55,64,69,28.2,26.9,26.3,saline,sorghum,urea
+83,42,76,39.5,86.0,23.4,sandy,groundnut,superphosphate
+90,3,64,17.6,37.4,51.5,saline,sugarcane,dap
+93,84,27,31.2,33.6,51.1,clay,soybean,mop
+78,81,43,16.6,74.2,86.4,loamy,sorghum,superphosphate
+71,5,32,17.6,32.2,53.7,sandy,barley,dap
+6,36,50,22.4,84.6,50.9,peaty,wheat,urea
+28,37,10,20.9,76.4,48.5,clay,cotton,urea
+17,57,66,26.9,44.5,43.5,loamy,soybean,urea
+17,72,44,26.8,43.0,82.4,loamy,cotton,urea
+62,45,87,25.8,19.2,85.7,saline,maize,dap
+11,16,71,19.0,29.0,42.7,saline,millet,urea
+69,27,96,25.3,89.4,49.5,loamy,maize,dap
+70,0,9,25.2,13.3,73.1,peaty,soybean,dap
+10,32,62,28.7,88.8,84.4,sandy,maize,urea
+15,96,87,22.5,19.3,25.1,peaty,soybean,urea
+15,99,96,16.4,22.3,36.3,sandy,cotton,urea
+90,59,98,27.5,23.7,27.5,loamy,millet,mop
+28,44,100,30.3,32.6,60.2,loamy,millet,urea
+57,38,13,30.0,62.1,85.9,clay,cotton,mop
+23,41,78,16.6,69.9,71.0,peaty,cotton,urea
+85,35,8,21.1,77.9,37.9,peaty,sugarcane,mop
+57,18,37,36.2,35.9,43.4,clay,millet,dap
+74,91,67,25.0,12.5,24.4,loamy,sugarcane,dap
+88,63,1,27.0,48.9,73.1,loamy,sorghum,mop
+92,58,10,18.5,58.6,59.2,loamy,millet,mop
+1,14,42,21.4,17.8,26.0,saline,groundnut,urea
+66,51,94,38.9,48.4,55.6,peaty,rice,urea
+83,8,15,25.4,11.0,40.4,peaty,millet,dap
+36,54,44,32.8,44.1,73.7,loamy,rice,complex fertilizer
+28,56,32,17.1,58.8,32.8,loamy,groundnut,urea
+96,74,57,38.8,74.4,72.6,saline,soybean,ammonium sulfate
+49,76,2,25.5,13.2,44.3,sandy,soybean,mop
+46,54,78,18.4,18.4,32.1,saline,millet,dap
+41,100,77,16.5,18.8,76.7,loamy,maize,superphosphate
+41,54,23,37.2,74.6,62.9,peaty,rice,mop
+99,93,58,38.6,64.2,74.7,loamy,wheat,superphosphate
+53,48,78,37.2,87.2,32.2,clay,sugarcane,ammonium sulfate
+69,23,99,28.6,22.0,43.7,clay,groundnut,dap
+78,6,23,18.3,20.2,52.6,peaty,sorghum,dap
+71,30,22,18.8,22.6,44.4,sandy,soybean,mop
+0,36,89,35.6,68.6,55.8,peaty,barley,urea
+33,90,91,36.5,88.0,84.8,saline,barley,dap
+86,63,76,39.6,66.1,46.4,clay,rice,complex fertilizer
+14,89,50,38.2,88.5,31.1,loamy,groundnut,urea
+99,81,19,19.3,67.2,89.2,clay,sugarcane,mop
+89,53,57,30.5,21.8,73.8,peaty,soybean,complex fertilizer
+96,36,41,23.1,46.8,48.0,sandy,rice,complex fertilizer
+65,88,50,36.9,65.9,87.8,sandy,wheat,superphosphate
+20,91,6,26.6,21.5,22.0,peaty,groundnut,urea
+96,44,63,18.0,14.4,70.6,saline,rice,ammonium sulfate
+30,56,31,29.6,83.7,25.3,sandy,groundnut,complex fertilizer
+72,12,49,21.9,22.3,30.3,peaty,wheat,dap
+56,44,63,29.8,62.1,87.9,sandy,maize,dap
+17,89,19,32.5,64.1,76.0,sandy,sorghum,urea
+23,11,77,19.2,28.5,74.2,clay,maize,urea
+40,84,95,21.1,29.7,75.0,clay,rice,complex fertilizer
+90,19,60,17.8,29.9,26.9,peaty,cotton,dap
+36,53,90,29.5,58.6,56.4,loamy,maize,mop
+60,35,45,37.7,48.3,47.2,sandy,rice,complex fertilizer
+31,60,28,29.9,55.1,57.4,sandy,soybean,mop
+81,29,63,33.2,12.9,46.8,saline,sorghum,dap
+94,60,4,19.1,54.9,72.7,saline,soybean,mop
+15,16,35,31.5,47.7,62.4,clay,wheat,urea
+85,31,57,19.0,81.0,56.6,peaty,millet,complex fertilizer
+79,92,82,26.1,29.9,22.4,sandy,groundnut,dap
+72,24,65,37.2,39.0,82.2,saline,sorghum,dap
+66,32,50,20.1,34.5,23.3,sandy,maize,dap
+25,40,10,26.6,43.4,88.9,loamy,sugarcane,urea
+68,24,6,29.1,57.6,44.4,saline,millet,dap
+75,89,16,16.9,75.1,67.1,peaty,soybean,mop
+67,5,12,20.4,28.0,39.3,sandy,rice,dap
+96,41,52,25.3,65.5,20.1,clay,cotton,superphosphate
+34,76,49,31.1,75.5,57.4,saline,sugarcane,mop
+49,99,35,21.7,73.4,32.6,sandy,groundnut,mop
+97,22,29,18.5,48.4,75.5,clay,millet,dap
+35,39,37,29.4,46.9,69.9,sandy,soybean,mop
+11,16,87,36.1,89.8,67.5,loamy,barley,urea
+20,63,60,35.3,51.7,66.7,loamy,wheat,urea
+25,75,84,37.4,57.0,41.5,clay,sugarcane,urea
+32,8,17,17.1,64.8,34.3,sandy,barley,dap
+58,1,99,16.1,75.7,55.0,saline,soybean,dap
+55,6,38,32.1,84.4,73.2,peaty,cotton,dap
+23,18,18,23.4,77.4,68.1,peaty,sugarcane,urea
+46,19,58,33.3,43.9,84.6,saline,barley,dap
+26,12,39,37.4,19.9,81.1,loamy,groundnut,urea
+97,10,89,24.5,65.3,83.4,sandy,millet,dap
+43,46,73,18.2,31.1,81.3,saline,soybean,dap
+40,24,71,26.9,39.6,56.5,clay,groundnut,dap
+65,84,72,32.8,30.2,75.2,loamy,rice,dap
+2,21,1,21.8,84.0,83.7,clay,maize,urea
+34,72,25,25.0,87.2,54.7,clay,rice,mop
+79,38,69,39.6,59.4,79.3,clay,wheat,superphosphate
+72,59,52,20.8,82.1,58.6,sandy,sugarcane,complex fertilizer
+20,41,29,36.3,79.7,67.6,clay,barley,urea
+59,72,18,19.3,45.5,81.7,saline,millet,mop
+55,63,78,29.1,74.5,69.0,peaty,soybean,urea
+58,98,38,19.4,14.0,26.7,saline,rice,complex fertilizer
+5,2,71,24.3,72.5,29.1,peaty,rice,urea
+28,45,82,29.6,88.0,49.8,saline,cotton,urea
+22,69,77,35.7,40.8,26.4,peaty,cotton,urea
+95,19,5,26.0,57.1,77.6,saline,millet,dap
+93,55,3,19.3,23.8,74.5,clay,cotton,mop
+69,12,29,24.2,14.8,49.5,clay,sugarcane,dap
+97,9,75,16.9,38.0,70.4,peaty,rice,dap
+13,34,43,30.4,53.3,38.0,sandy,maize,urea
+22,22,87,34.7,59.1,68.8,loamy,soybean,urea
+76,79,100,15.5,45.6,86.7,saline,sugarcane,urea
+30,65,46,15.6,65.9,68.1,saline,cotton,mop
+68,37,87,17.6,27.9,68.8,peaty,barley,ammonium sulfate
+19,35,52,16.4,75.3,25.0,sandy,cotton,urea
+18,30,70,33.8,17.4,26.9,sandy,maize,urea
+92,71,12,20.7,44.6,50.7,peaty,groundnut,mop
+5,22,39,38.3,24.1,56.0,saline,sorghum,urea
+35,2,53,28.3,38.9,42.3,sandy,sorghum,dap
+97,96,80,29.6,18.4,35.2,saline,soybean,dap
+93,87,49,31.9,59.8,53.4,clay,millet,complex fertilizer
+48,95,71,34.1,14.9,40.9,sandy,rice,superphosphate
+61,24,33,30.7,51.6,69.0,sandy,wheat,dap
+34,7,1,18.0,59.4,57.5,peaty,groundnut,dap
+19,49,0,18.1,54.6,69.8,saline,rice,urea
+61,83,29,25.0,67.6,45.4,sandy,wheat,mop
+17,14,64,16.6,82.1,30.2,peaty,wheat,urea
+60,92,15,28.4,29.9,81.0,sandy,soybean,mop
+98,27,81,21.5,57.6,86.0,sandy,rice,dap
+23,29,30,25.9,64.3,29.6,sandy,rice,urea
+99,8,93,21.3,50.5,29.4,saline,rice,dap
+97,82,20,25.4,39.1,54.0,saline,millet,mop
+14,2,42,38.9,48.1,35.6,loamy,barley,urea
+90,60,91,25.2,55.5,72.6,clay,barley,superphosphate
+68,15,4,30.1,18.7,82.2,clay,soybean,dap
+51,69,51,35.8,73.1,44.1,saline,millet,urea
+29,13,66,25.3,80.7,29.1,loamy,millet,urea
+22,8,19,22.8,12.2,43.1,loamy,sorghum,urea
+4,78,21,33.1,42.2,38.2,sandy,soybean,urea
+87,32,96,30.5,29.9,74.0,loamy,cotton,complex fertilizer
+2,16,34,19.3,89.4,74.6,peaty,rice,urea
+28,15,76,30.3,32.2,38.4,loamy,sugarcane,urea
+61,80,30,18.2,72.6,56.1,saline,rice,dap
+60,91,100,20.7,52.2,50.7,clay,wheat,urea
+40,36,16,15.3,76.6,82.7,sandy,groundnut,mop
+38,67,46,36.6,57.8,89.4,loamy,barley,superphosphate
+15,39,63,28.7,30.5,63.1,loamy,sugarcane,urea
+25,94,78,19.2,68.7,48.6,clay,soybean,urea
+75,25,69,26.3,55.6,85.3,sandy,cotton,dap
+78,54,1,26.7,42.7,29.1,clay,barley,mop
+8,91,18,39.2,27.8,83.5,peaty,wheat,urea
+63,96,35,18.5,53.6,63.4,peaty,groundnut,dap
+94,47,26,35.6,51.1,53.5,clay,soybean,mop
+29,77,21,26.1,10.9,44.4,sandy,millet,urea
+65,34,22,16.3,90.0,58.8,clay,groundnut,mop
+89,2,36,30.3,68.2,64.9,sandy,millet,dap
+27,25,55,23.4,46.0,86.7,sandy,wheat,urea
+42,44,46,38.0,84.6,33.8,saline,sorghum,dap
+97,63,34,27.8,89.7,67.5,saline,barley,ammonium sulfate
+21,15,49,36.5,11.5,22.0,sandy,millet,urea
+29,26,55,37.6,24.3,66.7,saline,soybean,urea
+46,32,79,24.9,25.0,49.7,peaty,wheat,urea
+68,17,43,26.0,66.7,50.8,loamy,soybean,dap
+48,79,47,21.3,85.3,20.6,loamy,sorghum,urea
+91,16,49,37.9,22.4,27.1,saline,rice,dap
+77,67,61,20.1,82.9,70.8,loamy,wheat,dap
+7,12,71,17.8,49.1,77.1,loamy,cotton,urea
+5,75,99,19.6,62.6,35.2,peaty,barley,urea
+1,77,61,35.1,65.8,47.4,loamy,rice,urea
+99,10,10,31.9,54.0,84.7,clay,sugarcane,dap
+8,86,52,22.0,31.2,64.6,saline,rice,urea
+33,10,33,16.3,85.7,36.6,loamy,sorghum,dap
+8,21,65,22.2,78.0,62.3,peaty,wheat,urea
+26,22,53,39.5,78.9,54.5,sandy,rice,urea
+14,49,75,39.8,61.7,88.9,saline,millet,urea
+9,56,68,38.3,84.3,48.3,peaty,maize,urea
+30,96,11,39.5,86.4,78.8,peaty,maize,mop
+91,97,100,16.6,31.4,67.2,saline,maize,ammonium sulfate
+80,3,51,27.7,33.5,69.9,sandy,maize,dap
+46,30,77,30.2,11.0,69.7,sandy,rice,superphosphate
+27,18,48,17.2,64.1,52.6,loamy,rice,urea
+42,65,88,31.4,33.1,49.0,peaty,rice,superphosphate
+87,77,14,19.6,33.2,64.9,clay,soybean,mop
+59,89,57,25.8,16.8,31.1,clay,cotton,mop
+57,98,94,16.9,13.8,48.8,peaty,wheat,mop
+94,47,76,21.0,29.5,52.3,clay,maize,mop
+93,1,76,31.0,84.3,63.3,clay,groundnut,dap
+7,33,91,33.8,33.3,32.2,clay,wheat,urea
+52,88,96,25.1,80.8,61.1,saline,cotton,urea
+45,85,84,39.4,31.6,62.6,clay,groundnut,superphosphate
+90,34,100,17.8,52.6,39.3,loamy,groundnut,ammonium sulfate
+34,0,33,19.8,10.2,40.2,clay,barley,dap
+11,100,46,23.5,69.0,35.8,loamy,soybean,urea
+95,98,53,26.0,48.9,31.6,peaty,groundnut,ammonium sulfate
+80,45,49,24.9,24.9,72.1,loamy,cotton,urea
+52,60,27,39.2,78.5,88.4,clay,groundnut,mop
+36,50,19,30.1,85.0,78.7,clay,sugarcane,mop
+28,80,43,32.2,70.6,47.9,peaty,maize,urea
+27,51,45,33.0,61.7,22.0,saline,maize,urea
+85,73,32,28.4,51.1,24.0,peaty,rice,superphosphate
+53,36,14,39.0,52.4,30.5,saline,barley,mop
+90,69,12,27.5,20.0,72.7,sandy,sorghum,mop
+35,56,19,30.5,82.2,51.6,saline,sorghum,mop
+7,30,37,31.6,74.4,58.6,clay,cotton,urea
+34,73,90,33.4,24.0,40.8,clay,millet,complex fertilizer
+26,73,81,30.5,58.9,33.6,peaty,barley,urea
+93,76,99,33.0,78.9,77.1,clay,maize,complex fertilizer
+94,42,86,39.7,18.2,24.6,clay,barley,superphosphate
+25,95,82,25.0,84.2,50.9,loamy,soybean,urea
+97,98,21,17.0,51.4,22.7,clay,maize,mop
+69,95,62,30.1,73.7,24.1,peaty,cotton,ammonium sulfate
+28,74,53,18.3,14.2,55.2,sandy,barley,urea
+15,56,9,31.9,19.5,88.1,saline,millet,urea
+11,67,13,36.5,87.3,88.3,peaty,sugarcane,urea
+68,65,20,37.0,83.6,32.6,clay,wheat,mop
+74,35,6,39.5,89.7,35.2,loamy,rice,mop
+52,64,11,20.7,28.2,45.9,clay,soybean,mop
+53,43,40,27.6,68.1,52.9,loamy,sugarcane,mop
+91,67,70,37.3,47.3,31.6,peaty,sorghum,complex fertilizer
+85,93,8,30.4,14.9,55.9,saline,wheat,mop
+76,90,13,19.3,28.7,35.5,peaty,cotton,mop
+41,38,49,31.2,49.0,43.2,clay,rice,mop
+4,38,14,36.3,39.7,79.4,saline,wheat,urea
+96,57,52,37.5,44.0,42.6,saline,groundnut,dap
+11,17,92,24.8,74.9,81.5,loamy,maize,urea
+29,70,35,29.6,85.7,39.5,peaty,rice,urea
+4,70,73,22.7,26.3,61.1,saline,rice,urea
+86,18,9,39.9,75.7,71.5,clay,soybean,dap
+63,100,84,21.1,61.3,52.1,loamy,soybean,urea
+95,73,75,30.4,34.4,65.5,clay,sorghum,superphosphate
+99,19,93,39.9,65.1,21.3,sandy,maize,dap
+5,14,98,33.6,26.9,86.8,sandy,sugarcane,urea
+27,70,57,23.8,87.4,50.2,loamy,maize,urea
+12,18,16,20.2,17.2,45.8,loamy,groundnut,urea
+44,79,69,25.5,51.8,34.2,loamy,groundnut,urea
+90,25,72,16.4,55.2,65.2,peaty,millet,dap
+19,65,70,32.7,59.2,60.8,sandy,groundnut,urea
+0,45,48,27.1,86.6,43.3,saline,cotton,urea
+25,61,28,28.5,83.3,76.8,peaty,barley,urea
+43,100,41,33.4,61.2,66.2,sandy,rice,ammonium sulfate
+87,95,11,38.3,22.8,30.7,clay,soybean,mop
+66,60,11,18.2,35.7,36.5,sandy,sugarcane,mop
+51,78,43,24.5,88.3,69.7,peaty,cotton,superphosphate
+84,85,22,39.7,10.8,64.5,clay,millet,mop
+45,53,69,31.6,41.4,45.1,peaty,cotton,dap
+40,18,69,25.2,66.2,37.3,peaty,groundnut,dap
+53,53,99,26.1,44.0,31.2,sandy,wheat,superphosphate
+91,88,88,30.0,46.3,69.6,saline,sugarcane,dap
+77,13,64,22.4,33.8,85.3,loamy,soybean,dap
+42,14,90,15.3,17.5,66.0,loamy,barley,dap
+19,24,99,28.6,70.0,50.2,saline,rice,urea
+95,14,92,17.0,69.5,77.5,clay,rice,dap
+38,91,66,35.3,20.7,38.6,peaty,rice,ammonium sulfate
+18,88,29,39.9,71.7,41.1,sandy,wheat,urea
+88,36,72,29.4,30.3,78.7,loamy,soybean,superphosphate
+48,68,43,29.5,72.4,69.8,sandy,groundnut,complex fertilizer
+72,57,48,23.1,12.2,69.0,loamy,wheat,superphosphate
+75,45,15,38.6,86.2,33.7,loamy,groundnut,mop
+44,5,9,37.6,74.1,60.6,loamy,rice,dap
+70,95,10,17.4,89.7,57.6,sandy,groundnut,mop
+25,77,31,18.9,16.9,28.7,saline,groundnut,urea
+50,25,95,30.5,72.5,87.3,saline,barley,dap
+36,7,28,38.0,29.9,30.1,clay,cotton,dap
+79,74,18,27.9,61.2,76.0,clay,sugarcane,mop
+6,8,8,28.6,23.5,26.9,saline,rice,urea
+52,48,71,18.9,18.1,26.9,peaty,wheat,complex fertilizer
+95,55,24,39.6,88.7,75.9,saline,sorghum,mop
+41,53,29,36.9,13.5,52.0,saline,rice,mop
+35,60,20,23.5,54.9,68.3,sandy,millet,mop
+64,22,19,28.4,14.8,50.8,peaty,sorghum,dap
+78,55,23,38.4,40.4,45.6,loamy,millet,mop
+34,60,47,30.3,47.2,34.3,sandy,sorghum,ammonium sulfate
+74,81,16,39.7,81.8,24.7,peaty,maize,mop
+33,37,43,31.6,80.5,68.0,clay,rice,dap
+50,21,34,33.8,63.5,36.8,loamy,groundnut,dap
+38,50,0,17.4,87.3,46.7,peaty,groundnut,mop
+21,92,55,27.5,53.6,41.3,loamy,barley,urea
+16,4,81,28.3,89.2,74.7,saline,millet,urea
+46,24,14,34.0,65.1,46.3,saline,sugarcane,dap
+16,83,99,27.6,47.2,70.0,saline,rice,urea
+81,89,83,36.9,15.5,33.7,clay,wheat,superphosphate
+68,17,93,39.1,81.0,72.9,peaty,barley,dap
+43,59,24,17.7,70.0,84.9,loamy,barley,mop
+89,22,82,16.1,43.8,46.4,peaty,cotton,dap
+57,42,73,36.9,89.6,54.7,peaty,barley,complex fertilizer
+86,49,57,29.9,31.2,60.0,sandy,rice,complex fertilizer
+60,76,28,32.5,43.5,60.8,sandy,groundnut,mop
+84,8,84,19.0,65.7,87.7,loamy,groundnut,dap
+73,25,43,16.6,86.7,26.5,saline,cotton,dap
+60,75,40,28.9,37.5,52.1,saline,barley,mop
+24,96,2,22.2,89.1,55.5,clay,barley,urea
+69,32,68,25.8,58.0,78.7,clay,rice,urea
+43,39,66,38.0,76.8,71.8,peaty,sugarcane,superphosphate
+1,94,14,21.0,81.0,45.7,loamy,maize,urea
+51,27,84,24.4,28.9,57.0,peaty,cotton,dap
+51,87,78,26.5,46.5,20.8,sandy,sugarcane,urea
+52,81,43,35.7,69.3,21.7,loamy,millet,urea
+64,95,31,15.4,13.5,20.5,clay,barley,urea
+26,5,29,36.6,10.9,64.6,clay,groundnut,urea
+94,82,29,19.0,44.5,72.0,clay,groundnut,mop
+34,26,19,23.5,79.9,57.8,sandy,rice,dap
+46,39,49,18.6,37.0,76.9,peaty,wheat,mop
+40,38,72,33.3,43.6,75.1,peaty,groundnut,dap
+70,35,28,21.6,46.8,23.9,sandy,rice,mop
+12,23,87,31.1,39.7,32.8,saline,sorghum,urea
+79,46,9,21.1,31.8,71.1,saline,soybean,mop
+13,86,49,28.3,10.2,69.6,saline,millet,urea
+24,100,87,22.5,87.3,81.6,loamy,sorghum,urea
+71,40,65,25.3,88.5,41.7,loamy,sugarcane,urea
+80,20,27,15.9,12.8,67.9,peaty,maize,dap
+9,9,16,38.6,34.9,44.1,peaty,maize,urea
+50,95,53,28.8,80.5,24.9,saline,millet,complex fertilizer
+99,20,99,35.7,30.4,42.1,clay,maize,dap
+70,79,57,28.2,80.7,51.3,peaty,rice,ammonium sulfate
+75,28,48,31.7,24.3,36.7,sandy,groundnut,dap
+71,53,39,33.3,66.0,89.8,loamy,rice,complex fertilizer
+72,20,54,32.5,81.3,43.6,loamy,barley,dap
+91,80,49,16.0,29.3,48.0,peaty,barley,urea
+27,62,76,28.6,81.3,31.3,sandy,rice,urea
+55,28,54,26.3,63.1,77.6,clay,rice,dap
+28,4,38,28.0,10.3,64.9,loamy,millet,urea
+88,44,26,19.7,26.5,83.5,sandy,soybean,mop
+23,37,87,25.9,66.5,81.9,peaty,barley,urea
+100,89,88,22.8,72.2,25.0,sandy,sugarcane,mop
+47,43,95,20.0,70.6,28.4,saline,sorghum,superphosphate
+3,78,17,38.3,69.1,74.8,loamy,millet,urea
+1,33,88,33.3,29.5,20.9,saline,cotton,urea
+32,26,7,15.2,46.1,54.1,loamy,barley,dap
+3,68,76,15.4,18.3,80.8,peaty,soybean,urea
+77,41,40,37.8,77.1,88.3,saline,maize,mop
+18,42,78,29.4,17.4,55.8,loamy,cotton,urea
+28,81,7,30.4,48.9,32.5,saline,maize,urea
+70,73,63,32.8,68.0,66.3,loamy,wheat,dap
+91,3,68,17.2,30.5,76.7,sandy,barley,dap
+40,65,93,29.1,36.3,81.1,sandy,groundnut,complex fertilizer
+96,30,7,18.8,89.2,81.4,saline,millet,mop
+42,12,52,36.2,33.2,88.0,clay,rice,dap
+93,88,56,24.7,66.8,88.2,peaty,sorghum,complex fertilizer
+36,32,78,21.3,82.9,65.8,sandy,soybean,urea
+38,85,80,17.2,29.8,55.0,sandy,sorghum,ammonium sulfate
+92,37,64,20.2,35.4,39.9,saline,barley,complex fertilizer
+99,19,53,18.2,53.2,55.9,clay,barley,dap
+34,57,52,25.5,70.0,80.2,peaty,sorghum,complex fertilizer
+18,67,73,25.8,20.8,59.9,saline,sorghum,urea
+91,0,12,37.9,51.5,56.9,saline,wheat,dap
+58,69,0,25.8,49.8,80.8,saline,soybean,mop
+32,81,94,24.7,63.1,76.4,loamy,barley,complex fertilizer
+24,82,45,34.7,75.2,52.0,sandy,barley,urea
+100,99,25,40.0,75.5,47.6,loamy,sugarcane,mop
+83,37,97,30.2,82.0,65.6,loamy,maize,ammonium sulfate
+32,69,38,17.8,30.3,34.3,saline,sugarcane,urea
+7,70,97,31.3,36.8,30.3,peaty,wheat,urea
+7,74,33,21.5,54.2,79.8,sandy,maize,urea
+73,68,67,35.5,86.5,39.1,saline,maize,complex fertilizer
+77,92,27,23.6,10.6,75.5,peaty,soybean,mop
+74,1,22,21.0,75.6,70.0,peaty,rice,dap
+58,67,47,30.5,86.3,72.7,saline,groundnut,dap
+65,0,21,20.2,47.1,73.5,sandy,rice,dap
+7,19,37,38.7,12.0,89.0,saline,soybean,urea
+68,14,13,20.7,30.5,88.3,saline,barley,dap
+42,48,7,39.2,41.3,54.9,clay,cotton,mop
+37,16,92,38.0,76.6,53.6,saline,rice,dap
+69,1,47,37.4,60.0,65.3,peaty,cotton,dap
+17,64,64,24.0,88.4,28.9,clay,sugarcane,urea
+34,97,76,38.0,47.6,23.1,loamy,wheat,urea
+47,56,4,17.9,15.9,77.4,loamy,millet,mop
+89,62,14,27.4,18.8,52.2,peaty,maize,mop
+38,10,87,35.7,30.5,82.7,peaty,sorghum,dap
+3,3,89,29.8,10.0,74.6,clay,cotton,urea
+70,75,21,26.0,31.0,83.7,loamy,barley,mop
+95,53,27,34.5,25.0,67.7,peaty,groundnut,mop
+54,75,95,35.2,49.2,27.6,sandy,cotton,mop
+55,68,34,38.5,16.1,47.4,clay,groundnut,urea
+74,20,50,25.3,82.1,73.1,peaty,sugarcane,dap
+44,37,37,36.9,51.3,56.6,clay,soybean,superphosphate
+73,20,31,32.2,73.5,63.7,clay,soybean,dap
+96,2,3,20.8,55.4,42.1,sandy,soybean,dap
+90,49,49,34.2,77.3,77.8,saline,millet,mop
+49,35,0,18.0,23.3,53.9,sandy,soybean,mop
+70,14,58,28.5,62.0,21.2,clay,maize,dap
+94,19,10,16.0,35.2,42.3,clay,sugarcane,dap
+1,85,96,18.7,39.0,29.6,loamy,sugarcane,urea
+17,66,34,37.4,30.4,83.9,peaty,cotton,urea
+9,69,34,26.8,70.7,57.5,sandy,soybean,urea
+44,71,97,30.3,34.6,87.2,clay,rice,urea
+8,69,90,20.0,71.2,32.8,sandy,cotton,urea
+89,54,79,32.8,17.6,65.8,loamy,wheat,mop
+66,97,62,34.3,77.8,84.4,clay,rice,superphosphate
+47,1,96,30.5,14.6,23.0,clay,sorghum,dap
+26,97,60,21.6,38.2,48.8,sandy,soybean,urea
+52,73,6,21.3,51.2,75.9,sandy,cotton,mop
+3,96,76,17.8,75.0,84.4,sandy,sugarcane,urea
+4,81,36,35.4,43.7,44.6,clay,rice,urea
+6,97,91,20.0,17.2,57.0,loamy,sugarcane,urea
+43,65,8,18.5,26.3,58.5,saline,millet,mop
+79,5,5,22.4,48.6,82.1,peaty,wheat,dap
+27,55,62,24.0,46.2,30.0,peaty,groundnut,urea
+60,6,87,35.3,25.1,85.1,clay,millet,dap
+37,73,40,25.6,37.9,83.4,peaty,sugarcane,urea
+95,82,95,37.8,10.2,82.4,saline,sugarcane,superphosphate
+23,47,15,37.4,84.0,72.2,peaty,maize,urea
+5,6,45,22.2,20.1,89.9,loamy,barley,urea
+86,17,55,31.5,34.5,61.9,peaty,wheat,dap
+24,7,94,30.9,46.9,84.2,clay,barley,urea
+5,88,33,28.8,36.7,35.4,sandy,maize,urea
+79,95,89,18.7,78.7,48.0,sandy,millet,urea
+25,76,36,34.3,27.2,83.2,clay,sorghum,urea
+8,57,15,17.6,76.7,21.3,saline,groundnut,urea
+44,61,8,15.9,18.0,72.8,peaty,groundnut,mop
+96,3,88,29.9,81.8,71.5,peaty,cotton,dap
+60,19,29,28.5,70.6,59.0,saline,cotton,dap
+87,12,60,34.6,77.3,47.9,loamy,sugarcane,dap
+21,63,95,18.8,55.3,56.5,peaty,maize,urea
+83,100,22,34.2,51.5,28.0,sandy,soybean,mop
+66,44,63,35.8,61.2,33.5,clay,sorghum,ammonium sulfate
+43,21,89,30.3,35.4,54.9,peaty,rice,dap
+48,29,59,36.7,63.5,38.0,peaty,cotton,dap
+80,9,24,20.9,11.3,44.2,clay,wheat,dap
+80,98,90,38.3,89.8,86.4,sandy,rice,superphosphate
+26,95,30,26.4,64.2,72.3,peaty,soybean,urea
+54,88,43,16.6,17.8,29.9,saline,soybean,mop
+0,38,41,23.6,46.8,80.8,saline,rice,urea
+43,44,71,36.1,70.9,22.6,loamy,sugarcane,complex fertilizer
+0,27,41,24.6,20.0,87.3,clay,rice,urea
+78,19,17,16.6,48.2,31.0,peaty,cotton,dap
+56,18,86,33.8,21.1,77.5,loamy,wheat,dap
+43,68,81,19.7,34.1,31.5,clay,cotton,superphosphate
+11,54,84,19.1,15.5,49.4,loamy,sugarcane,urea
+19,79,61,33.8,70.4,63.2,loamy,sorghum,urea
+51,7,56,35.9,18.9,86.8,saline,cotton,dap
+83,97,26,32.3,82.9,55.0,saline,soybean,mop
+68,12,45,37.5,75.4,47.3,peaty,soybean,dap
+53,11,22,24.1,13.5,29.4,peaty,soybean,dap
+45,59,14,21.8,26.5,89.7,clay,groundnut,mop
+80,27,10,28.6,18.4,87.5,saline,sugarcane,dap
+74,80,7,25.0,78.1,50.8,saline,cotton,mop
+92,68,15,36.1,66.6,68.9,peaty,millet,mop
+97,25,10,19.9,34.8,36.4,clay,groundnut,dap
+25,76,66,30.4,40.6,31.8,saline,wheat,urea
+12,48,73,19.2,59.6,28.0,loamy,maize,urea
+99,39,3,20.5,62.4,47.5,clay,millet,mop
+69,87,15,25.8,38.1,44.3,saline,rice,mop
+43,17,35,34.5,29.2,46.6,sandy,cotton,dap
+94,23,22,33.2,54.5,44.0,sandy,millet,dap
+13,44,32,23.3,74.2,56.4,loamy,soybean,urea
+89,67,45,31.9,87.6,81.8,saline,cotton,mop
+60,81,81,19.1,22.9,25.4,clay,cotton,ammonium sulfate
+19,61,98,28.3,74.4,62.3,loamy,sugarcane,urea
+43,42,19,16.9,48.3,72.3,saline,soybean,mop
+14,87,23,35.1,72.7,81.1,loamy,rice,urea
+100,85,44,38.1,70.9,80.8,saline,sugarcane,superphosphate
+26,80,98,24.3,62.3,69.9,sandy,rice,urea
+94,0,49,36.4,20.6,56.2,saline,maize,dap
+39,59,98,23.4,72.4,66.2,saline,groundnut,dap
+76,87,86,23.0,32.3,84.8,clay,cotton,superphosphate
+53,48,5,16.3,63.6,78.0,loamy,cotton,mop
+13,3,88,17.7,25.5,77.4,saline,rice,urea
+25,47,0,18.3,13.4,23.7,sandy,wheat,urea
+46,62,3,30.8,51.5,80.2,sandy,groundnut,mop
+4,79,23,28.2,83.8,21.4,loamy,sugarcane,urea
+38,87,94,20.0,24.5,85.3,peaty,sugarcane,superphosphate
+57,8,81,21.0,18.4,43.7,loamy,millet,dap
+15,61,14,35.7,82.9,34.9,saline,sorghum,urea
+44,54,72,37.3,69.8,29.0,sandy,wheat,dap
+45,66,1,38.0,60.9,84.0,sandy,maize,mop
+49,75,30,31.8,74.9,30.5,peaty,sorghum,mop
+41,43,87,36.5,30.5,48.9,saline,sorghum,mop
+81,45,7,15.9,35.0,74.7,saline,maize,mop
+82,81,50,24.6,59.7,55.6,peaty,millet,mop
+85,10,43,32.4,66.7,56.6,clay,soybean,dap
+16,91,78,21.5,63.3,79.8,clay,wheat,urea
+44,54,60,35.9,20.6,59.2,saline,cotton,superphosphate
+40,13,65,21.4,27.9,79.4,clay,barley,dap
+1,34,71,26.2,47.0,51.6,loamy,groundnut,urea
+38,93,67,20.7,70.0,23.7,loamy,wheat,ammonium sulfate
+60,3,84,16.4,78.5,66.2,clay,rice,dap
+9,63,93,36.2,60.4,46.5,peaty,wheat,urea
+14,60,38,18.4,85.2,55.1,sandy,rice,urea
+99,40,53,15.3,15.5,63.6,saline,groundnut,superphosphate
+24,47,85,32.1,88.4,32.3,loamy,wheat,urea
+16,94,97,31.4,85.2,62.5,saline,barley,urea
+92,83,34,27.2,74.3,66.2,loamy,sugarcane,urea
+88,85,47,23.4,87.6,34.8,clay,maize,ammonium sulfate
+18,5,35,19.0,79.4,30.7,clay,barley,urea
+42,60,40,33.7,35.6,63.3,saline,groundnut,mop
+55,39,17,39.7,54.4,56.9,saline,barley,mop
+41,52,47,25.1,50.5,77.6,loamy,millet,urea
+20,25,33,29.7,69.4,46.5,peaty,maize,urea
+12,88,4,25.0,24.5,39.1,loamy,wheat,urea
+19,87,0,30.5,48.4,42.1,peaty,cotton,urea
+43,52,64,18.9,29.0,79.7,saline,rice,urea
+1,70,10,23.6,68.1,79.7,sandy,barley,urea
+1,68,98,37.3,54.9,44.3,clay,sugarcane,urea
+69,29,44,21.1,55.3,54.9,sandy,barley,dap
+57,27,33,18.2,21.9,70.6,loamy,barley,dap
+25,97,27,38.1,85.7,27.0,clay,soybean,urea
+90,13,11,38.9,33.4,31.2,loamy,rice,dap
+67,70,41,33.3,21.8,34.5,saline,groundnut,superphosphate
+80,59,8,23.2,18.6,40.7,peaty,rice,mop
+46,40,70,37.3,29.4,72.9,peaty,millet,superphosphate
+50,71,57,20.5,42.2,30.0,saline,maize,dap
+51,57,63,24.9,31.2,88.6,peaty,millet,ammonium sulfate
+74,6,56,24.8,37.4,57.2,sandy,sugarcane,dap
+81,88,12,27.3,30.8,64.8,clay,rice,mop
+22,86,64,20.9,58.3,75.9,clay,soybean,urea
+12,31,58,16.5,10.8,56.8,clay,sugarcane,urea
+3,22,46,26.8,70.6,74.1,sandy,sorghum,urea
+75,62,32,33.7,84.9,53.7,loamy,soybean,complex fertilizer
+45,32,87,28.1,81.1,20.8,sandy,cotton,ammonium sulfate
+92,34,38,21.7,68.4,62.9,clay,soybean,complex fertilizer
+99,9,1,38.0,56.3,62.6,peaty,maize,dap
+14,13,73,28.6,83.6,38.5,peaty,barley,urea
+8,2,76,30.3,39.3,83.0,sandy,wheat,urea
+62,40,1,22.1,57.6,54.9,sandy,rice,mop
+31,91,47,24.0,44.0,55.7,peaty,wheat,ammonium sulfate
+31,17,21,37.2,49.3,27.9,loamy,rice,dap
+89,8,31,30.5,69.8,85.1,peaty,rice,dap
+82,15,91,37.4,23.5,39.4,saline,millet,dap
+54,43,82,24.2,75.0,45.9,clay,maize,complex fertilizer
+24,0,36,21.0,70.4,25.9,saline,sugarcane,urea
+6,30,57,16.9,74.3,72.2,saline,cotton,urea
+75,84,1,16.8,58.4,40.9,loamy,soybean,mop
+58,37,24,33.1,65.4,62.8,sandy,rice,mop
+18,80,27,26.6,25.3,87.4,loamy,groundnut,urea
+16,51,39,22.7,84.7,58.9,peaty,soybean,urea
+0,70,29,21.1,58.0,89.3,clay,groundnut,urea
+19,25,99,36.5,24.0,24.2,sandy,rice,urea
+87,51,39,15.5,21.0,32.2,saline,maize,superphosphate
+57,75,95,32.7,76.8,32.2,clay,groundnut,ammonium sulfate
+34,83,26,24.3,49.3,53.0,saline,rice,mop
+79,91,82,29.8,24.7,65.0,loamy,millet,complex fertilizer
+75,70,49,24.4,30.6,43.5,loamy,millet,ammonium sulfate
+16,29,64,34.0,80.1,75.9,saline,barley,urea
+93,52,24,34.4,15.3,49.2,clay,maize,mop
+8,12,81,22.8,74.1,49.2,sandy,wheat,urea
+69,28,64,28.1,72.7,43.7,peaty,barley,dap
+14,79,78,38.9,86.1,21.5,saline,sorghum,urea
+61,78,74,35.8,36.3,42.8,loamy,groundnut,superphosphate
+3,69,4,17.1,14.4,52.2,peaty,barley,urea
+61,12,4,35.1,71.0,20.8,peaty,sorghum,dap
+24,69,52,23.4,45.8,41.9,sandy,rice,urea
+69,39,95,29.3,81.7,48.5,loamy,millet,mop
+83,55,70,33.3,41.9,40.3,saline,millet,complex fertilizer
+92,29,88,36.0,74.5,36.5,saline,groundnut,dap
+8,61,86,25.6,80.7,64.9,saline,wheat,urea
+9,16,80,30.7,61.6,49.5,peaty,sorghum,urea
+17,64,88,21.8,21.4,35.0,saline,soybean,urea
+73,77,100,38.7,30.5,56.9,loamy,soybean,complex fertilizer
+4,87,23,20.2,10.8,41.8,saline,rice,urea
+2,17,51,19.0,57.9,45.2,loamy,soybean,urea
+85,4,1,28.6,29.1,66.8,peaty,cotton,dap
+34,95,20,15.5,44.4,53.4,peaty,sugarcane,mop
+35,39,73,34.9,58.0,47.4,loamy,rice,complex fertilizer
+49,14,33,17.4,13.8,84.1,sandy,cotton,dap
+1,51,75,35.5,85.1,51.2,saline,barley,urea
+67,78,48,18.5,54.4,33.9,loamy,rice,dap
+18,65,2,37.4,22.8,67.7,sandy,rice,urea
+43,0,0,35.4,11.2,37.8,sandy,cotton,dap
+80,32,87,29.4,89.0,68.5,sandy,rice,dap
+75,61,86,27.6,59.1,48.6,loamy,wheat,urea
+40,86,66,37.5,20.5,63.9,peaty,soybean,mop
+52,9,28,32.2,33.1,20.3,saline,sorghum,dap
+71,14,74,25.3,23.4,80.8,sandy,wheat,dap
+12,71,52,22.4,86.8,34.8,clay,wheat,urea
+13,42,67,32.2,42.5,50.0,loamy,groundnut,urea
+37,81,11,39.6,80.3,60.5,sandy,millet,mop
+48,47,2,33.3,71.8,29.5,clay,groundnut,mop
+83,58,65,27.2,21.9,22.6,loamy,sugarcane,ammonium sulfate
+67,35,4,20.2,88.5,59.7,clay,cotton,mop
+91,76,11,37.0,65.2,37.1,clay,groundnut,mop
+67,51,14,22.3,36.8,54.3,clay,millet,mop
+53,5,76,22.3,18.8,32.4,clay,rice,dap
+23,18,19,19.5,12.9,24.0,loamy,sorghum,urea
+72,9,70,36.5,22.2,24.5,clay,cotton,dap
+86,68,33,25.0,42.6,25.7,loamy,sorghum,complex fertilizer
+0,17,74,35.5,10.4,38.9,loamy,wheat,urea
+71,90,78,31.8,22.5,68.6,sandy,soybean,complex fertilizer
+7,28,9,34.5,35.6,49.3,saline,groundnut,urea
+92,70,26,18.2,68.8,21.8,saline,rice,mop
+24,6,99,18.2,41.2,28.0,peaty,groundnut,urea
+66,55,9,17.8,64.0,35.1,loamy,soybean,mop
+78,55,95,30.1,85.2,39.5,sandy,rice,ammonium sulfate
+93,38,83,29.3,55.4,32.6,loamy,wheat,mop
+86,79,85,24.1,20.7,61.4,saline,barley,mop
+96,100,88,26.6,16.9,90.0,clay,millet,ammonium sulfate
+25,94,8,23.1,69.7,59.3,saline,barley,urea
+26,0,25,25.0,57.8,72.9,peaty,sorghum,urea
+59,24,34,26.5,54.7,58.3,loamy,sorghum,dap
+32,76,93,25.7,78.4,68.6,peaty,sugarcane,superphosphate
+6,5,67,37.0,58.9,27.9,sandy,maize,urea
+95,3,58,28.9,65.2,88.8,sandy,wheat,dap
+52,87,65,15.9,25.3,43.8,sandy,maize,complex fertilizer
+54,66,92,16.1,33.4,49.3,clay,sugarcane,dap
+10,47,35,39.4,45.0,80.4,peaty,wheat,urea
+69,86,42,22.2,61.5,49.4,saline,millet,complex fertilizer
+58,46,55,38.0,34.7,63.1,saline,sorghum,urea
+76,42,7,31.2,44.4,41.8,peaty,barley,mop
+85,96,11,36.8,83.5,24.4,clay,wheat,mop
+16,58,58,19.0,28.1,23.0,peaty,millet,urea
+69,5,6,39.7,82.0,64.5,clay,sugarcane,dap
+88,42,3,38.1,34.7,25.7,loamy,sugarcane,mop
+55,17,97,28.4,79.0,66.6,peaty,barley,dap
+20,45,23,32.0,65.9,60.8,peaty,sorghum,urea
+35,38,62,28.9,71.1,32.8,peaty,rice,complex fertilizer
+11,66,20,36.8,67.5,36.2,peaty,rice,urea
+63,5,54,26.4,52.3,31.7,clay,millet,dap
+98,83,81,25.0,76.3,80.6,sandy,rice,ammonium sulfate
+7,52,86,35.9,57.3,79.7,saline,sorghum,urea
+7,96,54,38.3,76.3,77.3,peaty,maize,urea
+71,88,23,16.2,11.7,24.9,clay,cotton,mop
+90,50,87,26.0,57.9,42.4,clay,sugarcane,dap
+69,99,8,30.9,62.9,38.8,loamy,sorghum,mop
+18,17,30,36.2,59.7,51.8,saline,wheat,urea
+25,88,73,16.0,24.9,56.5,peaty,groundnut,urea
+74,15,18,22.8,89.9,66.7,saline,soybean,dap
+75,14,22,19.3,49.2,37.3,peaty,cotton,dap
+99,53,84,19.6,78.8,56.4,peaty,soybean,superphosphate
+2,88,9,39.6,83.4,21.2,sandy,rice,urea
+20,88,9,38.3,56.5,75.9,peaty,soybean,urea
+49,22,60,17.4,25.9,59.9,peaty,maize,dap
+82,97,97,37.1,21.5,48.1,loamy,sugarcane,complex fertilizer
+94,1,78,18.9,36.2,89.6,sandy,sugarcane,dap
+67,43,16,18.7,45.0,24.8,sandy,wheat,mop
+55,94,25,38.5,38.7,76.3,saline,maize,mop
+80,60,50,24.3,72.3,67.5,loamy,wheat,mop
+3,15,62,37.7,69.7,34.0,saline,maize,urea
+58,42,65,32.5,29.7,23.8,clay,millet,complex fertilizer
+0,48,71,18.7,87.0,51.4,clay,sugarcane,urea
+33,59,47,20.7,73.1,55.9,sandy,soybean,ammonium sulfate
+0,91,21,16.1,27.2,65.8,saline,sugarcane,urea
+99,85,15,35.2,84.3,33.3,saline,barley,mop
+11,88,18,24.8,47.8,88.0,sandy,barley,urea
+4,18,86,16.2,81.6,21.8,clay,wheat,urea
+38,99,98,24.4,59.5,67.7,loamy,barley,complex fertilizer
+100,13,19,18.5,56.0,21.3,saline,groundnut,dap
+90,65,59,25.9,88.1,81.1,sandy,rice,mop
+25,63,39,27.0,34.0,23.0,clay,barley,urea
+91,35,74,29.4,54.4,73.1,peaty,cotton,mop
+20,97,69,32.4,64.0,27.1,loamy,millet,urea
+91,25,44,33.3,50.1,37.7,clay,wheat,dap
+28,74,12,23.8,53.5,24.5,saline,maize,urea
+65,68,80,19.1,23.2,89.1,saline,barley,dap
+72,4,98,34.5,35.3,59.7,clay,sorghum,dap
+42,53,4,23.7,57.0,32.4,saline,cotton,mop
+78,56,88,34.4,21.3,22.6,sandy,soybean,superphosphate
+31,40,76,15.0,58.3,39.5,loamy,sugarcane,complex fertilizer
+5,86,58,35.8,73.5,37.0,peaty,rice,urea
+86,72,4,31.7,41.4,51.5,sandy,maize,mop
+54,23,0,23.7,66.4,87.6,clay,millet,dap
+10,67,9,31.3,65.3,48.1,saline,rice,urea
+8,39,65,37.0,52.3,26.7,clay,sugarcane,urea
+23,48,94,17.3,88.4,47.0,sandy,sorghum,urea
+21,49,75,22.4,56.4,68.2,peaty,rice,urea
+12,67,31,31.2,49.0,40.0,clay,barley,urea
+98,69,41,18.9,42.7,39.0,peaty,cotton,ammonium sulfate
+65,66,83,35.6,55.7,81.9,loamy,sugarcane,mop
+77,48,49,23.2,17.1,58.9,sandy,sugarcane,ammonium sulfate
+46,29,48,31.2,12.9,56.2,saline,sorghum,dap
+43,98,10,39.5,74.8,65.1,sandy,maize,mop
+92,21,29,16.1,43.0,65.5,saline,sugarcane,dap
+46,76,90,20.6,28.6,66.4,clay,millet,mop
+55,44,55,38.7,33.5,51.2,loamy,wheat,mop
+6,80,59,28.1,79.0,64.1,saline,groundnut,urea
+18,5,50,34.6,42.7,50.6,clay,rice,urea
+39,3,31,33.4,64.8,27.8,saline,wheat,dap
+85,24,22,39.7,53.6,72.7,sandy,millet,dap
+82,94,4,25.8,37.9,85.6,clay,soybean,mop
+52,82,74,19.6,10.2,21.8,sandy,barley,dap
+93,26,88,16.7,71.5,79.6,saline,wheat,dap
+34,52,29,33.7,70.1,56.0,sandy,millet,mop
+52,6,56,36.7,12.8,52.4,saline,maize,dap
+60,22,68,37.5,66.8,52.9,loamy,millet,dap
+89,16,73,30.3,24.9,52.2,sandy,cotton,dap
+84,95,91,33.9,58.7,50.1,sandy,wheat,complex fertilizer
+69,64,69,21.7,22.4,65.0,peaty,sorghum,complex fertilizer
+1,10,98,25.6,29.4,84.2,saline,maize,urea
+99,100,81,15.6,65.0,20.2,sandy,barley,mop
+77,59,83,33.7,12.0,77.0,peaty,soybean,complex fertilizer
+77,81,55,27.1,56.6,56.6,saline,maize,complex fertilizer
+55,48,76,28.9,23.7,25.9,sandy,cotton,superphosphate
+1,4,74,36.1,55.1,61.8,saline,groundnut,urea
+2,20,71,26.5,68.5,37.0,sandy,sorghum,urea
+6,99,10,39.3,13.1,23.7,peaty,rice,urea
+19,59,84,18.7,53.6,79.9,peaty,barley,urea
+47,4,3,26.7,25.7,32.6,sandy,millet,dap
+36,76,80,24.3,81.1,52.2,loamy,soybean,complex fertilizer
+16,52,70,35.1,26.4,25.9,loamy,barley,urea
+99,55,57,20.9,27.3,68.3,loamy,wheat,complex fertilizer
+39,65,9,15.8,61.5,71.8,peaty,cotton,mop
+41,72,4,39.2,16.9,38.1,sandy,rice,mop
+55,43,84,27.9,65.4,47.8,saline,wheat,complex fertilizer
+25,38,79,16.7,54.6,62.9,clay,groundnut,urea
+100,4,85,16.1,48.2,37.4,loamy,wheat,dap
+64,2,66,38.1,22.6,84.8,saline,cotton,dap
+30,42,91,18.5,82.4,40.1,peaty,cotton,urea
+7,67,37,26.3,31.8,50.3,clay,rice,urea
+59,52,5,16.9,75.4,79.6,clay,barley,mop
+17,60,39,39.5,28.1,50.4,saline,maize,urea
+46,61,4,23.2,53.9,24.7,peaty,cotton,mop
+34,17,13,29.1,33.4,50.5,sandy,barley,dap
+2,96,16,15.2,66.8,89.3,saline,millet,urea
+91,61,31,16.6,22.3,79.3,saline,maize,superphosphate
+32,36,43,25.3,10.1,75.8,sandy,soybean,superphosphate
+57,60,94,35.3,64.9,39.1,clay,groundnut,complex fertilizer
+9,59,22,33.8,42.0,79.0,loamy,sorghum,urea
+80,19,54,35.2,77.5,89.7,sandy,barley,dap
+24,13,10,15.8,22.3,51.7,saline,maize,urea
+58,48,45,31.4,88.0,43.4,peaty,maize,ammonium sulfate
+17,48,23,38.5,14.9,48.1,peaty,rice,urea
+27,51,49,21.3,89.1,79.7,loamy,sugarcane,urea
+42,86,50,24.7,12.1,65.7,saline,millet,urea
+84,55,68,25.4,36.7,77.7,sandy,groundnut,dap
+77,54,32,23.3,49.2,77.3,sandy,sugarcane,complex fertilizer
+32,4,98,30.1,45.1,20.0,sandy,soybean,dap
+92,84,84,30.2,79.7,73.1,saline,millet,mop
+63,59,19,36.0,42.9,75.4,saline,sugarcane,mop
+59,91,79,28.1,37.0,51.2,clay,sorghum,complex fertilizer
+26,64,82,29.9,21.2,74.3,peaty,sugarcane,urea
+5,90,43,29.6,22.6,40.9,loamy,barley,urea
+1,57,63,25.8,51.6,35.1,saline,rice,urea
+49,60,21,33.5,74.8,22.9,sandy,groundnut,mop
+0,50,20,38.1,38.1,75.7,clay,millet,urea
+99,42,28,34.1,31.4,89.0,saline,cotton,mop
+24,45,51,39.4,47.1,44.9,clay,sugarcane,urea
+22,87,8,20.3,63.1,42.5,saline,wheat,urea
+10,95,66,21.6,17.7,73.1,peaty,maize,urea
+42,85,87,33.0,57.6,89.1,saline,wheat,ammonium sulfate
+0,80,53,24.4,89.1,51.0,saline,soybean,urea
+3,18,7,33.0,71.8,76.6,saline,cotton,urea
+74,39,86,37.3,20.6,77.8,saline,cotton,urea
+68,19,2,21.6,41.5,37.1,peaty,sorghum,dap
+74,13,4,15.8,17.8,88.5,loamy,wheat,dap
+62,99,24,36.7,28.6,48.7,peaty,rice,mop
+53,3,0,16.5,89.3,56.0,loamy,sugarcane,dap
+65,36,30,25.2,38.1,52.3,sandy,soybean,mop
+6,79,36,15.8,80.4,59.8,loamy,wheat,urea
+10,55,74,36.8,74.4,33.3,saline,soybean,urea
+76,78,13,21.6,31.0,37.9,peaty,sorghum,mop
+44,81,72,15.7,34.3,77.7,saline,wheat,complex fertilizer
+22,44,53,26.0,76.9,29.2,loamy,barley,urea
+53,85,40,35.7,17.4,25.7,peaty,millet,dap
+54,42,18,21.6,66.4,50.2,sandy,groundnut,mop
+18,23,84,23.8,83.3,41.7,saline,rice,urea
+72,40,51,18.1,72.2,73.9,clay,groundnut,dap
+88,93,17,37.4,64.1,25.1,sandy,millet,mop
+57,51,81,25.9,17.5,37.3,peaty,sugarcane,complex fertilizer
+67,61,47,15.2,65.1,81.3,clay,cotton,ammonium sulfate
+100,44,27,24.9,66.0,74.5,sandy,groundnut,mop
+1,19,70,38.3,48.7,46.5,loamy,barley,urea
+1,24,69,15.3,15.6,65.9,peaty,sugarcane,urea
+57,20,29,23.9,82.6,49.8,loamy,barley,dap
+56,80,75,39.9,52.7,69.1,sandy,soybean,dap
+78,8,2,28.6,28.6,46.0,loamy,rice,dap
+21,46,68,31.8,58.7,32.0,saline,millet,urea
+71,49,69,31.5,19.0,56.5,clay,groundnut,mop
+28,13,85,35.9,16.2,60.7,sandy,millet,urea
+99,92,9,16.6,79.9,44.7,clay,millet,mop
+61,84,50,35.6,58.1,45.6,loamy,rice,dap
+87,89,86,23.9,32.7,41.3,sandy,maize,superphosphate
+52,79,7,32.8,65.9,83.2,saline,cotton,mop
+0,3,78,28.6,87.0,65.8,saline,barley,urea
+25,63,19,30.1,77.7,58.5,loamy,groundnut,urea
+26,66,57,29.7,46.5,48.5,saline,millet,urea
+47,2,30,26.0,63.6,30.7,loamy,millet,dap
+43,89,4,37.8,70.1,73.2,clay,cotton,mop
+38,88,15,36.2,57.3,61.3,sandy,groundnut,mop
+22,39,58,28.9,63.9,75.8,peaty,cotton,urea
+48,68,68,21.0,71.3,44.5,loamy,soybean,superphosphate
+33,50,15,37.6,38.9,72.5,clay,sugarcane,mop
+12,94,35,25.6,31.1,59.3,peaty,soybean,urea
+93,44,40,36.3,23.9,74.3,saline,barley,urea
+14,24,77,37.6,64.3,35.1,loamy,sugarcane,urea
+42,92,51,19.0,67.2,48.2,saline,sugarcane,mop
+59,50,8,16.3,20.2,30.9,saline,cotton,mop
+18,26,58,39.6,85.6,89.9,loamy,millet,urea
+90,58,4,34.9,57.7,74.3,peaty,groundnut,mop
+0,80,96,30.0,88.7,33.0,clay,millet,urea
+38,97,72,32.6,62.5,22.1,peaty,soybean,ammonium sulfate
+21,29,1,32.5,56.7,30.6,saline,soybean,urea
+38,65,24,37.7,45.1,36.5,peaty,barley,mop
+67,19,2,36.5,30.0,77.9,saline,sorghum,dap
+19,10,54,22.5,60.3,41.5,saline,wheat,urea
+76,60,81,19.1,40.6,72.2,peaty,sorghum,ammonium sulfate
+66,96,18,33.2,38.8,75.3,peaty,millet,mop
+67,76,43,39.0,42.4,71.6,peaty,sorghum,superphosphate
+83,6,64,16.7,88.7,87.9,loamy,groundnut,dap
+29,60,55,26.3,79.4,60.3,sandy,barley,urea
+17,87,16,35.4,81.0,72.8,saline,cotton,urea
+75,92,95,18.5,20.5,37.6,loamy,sugarcane,ammonium sulfate
+61,77,84,28.5,53.7,37.1,clay,wheat,urea
+18,67,67,24.0,88.4,45.5,saline,cotton,urea
+30,97,64,16.2,15.5,53.8,saline,sugarcane,urea
+65,18,39,31.1,35.8,73.4,clay,groundnut,dap
+42,14,71,35.1,10.3,31.3,peaty,wheat,dap
+10,98,86,32.1,57.4,51.5,peaty,maize,urea
+43,75,18,23.6,86.7,63.0,loamy,rice,mop
+98,24,4,31.3,23.2,27.5,sandy,soybean,dap
+56,97,25,23.1,12.9,77.7,sandy,soybean,mop
+19,100,93,25.9,11.3,24.3,sandy,wheat,urea
+40,86,50,31.9,71.8,49.4,peaty,sugarcane,urea
+42,85,85,21.6,46.3,49.4,clay,cotton,ammonium sulfate
+21,59,28,33.5,27.7,64.2,saline,maize,urea
+59,20,0,36.9,55.9,25.1,peaty,soybean,dap
+90,47,66,31.2,25.9,56.2,peaty,maize,superphosphate
+34,26,16,22.9,69.6,78.4,peaty,maize,dap
+52,45,68,39.8,50.5,88.4,sandy,cotton,mop
+33,34,64,21.6,15.4,42.5,clay,soybean,urea
+84,19,5,16.4,28.2,34.4,loamy,millet,dap
+34,69,91,31.5,48.4,86.6,saline,soybean,complex fertilizer
+71,79,8,18.8,47.4,89.2,peaty,wheat,mop
+56,43,98,26.6,25.2,74.6,loamy,soybean,ammonium sulfate
+21,74,68,35.6,25.4,66.8,peaty,soybean,urea
+16,90,99,34.6,73.7,58.6,sandy,soybean,urea
+21,47,31,26.5,69.2,51.9,clay,millet,urea
+69,0,87,35.7,22.6,64.8,sandy,wheat,dap
+7,40,72,20.4,54.7,86.7,sandy,maize,urea
+99,78,53,27.8,10.1,35.1,sandy,millet,urea
+73,87,76,17.1,76.6,34.9,clay,wheat,mop
+8,18,32,21.0,22.6,57.7,clay,maize,urea
+41,84,61,18.9,67.1,31.9,sandy,sorghum,ammonium sulfate
+11,30,18,31.1,43.2,46.0,loamy,millet,urea
+88,48,32,23.6,50.2,79.0,saline,maize,superphosphate
+74,97,32,35.9,30.1,39.1,loamy,barley,ammonium sulfate
+3,80,66,21.0,51.0,23.6,clay,soybean,urea
+57,77,63,26.8,13.7,86.8,saline,wheat,urea
+19,10,30,18.1,30.6,30.7,clay,sugarcane,urea
+52,87,10,19.7,51.4,85.4,clay,maize,mop
+52,38,85,33.2,49.0,57.6,loamy,soybean,complex fertilizer
+71,0,1,20.5,38.7,58.8,saline,wheat,dap
+53,60,77,17.3,21.4,25.5,loamy,barley,urea
+23,78,3,19.5,85.8,23.6,loamy,wheat,urea
+33,72,85,29.6,35.7,62.2,loamy,soybean,superphosphate
+10,84,65,24.6,13.7,34.6,saline,barley,urea
+64,65,100,34.3,80.4,64.0,saline,rice,complex fertilizer
+78,17,15,19.1,86.3,42.7,peaty,rice,dap
+18,48,59,26.9,33.3,58.1,peaty,barley,urea
+0,55,98,26.0,66.8,60.5,saline,soybean,urea
+58,74,75,29.9,13.7,21.6,sandy,sorghum,dap
+85,75,35,25.7,22.6,75.4,clay,sorghum,dap
+95,17,66,22.5,75.4,54.1,saline,sugarcane,dap
+7,58,33,39.4,11.4,28.0,loamy,barley,urea
+8,51,11,26.3,29.1,87.9,saline,rice,urea
+31,65,31,25.7,76.4,54.3,sandy,sugarcane,superphosphate
+88,76,26,19.5,59.6,65.7,clay,cotton,mop
+69,31,32,36.4,72.7,62.5,saline,maize,urea
+98,32,71,24.0,19.5,66.8,clay,maize,complex fertilizer
+34,90,82,35.4,12.4,24.7,peaty,rice,complex fertilizer
+32,82,68,39.9,61.9,22.2,peaty,sugarcane,mop
+54,7,22,38.2,59.4,36.7,peaty,soybean,dap
+59,75,8,33.3,48.7,81.6,saline,groundnut,mop
+83,54,32,21.8,71.5,74.0,sandy,groundnut,dap
+12,85,38,24.7,12.8,37.4,loamy,maize,urea
+27,69,74,30.2,26.6,76.8,loamy,sugarcane,urea
+45,84,60,28.5,33.8,83.7,sandy,groundnut,ammonium sulfate
+29,89,82,39.9,81.2,82.9,peaty,millet,urea
+87,45,92,22.5,57.2,37.2,clay,soybean,ammonium sulfate
+22,64,63,21.9,84.8,57.9,clay,soybean,urea
+97,48,34,26.2,59.6,76.7,saline,sorghum,mop
+21,39,63,17.1,33.7,35.3,loamy,sugarcane,urea
+79,36,13,31.8,86.5,70.6,loamy,sugarcane,mop
+63,40,89,29.4,10.1,66.2,loamy,rice,superphosphate
+34,73,88,30.6,46.0,89.1,saline,barley,mop
+33,67,2,33.0,56.2,79.3,sandy,barley,mop
+16,78,51,24.7,69.6,89.0,sandy,maize,urea
+35,18,88,29.6,41.6,86.3,saline,barley,dap
+9,46,32,17.0,31.1,84.8,saline,maize,urea
+2,75,63,39.7,46.9,69.4,sandy,millet,urea
+76,99,46,21.8,28.7,24.4,saline,barley,dap
+55,10,87,18.6,78.8,58.7,clay,soybean,dap
+14,7,23,31.3,39.2,36.8,loamy,sugarcane,urea
+3,99,74,28.8,38.4,56.6,sandy,millet,urea
+67,19,69,27.1,11.4,69.9,clay,cotton,dap
+63,66,0,27.4,73.4,88.9,loamy,groundnut,mop
+95,57,89,37.5,20.6,43.4,sandy,sorghum,dap
+57,0,87,24.1,61.6,64.4,loamy,soybean,dap
+66,45,82,25.9,48.8,56.3,saline,cotton,mop
+34,29,58,36.7,67.2,80.9,saline,sugarcane,dap
+2,64,80,18.1,31.5,50.7,clay,soybean,urea
+56,98,60,39.3,53.4,69.6,peaty,soybean,urea
+99,38,80,31.6,30.8,26.9,saline,wheat,mop
+79,95,75,32.4,68.7,76.8,sandy,sugarcane,urea
+72,77,12,19.0,85.5,55.5,peaty,rice,mop
+92,100,56,32.4,52.4,53.1,loamy,soybean,urea
+61,100,56,31.8,78.3,27.0,clay,maize,ammonium sulfate
+83,60,24,37.7,68.8,23.8,loamy,sorghum,mop
+61,19,29,25.5,12.9,63.2,saline,soybean,dap
+54,26,27,30.6,58.8,86.4,clay,rice,dap
+68,73,80,30.1,68.1,85.3,loamy,soybean,ammonium sulfate
+24,1,38,23.6,68.0,32.9,loamy,soybean,urea
+75,1,45,21.2,78.4,20.6,sandy,soybean,dap
+66,85,90,30.7,63.0,72.5,peaty,maize,urea
+24,48,23,19.9,59.5,51.4,sandy,groundnut,urea
+88,79,96,25.1,39.3,90.0,peaty,sorghum,mop
+35,32,16,28.9,28.2,89.8,loamy,wheat,mop
+62,73,34,26.0,81.0,24.3,loamy,rice,superphosphate
+100,76,81,23.9,29.0,25.4,sandy,soybean,mop
+25,37,14,32.6,72.1,54.9,sandy,maize,urea
+80,15,48,30.2,60.7,51.5,loamy,cotton,dap
+14,20,13,30.1,11.0,88.4,saline,groundnut,urea
+36,88,60,30.8,56.4,38.1,peaty,barley,complex fertilizer
+43,51,22,38.5,69.8,44.7,loamy,soybean,mop
+9,27,66,29.2,13.6,88.5,peaty,rice,urea
+84,73,79,37.3,72.1,44.4,loamy,sugarcane,superphosphate
+47,80,63,28.6,63.8,83.2,peaty,barley,ammonium sulfate
+57,34,9,34.0,39.4,38.0,clay,sugarcane,mop
+1,99,15,20.1,84.1,21.2,loamy,sugarcane,urea
+10,66,92,28.0,67.6,70.6,saline,sorghum,urea
+70,3,87,28.6,30.9,61.6,sandy,rice,dap
+84,58,76,15.4,66.8,45.1,saline,groundnut,superphosphate
+7,31,16,33.8,54.0,80.3,peaty,sorghum,urea
+34,78,35,24.8,35.0,30.2,sandy,sugarcane,superphosphate
+98,57,99,20.8,69.7,33.4,peaty,groundnut,superphosphate
+30,82,2,15.7,79.7,58.1,saline,maize,mop
+45,64,98,33.9,86.8,43.1,sandy,sorghum,urea
+41,47,86,27.4,14.6,20.2,peaty,maize,mop
+30,83,73,37.5,68.3,54.2,clay,maize,complex fertilizer
+46,49,59,29.5,14.9,38.9,saline,barley,dap
+46,24,22,32.4,59.8,44.3,saline,maize,dap
+20,41,50,25.6,62.2,24.2,loamy,millet,urea
+64,41,72,21.5,66.6,40.3,sandy,millet,complex fertilizer
+91,53,4,27.6,24.9,64.6,loamy,wheat,mop
+55,72,24,20.8,17.5,35.9,loamy,sorghum,mop
+49,56,23,31.6,45.6,63.3,saline,sorghum,mop
+60,90,56,18.2,12.7,70.8,saline,rice,urea
+39,7,97,38.6,22.8,79.8,clay,wheat,dap
+83,88,6,22.6,88.8,69.4,sandy,barley,mop
+87,29,99,29.4,89.1,20.5,clay,sorghum,dap
+17,13,48,27.5,65.6,32.8,saline,barley,urea
+54,6,16,38.8,40.4,58.6,peaty,wheat,dap
+89,94,11,37.5,18.9,27.9,peaty,sugarcane,mop
+50,89,15,37.7,33.9,64.8,saline,sorghum,mop
+40,32,84,26.4,80.3,54.1,clay,sugarcane,superphosphate
+6,45,27,35.7,83.9,58.7,sandy,wheat,urea
+66,21,66,26.4,17.7,36.6,loamy,millet,dap
+85,92,38,15.4,16.1,56.5,loamy,barley,ammonium sulfate
+67,5,12,35.8,87.2,35.7,peaty,millet,dap
+58,53,83,31.1,24.0,29.8,sandy,soybean,mop
+35,11,17,20.0,20.1,33.6,peaty,cotton,dap
+63,87,95,18.1,54.1,49.2,loamy,groundnut,urea
+70,87,32,35.0,34.0,39.5,clay,maize,complex fertilizer
+96,1,85,29.4,72.0,50.7,peaty,maize,dap
+3,87,84,38.8,22.7,65.6,peaty,rice,urea
+81,73,88,19.5,53.4,79.1,clay,sugarcane,mop
+79,72,16,20.5,24.9,55.2,peaty,soybean,mop
+7,12,87,22.9,73.3,59.3,peaty,rice,urea
+7,33,79,31.5,31.1,40.2,clay,barley,urea
+12,19,83,28.0,82.1,27.6,clay,wheat,urea
+0,57,54,31.3,18.3,27.1,clay,cotton,urea
+34,100,29,24.0,47.6,50.8,peaty,wheat,mop
+92,18,16,22.4,21.7,48.0,loamy,cotton,dap
+13,75,43,35.7,45.5,45.2,loamy,groundnut,urea
+87,13,86,32.0,51.8,26.6,sandy,rice,dap
+19,19,76,32.0,31.1,50.5,saline,sugarcane,urea
+78,1,71,37.4,52.6,27.7,sandy,sugarcane,dap
+26,5,62,24.2,23.3,70.5,sandy,barley,urea
+37,67,66,18.8,87.3,57.7,peaty,millet,urea
+73,39,44,30.3,43.9,87.6,peaty,soybean,ammonium sulfate
+82,92,6,17.3,24.0,43.3,clay,groundnut,mop
+51,44,81,18.5,87.2,31.1,saline,maize,mop
+97,55,93,31.7,57.1,84.7,clay,groundnut,superphosphate
+8,34,58,18.1,87.5,34.0,peaty,rice,urea
+96,72,63,15.8,60.0,53.6,peaty,maize,urea
+73,63,92,34.9,52.8,39.9,loamy,sugarcane,ammonium sulfate
+47,5,99,30.3,74.3,25.8,clay,millet,dap
+46,48,1,28.3,67.3,47.3,sandy,soybean,mop
+87,55,93,37.2,59.8,20.8,sandy,groundnut,mop
+41,31,49,23.7,45.6,70.9,loamy,groundnut,ammonium sulfate
+87,65,33,25.1,68.7,87.8,peaty,wheat,mop
+45,94,71,20.0,72.6,58.3,clay,cotton,urea
+66,10,65,17.0,26.4,77.1,peaty,cotton,dap
+71,13,82,19.6,72.2,89.0,clay,maize,dap
+84,39,53,19.8,53.8,33.9,peaty,sugarcane,ammonium sulfate
+68,38,28,28.1,37.0,44.2,peaty,groundnut,mop
+24,19,65,24.1,55.6,37.2,sandy,wheat,urea
+50,55,62,27.9,88.8,66.4,loamy,rice,complex fertilizer
+80,84,60,19.1,46.3,25.9,loamy,rice,urea
+49,60,4,21.7,11.0,72.2,loamy,sugarcane,mop
+61,62,68,31.5,11.1,65.8,loamy,cotton,complex fertilizer
+79,2,25,28.8,37.3,53.3,peaty,maize,dap
+10,45,46,36.0,53.5,45.8,peaty,groundnut,urea
+71,23,78,23.7,62.5,25.1,saline,maize,dap
+97,48,92,19.9,39.2,29.8,loamy,sorghum,urea
+94,55,17,17.7,80.3,23.5,loamy,maize,mop
+60,44,80,23.1,44.0,56.0,loamy,cotton,urea
+37,84,17,31.4,56.1,60.4,sandy,cotton,mop
+39,22,54,35.8,55.1,22.7,clay,wheat,dap
+39,57,97,17.2,84.9,56.8,sandy,cotton,urea
+0,95,62,31.7,17.1,53.2,saline,millet,urea
+51,85,16,19.4,71.0,71.1,peaty,sugarcane,mop
+62,9,27,29.5,33.7,58.9,sandy,maize,dap
+17,95,65,39.9,42.8,74.6,loamy,soybean,urea
+35,70,17,24.3,17.6,36.2,peaty,millet,mop
+100,93,26,39.4,48.1,51.7,loamy,wheat,mop
+80,18,16,16.8,14.5,62.4,clay,groundnut,dap
+35,51,7,17.1,58.2,42.2,peaty,soybean,mop
+26,48,28,32.4,30.3,69.3,saline,rice,urea
+65,37,69,19.0,43.6,47.4,sandy,cotton,superphosphate
+5,47,94,22.1,54.3,64.9,loamy,soybean,urea
+87,35,10,30.1,39.7,78.2,loamy,maize,mop
+18,13,50,30.3,19.4,84.0,peaty,rice,urea
+17,49,10,34.6,42.8,29.6,saline,millet,urea
+57,70,61,38.8,86.3,21.3,saline,groundnut,superphosphate
+17,11,65,36.6,22.1,46.5,saline,rice,urea
+30,18,73,32.9,60.8,57.5,loamy,barley,dap
+61,87,91,38.1,26.1,75.4,clay,barley,superphosphate
+37,94,13,30.2,77.2,26.5,clay,maize,mop
+77,6,89,30.6,29.7,30.3,sandy,wheat,dap
+14,35,91,18.5,41.8,73.9,saline,maize,urea
+15,9,38,18.5,73.6,26.5,peaty,wheat,urea
+34,94,42,33.9,27.7,20.4,peaty,sorghum,urea
+29,40,41,38.1,60.1,36.1,loamy,millet,urea
+2,78,3,16.1,58.7,87.2,peaty,millet,urea
+72,53,60,38.2,64.5,25.3,loamy,soybean,complex fertilizer
+88,57,68,20.4,44.5,42.2,clay,rice,superphosphate
+94,14,90,20.1,70.4,26.5,clay,wheat,dap
+47,58,86,38.0,67.6,72.5,peaty,millet,superphosphate
+5,38,54,16.6,32.0,78.1,clay,wheat,urea
+46,91,66,38.2,58.1,57.2,loamy,soybean,urea
+74,99,45,29.1,62.5,67.4,loamy,sorghum,ammonium sulfate
+47,80,46,26.2,20.2,85.3,loamy,millet,complex fertilizer
+81,51,91,16.8,46.1,48.7,sandy,soybean,complex fertilizer
+42,9,50,30.6,47.2,89.4,clay,rice,dap
+75,81,21,26.8,48.3,51.4,sandy,groundnut,mop
+50,88,93,36.6,26.2,78.4,sandy,sugarcane,dap
+91,75,64,21.7,27.4,80.1,clay,maize,ammonium sulfate
+49,75,13,22.1,32.3,44.1,loamy,sorghum,mop
+75,50,57,25.5,78.8,44.2,loamy,groundnut,mop
+0,90,54,38.3,58.9,75.1,clay,cotton,urea
+29,70,77,39.8,65.8,69.3,clay,rice,urea
+91,39,95,20.1,57.7,29.1,clay,soybean,ammonium sulfate
+82,38,82,28.9,27.2,49.8,peaty,cotton,dap
+98,9,22,18.4,14.0,46.0,saline,barley,dap
+26,60,12,28.7,17.5,62.4,loamy,millet,urea
+61,0,89,18.6,20.1,25.1,loamy,rice,dap
+55,70,95,22.1,39.1,80.5,loamy,wheat,ammonium sulfate
+13,51,100,35.4,50.2,41.9,sandy,sugarcane,urea
+41,10,49,24.5,27.4,82.6,saline,maize,dap
+11,91,5,18.3,59.2,44.2,sandy,cotton,urea
+50,82,98,23.9,44.3,21.1,clay,millet,mop
+36,51,71,24.1,38.0,72.3,saline,millet,urea
+21,11,26,34.2,18.9,41.3,loamy,maize,urea
+8,20,12,37.6,13.9,60.5,peaty,rice,urea
+12,85,31,15.9,35.0,43.0,saline,maize,urea
+77,86,19,21.0,57.5,88.0,clay,groundnut,mop
+47,72,55,27.0,87.6,46.3,saline,barley,complex fertilizer
+17,80,51,37.7,54.3,53.3,saline,groundnut,urea
+85,51,22,24.9,65.0,48.4,sandy,cotton,mop
+55,29,19,38.7,34.7,47.9,sandy,sugarcane,dap
+79,4,78,38.0,53.1,82.0,saline,barley,dap
+38,55,4,15.9,80.9,77.1,peaty,maize,mop
+10,78,3,19.8,88.2,67.2,clay,soybean,urea
+14,50,73,16.5,73.3,60.4,saline,barley,urea
+81,83,16,30.1,10.6,20.7,peaty,barley,mop
+11,1,18,29.0,54.2,86.0,sandy,sorghum,urea
+45,7,89,37.9,15.1,21.5,peaty,groundnut,dap
+69,30,64,18.5,54.9,47.8,loamy,wheat,superphosphate
+5,42,23,22.0,54.9,84.7,loamy,cotton,urea
+60,47,97,39.5,73.9,73.7,peaty,maize,dap
+64,52,9,22.0,71.3,83.1,peaty,soybean,mop
+96,9,57,39.8,39.9,55.3,loamy,wheat,dap
+23,24,88,32.5,35.2,25.4,peaty,rice,urea
+51,64,1,28.3,25.6,27.9,clay,groundnut,mop
+95,35,32,28.2,49.8,56.0,clay,maize,urea
+75,90,22,23.1,78.9,61.3,peaty,soybean,mop
+18,71,4,25.6,81.3,33.9,sandy,soybean,urea
+99,68,16,26.7,82.2,39.0,sandy,barley,mop
+93,90,59,32.7,64.9,25.3,loamy,rice,superphosphate
+8,34,55,24.7,64.3,55.3,loamy,sorghum,urea
+52,76,74,22.3,24.9,26.7,sandy,rice,superphosphate
+65,87,97,38.6,74.3,72.4,sandy,soybean,ammonium sulfate
+0,43,58,25.6,28.8,35.2,saline,wheat,urea
+51,76,100,23.8,12.7,59.0,sandy,millet,superphosphate
+38,72,50,33.3,78.9,55.6,loamy,rice,mop
+63,56,19,20.0,72.4,47.4,saline,millet,mop
+32,57,19,38.4,84.3,53.5,peaty,groundnut,mop
+12,20,7,24.2,31.4,64.5,saline,soybean,urea
+66,26,21,33.3,80.0,40.7,peaty,cotton,dap
+62,54,92,30.3,41.3,70.0,clay,wheat,urea
+64,15,24,37.3,70.0,36.1,sandy,sorghum,dap
+13,51,11,26.6,47.0,27.0,saline,soybean,urea
+62,22,91,20.5,17.6,60.8,clay,soybean,dap
+65,15,39,28.3,86.5,31.4,clay,groundnut,dap
+50,83,48,29.0,60.7,62.1,saline,barley,mop
+95,55,97,24.4,10.4,79.3,clay,soybean,urea
+24,72,9,32.5,77.0,34.4,sandy,barley,urea
+15,60,93,27.4,37.2,40.1,sandy,soybean,urea
+90,8,56,18.3,28.2,61.6,saline,maize,dap
+14,100,71,30.1,28.5,86.7,sandy,barley,urea
+53,53,61,27.1,78.1,50.9,saline,cotton,urea
+3,64,95,26.4,79.8,35.9,peaty,barley,urea
+26,81,7,25.2,43.8,25.0,sandy,rice,urea
+90,47,60,27.7,41.5,20.7,sandy,sugarcane,ammonium sulfate
+64,33,61,31.7,85.5,57.6,sandy,groundnut,complex fertilizer
+41,51,74,29.4,79.6,76.3,sandy,maize,complex fertilizer
+84,82,25,23.1,28.0,40.6,loamy,wheat,mop
+63,61,15,35.8,24.5,77.0,peaty,groundnut,mop
+51,60,76,38.8,53.4,70.0,loamy,barley,urea
+3,63,65,36.1,78.1,31.9,peaty,sorghum,urea
+22,43,89,26.5,48.7,69.6,clay,soybean,urea
+39,24,100,30.5,44.7,65.9,clay,wheat,dap
+62,45,20,32.3,69.3,86.4,sandy,rice,mop
+27,34,26,22.6,64.2,78.3,sandy,rice,urea
+71,88,18,17.8,67.7,34.4,saline,groundnut,mop
+98,24,50,22.8,33.6,71.0,clay,barley,dap
+70,37,46,37.4,10.8,69.6,clay,cotton,urea
+99,35,93,32.8,60.4,78.9,peaty,rice,complex fertilizer
+55,17,32,19.1,83.2,71.5,saline,groundnut,dap
+19,28,12,20.3,12.0,27.5,sandy,sorghum,urea
+26,14,43,35.9,65.9,83.9,sandy,barley,urea
+21,24,18,38.3,86.1,46.9,saline,rice,urea
+98,85,77,22.1,22.2,69.2,loamy,barley,dap
+64,46,93,28.2,63.8,45.1,peaty,maize,dap
+86,36,90,18.8,88.9,40.3,sandy,groundnut,ammonium sulfate
+39,52,94,29.8,12.9,28.8,saline,rice,dap
+72,67,33,28.0,61.1,58.2,sandy,groundnut,dap
+44,57,96,22.8,56.3,54.9,sandy,wheat,mop
+84,39,78,27.7,33.8,45.5,sandy,soybean,dap
+61,72,18,22.6,72.3,54.5,clay,groundnut,mop
+89,81,74,35.4,29.1,78.8,sandy,wheat,mop
+21,77,26,18.9,23.3,52.2,peaty,millet,urea
+94,1,3,31.4,88.8,44.8,loamy,millet,dap
+19,49,76,29.5,65.2,72.6,clay,soybean,urea
+21,34,55,20.1,55.7,33.1,peaty,millet,urea
+46,83,93,32.7,28.4,32.0,saline,wheat,urea
+98,63,39,15.2,25.2,30.4,saline,sugarcane,urea
+91,12,85,25.5,71.5,22.2,peaty,maize,dap
+69,23,38,21.4,39.5,42.7,sandy,groundnut,dap
+37,79,32,19.5,68.4,73.9,peaty,soybean,mop
+50,88,36,18.9,62.1,56.2,clay,sugarcane,urea
+64,94,23,18.3,25.3,36.2,loamy,wheat,mop
+37,86,96,34.3,10.2,34.4,saline,barley,superphosphate
+6,65,88,17.1,41.2,38.3,saline,rice,urea
+36,58,85,19.0,16.5,71.0,clay,sorghum,complex fertilizer
+81,83,66,27.7,78.4,29.9,loamy,groundnut,ammonium sulfate
+7,21,77,19.8,30.2,64.6,peaty,barley,urea
+52,74,94,27.9,38.2,34.8,peaty,cotton,ammonium sulfate
+82,65,70,28.6,49.1,88.6,sandy,barley,mop
+61,4,70,32.2,34.4,26.9,peaty,rice,dap
+7,40,15,37.1,73.4,50.9,peaty,cotton,urea
+8,58,42,28.2,15.9,79.4,clay,groundnut,urea
+77,20,87,19.1,11.9,42.3,loamy,millet,dap
+92,6,57,24.6,57.5,70.0,peaty,wheat,dap
+28,83,40,27.7,43.0,59.9,clay,millet,urea
+86,92,79,32.5,13.0,69.0,clay,soybean,mop
+74,19,78,36.2,72.7,67.1,sandy,barley,dap
+9,78,9,39.5,30.5,52.7,clay,soybean,urea
+100,53,33,37.0,73.1,20.1,saline,soybean,urea
+32,78,42,32.6,64.1,50.9,saline,millet,mop
+98,77,82,37.3,58.1,21.9,sandy,maize,mop
+72,26,20,30.6,49.1,89.6,peaty,millet,dap
+48,52,58,28.4,62.4,84.9,loamy,soybean,urea
+59,19,8,31.2,14.1,56.5,sandy,sugarcane,dap
+87,21,58,38.9,74.0,47.7,sandy,wheat,dap
+45,55,57,33.4,74.2,57.2,loamy,cotton,dap
+42,90,55,29.2,59.6,70.3,sandy,soybean,dap
+7,11,58,18.4,86.3,33.5,sandy,cotton,urea
+78,61,40,38.4,82.6,84.6,sandy,barley,dap
+84,70,54,33.2,72.9,31.0,peaty,millet,ammonium sulfate
+43,75,98,22.5,88.6,58.8,peaty,cotton,urea
+9,12,60,20.0,87.3,79.8,clay,soybean,urea
+65,40,19,29.8,64.3,56.8,saline,sorghum,mop
+90,4,98,24.5,76.4,89.2,loamy,sugarcane,dap
+55,78,95,23.4,15.9,23.0,loamy,barley,urea
+71,2,82,34.2,60.8,36.5,loamy,millet,dap
+68,70,92,16.5,79.7,22.1,peaty,wheat,superphosphate
+34,19,48,33.1,62.7,38.7,clay,maize,dap
+8,73,42,15.4,15.8,48.2,peaty,wheat,urea
+29,79,77,32.0,28.7,37.5,sandy,sugarcane,urea
+32,32,54,15.1,44.0,23.1,saline,barley,complex fertilizer
+93,59,86,38.1,71.9,36.3,clay,millet,ammonium sulfate
+14,84,30,37.2,81.3,31.9,loamy,millet,urea
+13,37,94,35.5,61.8,27.5,sandy,sorghum,urea
+71,53,5,33.7,71.5,34.1,sandy,maize,mop
+53,6,93,16.7,16.9,82.6,clay,groundnut,dap
+16,58,29,27.7,38.1,64.5,peaty,cotton,urea
+24,37,34,36.1,62.9,82.9,sandy,wheat,urea
+42,96,32,39.6,87.6,74.0,saline,rice,superphosphate
+0,44,40,31.7,82.5,75.6,loamy,wheat,urea
+15,12,40,39.6,20.8,67.1,clay,wheat,urea
+19,97,43,19.0,41.5,67.1,clay,millet,urea
+37,97,100,16.2,15.6,67.7,loamy,soybean,mop
+44,90,12,16.0,83.0,28.1,peaty,barley,mop
+84,51,88,22.6,63.2,59.2,loamy,soybean,mop
+94,82,50,34.5,47.5,47.7,clay,rice,dap
+90,72,67,36.2,88.9,48.0,peaty,millet,urea
+40,3,93,35.1,69.5,49.5,loamy,groundnut,dap
+71,40,36,28.9,35.8,88.6,loamy,groundnut,superphosphate
+39,81,63,27.1,74.6,22.4,sandy,soybean,dap
+63,84,73,18.4,71.6,41.3,clay,soybean,ammonium sulfate
+58,80,12,23.7,26.2,26.4,clay,cotton,mop
+59,4,83,15.9,83.9,40.1,loamy,groundnut,dap
+44,76,89,24.1,44.8,78.3,saline,maize,urea
+19,24,57,36.3,42.3,26.5,peaty,sugarcane,urea
+49,36,5,26.1,18.9,83.4,clay,cotton,mop
+80,59,29,23.9,86.8,33.1,saline,sorghum,mop
+6,26,11,31.6,76.6,72.9,loamy,soybean,urea
+84,12,77,39.0,39.6,76.4,sandy,groundnut,dap
+4,0,55,30.1,77.6,45.6,peaty,barley,urea
+1,68,69,17.6,89.1,23.7,loamy,millet,urea
+24,19,46,39.6,55.4,46.9,peaty,rice,urea
+1,91,85,15.5,38.0,83.1,clay,wheat,urea
+46,65,79,17.7,45.8,52.3,saline,cotton,dap
+70,16,58,35.3,66.5,60.8,peaty,barley,dap
+20,31,94,28.6,75.0,30.3,saline,rice,urea
+75,34,22,36.6,22.4,89.4,peaty,sugarcane,mop
+5,12,11,34.9,63.9,64.2,clay,cotton,urea
+0,78,81,37.6,26.4,34.0,saline,soybean,urea
+9,35,47,15.2,75.9,57.6,clay,wheat,urea
+7,83,2,22.1,48.6,71.4,loamy,sorghum,urea
+15,95,56,18.9,17.2,43.0,sandy,sorghum,urea
+24,12,28,36.7,68.0,86.1,peaty,soybean,urea
+35,93,24,19.3,79.3,80.5,saline,sorghum,mop
+1,97,92,18.4,27.6,78.2,clay,groundnut,urea
+46,88,96,36.6,13.4,78.2,sandy,soybean,ammonium sulfate
+94,64,65,34.5,14.2,66.9,loamy,sorghum,urea
+99,84,31,35.1,66.2,41.6,saline,cotton,mop
+27,47,16,36.9,80.1,67.5,peaty,groundnut,urea
+6,79,87,25.9,78.3,50.7,sandy,wheat,urea
+1,98,27,17.4,24.7,69.2,sandy,groundnut,urea
+51,26,72,15.8,38.1,37.8,saline,millet,dap
+15,88,58,36.6,26.1,42.4,peaty,cotton,urea
+96,6,81,16.2,51.9,85.1,peaty,cotton,dap
+69,45,99,24.0,68.5,29.3,peaty,rice,mop
+58,58,54,24.8,13.1,88.7,saline,groundnut,mop
+9,22,86,38.9,64.0,32.5,clay,millet,urea
+97,4,97,20.1,74.3,50.2,peaty,millet,dap
+85,42,1,19.1,66.5,41.6,clay,cotton,mop
+60,30,71,29.0,85.1,70.8,saline,millet,ammonium sulfate
+23,67,11,33.5,16.4,52.2,loamy,sugarcane,urea
+0,95,4,16.1,25.7,86.3,clay,wheat,urea
+25,57,22,32.3,21.6,74.5,saline,sugarcane,urea
+74,29,67,15.5,65.7,77.3,sandy,rice,dap
+7,67,52,25.8,81.1,63.5,saline,wheat,urea
+61,3,67,35.5,34.5,41.4,loamy,maize,dap
+25,93,4,24.7,59.3,49.9,peaty,barley,urea
+11,93,38,32.2,19.5,86.1,sandy,cotton,urea
+70,17,73,26.9,73.3,32.5,saline,maize,dap
+28,70,85,21.7,38.0,23.4,clay,sugarcane,urea
+23,6,66,18.5,85.9,29.0,clay,barley,urea
+5,51,72,29.0,45.3,39.0,clay,soybean,urea
+41,63,37,31.0,14.3,38.7,sandy,rice,superphosphate
+7,81,0,26.3,53.4,40.8,peaty,wheat,urea
+92,15,25,15.2,67.2,70.5,loamy,sorghum,dap
+69,76,94,21.6,36.2,56.0,saline,wheat,complex fertilizer
+30,7,61,15.2,49.0,53.8,clay,millet,dap
+98,85,95,25.5,40.9,36.6,sandy,cotton,complex fertilizer
+38,44,18,35.2,80.9,29.6,sandy,wheat,mop
+65,87,20,35.2,12.5,32.8,peaty,barley,mop
+39,94,48,26.8,46.8,81.6,sandy,cotton,urea
+92,97,0,26.6,34.6,45.6,clay,groundnut,mop
+2,88,37,26.6,88.6,71.4,saline,maize,urea
+20,38,95,32.4,79.1,86.8,peaty,sugarcane,urea
+53,87,43,18.5,26.2,33.8,saline,soybean,complex fertilizer
+5,57,21,18.2,51.8,50.4,clay,wheat,urea
+2,62,54,20.0,24.6,49.7,peaty,cotton,urea
+62,66,11,34.8,80.6,41.9,loamy,rice,mop
+30,98,5,31.4,15.7,20.9,clay,maize,mop
+96,26,0,35.5,27.9,54.3,loamy,rice,dap
+85,20,18,38.1,31.4,55.7,loamy,groundnut,dap
+64,76,3,16.2,83.1,60.2,saline,sorghum,mop
+58,24,15,27.4,85.9,62.1,peaty,groundnut,dap
+58,69,47,38.5,50.8,85.0,saline,sugarcane,mop
+80,8,45,24.9,17.8,57.8,sandy,sorghum,dap
+91,37,13,38.7,46.3,60.7,clay,soybean,mop
+93,64,56,31.0,51.7,35.1,loamy,maize,ammonium sulfate
+45,5,74,19.8,89.1,29.6,clay,groundnut,dap
+3,76,61,27.1,33.9,29.3,clay,soybean,urea
+98,2,58,29.9,52.1,71.1,saline,groundnut,dap
+66,25,20,20.7,58.1,52.9,peaty,millet,dap
+51,56,97,21.8,45.9,78.9,sandy,millet,urea
+27,45,63,28.2,26.8,67.6,sandy,soybean,urea
+66,75,76,15.6,11.4,65.6,peaty,maize,urea
+24,6,51,35.9,65.2,38.3,saline,sugarcane,urea
+77,13,80,37.1,62.5,82.9,peaty,sorghum,dap
+33,30,58,22.0,68.5,81.2,saline,sorghum,dap
+100,66,21,28.2,23.2,48.3,sandy,barley,mop
+19,84,1,25.0,84.6,52.9,peaty,soybean,urea
+68,43,63,35.1,41.0,35.1,sandy,wheat,urea
+0,80,71,29.2,24.2,36.7,peaty,maize,urea
+44,61,26,23.4,79.6,42.6,saline,soybean,mop
+2,10,8,22.0,86.2,88.3,saline,soybean,urea
+95,66,63,22.9,23.2,46.9,clay,cotton,mop
+41,43,19,15.2,45.5,63.3,peaty,soybean,mop
+22,99,36,36.8,52.8,42.5,sandy,maize,urea
+14,71,16,25.4,50.9,53.8,sandy,soybean,urea
+82,65,30,27.2,25.3,60.3,sandy,wheat,superphosphate
+85,63,47,31.5,75.3,64.5,peaty,wheat,dap
+30,0,61,18.7,22.3,29.8,clay,rice,dap
+17,65,85,28.5,34.2,30.9,sandy,sorghum,urea
+33,1,97,21.7,84.7,28.5,loamy,rice,dap
+85,16,27,20.4,42.0,81.8,sandy,maize,dap
+22,18,49,25.7,11.5,87.3,loamy,sugarcane,urea
+60,34,72,27.4,81.2,85.7,peaty,rice,urea
+75,15,4,38.5,45.7,88.7,loamy,soybean,dap
+42,73,74,26.8,89.2,23.5,clay,maize,ammonium sulfate
+81,76,23,21.9,83.9,48.6,saline,wheat,mop
+4,98,97,36.4,60.2,31.2,saline,soybean,urea
+18,60,35,29.3,11.7,81.3,clay,groundnut,urea
+92,24,63,32.8,74.5,67.6,saline,rice,dap
+38,25,2,25.4,70.8,74.1,saline,rice,dap
+16,13,40,35.3,19.4,45.4,clay,rice,urea
+52,37,29,39.1,29.3,29.3,saline,millet,mop
+20,100,77,34.8,63.3,46.5,clay,millet,urea
+27,93,62,37.4,46.4,65.1,peaty,cotton,urea
+57,6,4,24.1,16.1,49.9,sandy,rice,dap
+21,38,38,18.6,50.0,87.4,saline,sugarcane,urea
+53,77,41,22.9,22.8,38.4,loamy,millet,urea
+16,9,81,19.4,49.1,81.1,clay,groundnut,urea
+91,5,36,22.0,44.2,34.2,loamy,maize,dap
+42,32,28,30.6,78.3,73.8,loamy,barley,mop
+66,45,22,33.8,58.7,50.9,peaty,soybean,mop
+1,39,19,22.3,14.0,70.1,sandy,barley,urea
+100,61,74,27.6,10.9,38.3,saline,soybean,ammonium sulfate
+59,65,13,22.9,24.0,58.9,loamy,barley,mop
+68,62,8,23.0,31.0,23.1,saline,sugarcane,mop
+4,35,51,33.4,89.6,29.5,loamy,rice,urea
+17,71,98,33.1,54.0,55.8,loamy,millet,urea
+56,98,15,38.2,42.7,46.6,peaty,wheat,mop
+70,0,10,36.4,40.2,51.9,saline,cotton,dap
+45,74,57,30.6,19.7,34.4,peaty,rice,complex fertilizer
+67,46,86,36.7,60.3,79.2,clay,barley,urea
+11,18,71,33.1,21.6,73.8,sandy,wheat,urea
+93,12,47,35.8,85.8,45.2,sandy,barley,dap
+26,72,52,36.3,16.6,36.0,sandy,soybean,urea
+12,53,29,25.7,23.0,27.4,loamy,soybean,urea
+10,79,21,24.3,59.5,65.2,saline,sorghum,urea
+63,97,40,33.3,18.0,83.2,clay,sugarcane,dap
+80,80,73,32.6,35.1,55.4,loamy,cotton,mop
+83,11,76,34.0,49.7,84.6,saline,wheat,dap
+86,11,40,33.3,76.7,64.3,peaty,sugarcane,dap
+42,16,14,32.2,46.5,24.5,clay,millet,dap
+0,100,91,19.7,23.0,43.4,peaty,sorghum,urea
+49,79,45,15.6,58.5,42.4,loamy,soybean,dap
+11,67,1,33.8,83.1,83.1,clay,soybean,urea
+100,57,25,25.6,77.7,27.4,saline,millet,mop
+94,80,31,28.3,51.0,26.2,saline,wheat,superphosphate
+9,69,86,22.1,61.7,57.8,saline,groundnut,urea
+82,63,33,29.8,69.0,57.2,peaty,groundnut,complex fertilizer
+4,40,96,20.4,40.6,78.2,sandy,sorghum,urea
+70,56,50,30.4,53.7,28.3,sandy,sugarcane,urea
+65,32,33,18.8,22.1,66.9,peaty,maize,dap
+68,11,65,21.5,65.1,21.2,peaty,barley,dap
+96,67,78,17.6,84.8,58.0,sandy,soybean,ammonium sulfate
+12,62,70,24.3,19.8,63.2,clay,wheat,urea
+86,33,88,34.2,26.2,85.3,saline,millet,urea
+44,61,61,28.9,63.1,25.6,loamy,maize,mop
+100,76,36,15.7,50.6,28.9,saline,sugarcane,urea
+37,75,2,28.8,64.0,27.2,loamy,barley,mop
+9,56,87,37.1,81.5,50.0,sandy,millet,urea
+47,62,95,30.1,74.7,36.4,sandy,maize,dap
+89,17,23,36.8,32.2,27.5,loamy,sorghum,dap
+23,41,28,28.3,39.0,50.3,saline,groundnut,urea
+30,53,82,36.5,72.1,86.6,loamy,maize,urea
+80,43,92,28.7,39.2,20.2,peaty,soybean,superphosphate
+30,56,94,22.1,52.5,40.7,loamy,maize,mop
+87,59,31,18.8,83.0,53.8,saline,cotton,mop
+29,38,44,35.8,18.2,68.9,sandy,wheat,urea
+2,60,33,34.5,67.5,36.4,loamy,groundnut,urea
+2,62,94,28.6,86.4,20.5,peaty,maize,urea
+65,35,59,15.5,49.6,70.0,clay,rice,urea
+57,74,38,27.8,48.6,51.8,clay,cotton,complex fertilizer
+83,74,34,20.5,57.1,76.0,saline,maize,superphosphate
+98,88,95,18.3,46.4,78.8,clay,cotton,mop
+66,41,1,34.1,41.8,84.7,clay,soybean,mop
+6,91,8,18.5,49.9,21.3,saline,wheat,urea
+35,55,82,28.6,54.9,74.3,loamy,barley,ammonium sulfate
+84,70,70,31.9,65.7,82.8,sandy,soybean,superphosphate
+99,91,32,35.9,38.3,25.7,saline,maize,superphosphate
+96,55,45,23.0,48.3,20.3,peaty,millet,superphosphate
+88,77,0,22.1,48.0,78.5,peaty,barley,mop
+24,44,58,19.2,17.9,28.8,saline,sugarcane,urea
+74,33,52,29.2,13.8,82.9,clay,millet,superphosphate
+13,46,97,32.4,89.0,87.7,loamy,maize,urea
+86,63,64,25.2,45.3,32.5,loamy,sorghum,urea
+5,87,85,30.0,83.0,21.9,sandy,soybean,urea
+29,84,9,23.5,20.8,36.9,saline,rice,urea
+55,64,57,16.2,20.5,86.9,clay,rice,dap
+29,82,66,34.9,40.6,51.4,sandy,millet,urea
+71,24,20,37.5,70.5,63.5,clay,groundnut,dap
+50,98,89,26.0,57.3,55.4,peaty,soybean,ammonium sulfate
+10,88,19,32.2,11.7,47.9,loamy,barley,urea
+77,86,90,32.0,26.9,36.9,saline,sorghum,urea
+49,38,16,36.2,68.3,41.1,loamy,cotton,mop
+4,60,40,38.6,40.9,54.1,clay,millet,urea
+7,49,0,32.1,37.9,77.7,clay,soybean,urea
+41,30,32,26.1,16.4,82.6,peaty,maize,complex fertilizer
+37,5,100,37.3,46.5,37.4,sandy,groundnut,dap
+55,60,50,21.6,78.6,22.7,saline,soybean,ammonium sulfate
+52,81,83,32.0,26.8,55.1,peaty,cotton,ammonium sulfate
+59,76,53,34.6,75.3,37.9,peaty,cotton,superphosphate
+93,10,79,28.2,22.8,58.2,sandy,sorghum,dap
+64,73,54,23.6,35.2,85.7,loamy,millet,superphosphate
+58,14,18,37.4,83.9,80.9,peaty,rice,dap
+10,41,2,19.1,56.7,25.4,sandy,soybean,urea
+33,75,95,27.5,13.7,39.7,peaty,sorghum,complex fertilizer
+18,32,81,20.5,85.3,66.6,peaty,maize,urea
+9,86,89,33.9,83.8,67.8,peaty,rice,urea
+94,46,81,34.8,19.2,44.3,sandy,rice,superphosphate
+46,58,44,29.1,39.6,48.9,sandy,sugarcane,complex fertilizer
+34,29,37,15.3,85.1,48.0,clay,barley,dap
+23,93,34,25.4,75.0,82.2,saline,millet,urea
+22,29,17,37.9,85.0,47.5,clay,millet,urea
+99,26,88,33.9,82.4,27.5,clay,rice,dap
+95,3,18,20.7,89.7,58.7,sandy,sugarcane,dap
+2,12,24,33.1,84.7,28.5,loamy,rice,urea
+26,48,73,20.6,33.0,51.0,clay,wheat,urea
+77,84,58,24.4,58.4,46.5,peaty,groundnut,superphosphate
+51,93,80,33.2,52.5,45.5,saline,sorghum,urea
+99,33,87,23.5,45.0,75.6,loamy,sugarcane,urea
+21,52,20,15.1,10.8,85.6,saline,sorghum,urea
+64,5,69,15.7,75.2,59.6,clay,groundnut,dap
+74,2,96,24.5,73.6,44.2,saline,barley,dap
+7,12,27,36.6,86.9,39.6,clay,barley,urea
+95,29,65,16.6,12.2,51.5,clay,millet,dap
+33,23,96,38.4,22.2,27.3,loamy,groundnut,dap
+35,9,86,35.0,35.6,61.9,loamy,cotton,dap
+8,19,39,21.9,71.6,66.6,clay,groundnut,urea
+13,86,17,38.1,27.2,47.2,loamy,maize,urea
+85,74,23,36.9,21.5,50.3,sandy,sugarcane,mop
+19,84,2,23.1,19.0,35.8,sandy,cotton,urea
+24,48,98,26.6,79.2,26.4,peaty,soybean,urea
+25,88,70,27.2,82.5,52.9,saline,sugarcane,urea
+2,36,66,27.8,76.5,60.4,sandy,cotton,urea
+34,33,4,25.4,41.3,23.7,loamy,wheat,mop
+48,48,80,16.8,88.5,69.8,loamy,millet,superphosphate
+6,26,4,34.9,53.8,63.5,peaty,cotton,urea
+18,50,27,39.7,10.2,59.7,loamy,cotton,urea
+83,95,85,24.1,49.1,80.0,peaty,groundnut,complex fertilizer
+4,5,23,17.6,29.9,34.5,clay,cotton,urea
+82,27,59,39.4,55.6,72.3,peaty,wheat,dap
+73,80,49,19.5,60.8,56.5,peaty,barley,urea
+69,52,38,34.0,89.1,24.8,sandy,soybean,mop
+22,48,62,32.9,85.5,48.5,clay,wheat,urea
+93,55,19,34.8,34.9,81.2,clay,sorghum,mop
+2,34,59,27.2,70.3,61.4,peaty,sugarcane,urea
+64,61,28,19.9,19.2,32.6,saline,sugarcane,mop
+9,99,9,18.0,58.6,54.8,sandy,maize,urea
+7,76,80,22.0,13.6,29.4,clay,groundnut,urea
+32,32,93,20.7,61.5,32.5,clay,sorghum,urea
+89,47,39,24.5,49.9,58.3,peaty,sorghum,complex fertilizer
+3,95,1,39.4,44.3,22.8,saline,sugarcane,urea
+94,8,75,18.5,70.2,44.2,peaty,maize,dap
+27,31,20,26.2,52.3,60.7,clay,millet,urea
+14,68,46,17.5,34.3,79.5,clay,soybean,urea
+94,82,22,21.4,86.5,43.4,sandy,sorghum,mop
+42,15,61,27.9,72.1,54.6,saline,wheat,dap
+68,91,5,17.8,71.3,32.8,peaty,sugarcane,mop
+37,37,66,30.4,53.4,37.9,sandy,sugarcane,superphosphate
+24,93,87,26.3,72.8,52.7,loamy,sugarcane,urea
+16,28,8,17.6,15.5,29.9,peaty,barley,urea
+84,37,48,27.6,29.3,77.5,saline,millet,urea
+49,78,68,38.4,44.1,49.9,clay,millet,mop
+8,73,12,30.9,44.5,47.9,loamy,barley,urea
+69,91,14,35.7,52.1,84.2,saline,soybean,mop
+98,79,38,20.6,75.2,66.7,saline,maize,superphosphate
+31,96,52,20.7,51.7,85.7,saline,cotton,ammonium sulfate
+69,48,32,24.8,85.1,71.4,clay,sugarcane,mop
+27,52,98,17.5,12.6,56.0,clay,groundnut,urea
+99,77,88,32.0,69.1,81.8,saline,sorghum,complex fertilizer
+97,41,19,19.0,22.2,86.8,clay,sorghum,mop
+51,22,18,28.3,11.4,35.6,sandy,barley,dap
+60,53,18,26.7,85.9,68.0,loamy,maize,mop
+40,18,24,39.1,16.8,28.7,peaty,millet,dap
+3,89,12,20.5,37.2,20.8,sandy,sugarcane,urea
+73,70,56,31.7,74.0,81.5,saline,soybean,ammonium sulfate
+60,33,43,36.6,27.7,43.9,clay,sorghum,mop
+56,69,1,24.6,52.6,34.1,loamy,millet,mop
+71,0,78,31.4,38.9,54.7,clay,wheat,dap
+56,95,37,26.8,86.1,23.1,peaty,wheat,superphosphate
+97,36,33,27.6,87.3,57.7,clay,sugarcane,complex fertilizer
+54,15,71,28.0,56.5,70.4,peaty,wheat,dap
+30,43,56,27.8,79.3,47.6,sandy,cotton,ammonium sulfate
+55,45,32,19.5,85.5,62.1,saline,wheat,dap
+16,43,34,17.0,24.9,66.5,loamy,cotton,urea
+12,81,51,26.2,12.2,23.0,clay,maize,urea
+26,55,45,24.9,79.4,63.3,peaty,sugarcane,urea
+13,92,16,26.8,33.6,39.4,peaty,maize,urea
+27,78,34,33.8,78.0,80.7,saline,millet,urea
+32,26,12,19.4,66.3,73.3,loamy,sugarcane,dap
+29,2,49,38.1,58.6,57.8,saline,sorghum,urea
+65,34,33,18.6,45.3,89.6,saline,rice,dap
+58,3,80,36.1,36.1,31.9,saline,sorghum,dap
+31,99,18,29.6,86.6,84.0,saline,sorghum,mop
+91,34,10,21.7,38.5,51.1,loamy,barley,mop
+99,7,36,25.0,63.8,53.9,peaty,rice,dap
+24,98,28,36.8,81.9,47.3,peaty,soybean,urea
+44,86,49,20.4,56.1,79.2,clay,barley,mop
+63,18,65,30.5,11.4,71.9,loamy,sorghum,dap
+26,7,82,16.0,52.7,64.1,sandy,groundnut,urea
+6,37,45,38.5,29.4,80.5,loamy,sorghum,urea
+17,44,4,17.8,48.6,36.4,saline,wheat,urea
+9,68,82,34.9,32.5,63.6,sandy,wheat,urea
+100,82,49,32.9,40.9,82.5,peaty,groundnut,dap
+48,81,45,19.0,49.3,63.9,loamy,soybean,complex fertilizer
+54,58,8,33.6,63.5,48.2,saline,sorghum,mop
+35,97,81,31.2,27.0,46.6,clay,rice,mop
+77,50,87,25.3,32.0,70.4,saline,soybean,mop
+28,41,86,34.8,73.0,24.6,saline,rice,urea
+46,28,8,38.9,78.7,21.0,clay,sugarcane,dap
+25,23,28,27.3,55.0,45.2,clay,maize,urea
+3,74,100,31.0,74.1,82.9,sandy,barley,urea
+39,72,32,39.1,11.3,84.7,peaty,barley,mop
+79,35,97,37.5,37.3,39.1,sandy,maize,ammonium sulfate
+57,57,7,27.0,66.2,35.8,loamy,sorghum,mop
+40,3,53,15.4,26.2,26.8,clay,millet,dap
+30,19,80,26.4,26.4,35.6,loamy,rice,dap
+18,34,73,22.1,74.3,27.1,saline,barley,urea
+34,13,13,19.8,88.7,72.6,peaty,sugarcane,dap
+44,96,98,23.2,14.6,75.4,sandy,rice,mop
+8,91,70,31.9,88.3,39.6,saline,wheat,urea
+51,52,91,38.6,57.7,49.9,sandy,soybean,complex fertilizer
+70,69,16,16.5,32.4,66.6,peaty,sorghum,mop
+42,11,59,28.1,49.5,69.8,peaty,sorghum,dap
+96,38,27,22.5,79.3,38.9,saline,wheat,mop
+59,91,26,29.1,24.8,25.3,clay,sugarcane,mop
+27,60,44,20.3,13.5,53.5,saline,cotton,urea
+97,72,65,17.2,13.5,34.0,clay,groundnut,ammonium sulfate
+9,86,94,36.5,21.1,69.8,clay,soybean,urea
+21,45,21,38.2,73.1,51.5,saline,barley,urea
+10,27,75,15.5,65.0,52.9,loamy,sorghum,urea
+82,62,39,29.8,62.4,43.6,clay,wheat,complex fertilizer
+28,78,50,32.7,59.9,40.5,sandy,rice,urea
+56,18,85,22.3,54.4,31.7,loamy,millet,dap
+50,56,63,34.9,46.8,20.2,loamy,cotton,dap
+93,63,13,27.2,83.1,36.6,peaty,rice,mop
+5,0,13,34.2,41.4,39.0,clay,millet,urea
+3,71,59,37.6,35.8,30.4,saline,wheat,urea
+32,14,0,35.7,19.1,40.7,sandy,rice,dap
+62,75,22,24.0,18.2,64.8,sandy,soybean,mop
+82,59,86,31.7,19.8,39.2,peaty,millet,complex fertilizer
+6,53,88,39.9,15.8,87.8,sandy,cotton,urea
+13,87,63,15.4,32.1,41.6,peaty,wheat,urea
+36,88,1,25.7,25.4,25.5,clay,rice,mop
+100,86,86,39.7,53.6,44.5,sandy,maize,ammonium sulfate
+62,85,100,32.9,55.9,89.6,loamy,sorghum,urea
+20,70,5,38.8,57.1,27.4,sandy,sorghum,urea
+3,76,9,15.4,80.6,79.8,sandy,wheat,urea
+34,22,89,28.3,80.5,28.4,peaty,cotton,dap
+86,66,92,24.0,16.8,88.2,clay,sugarcane,ammonium sulfate
+35,2,0,30.3,24.9,31.2,loamy,groundnut,dap
+93,69,96,31.9,56.1,58.2,saline,sugarcane,ammonium sulfate
+41,8,69,38.3,64.1,88.5,loamy,groundnut,dap
+54,62,30,31.0,40.5,78.4,peaty,maize,mop
+78,41,37,33.7,54.1,30.8,clay,maize,complex fertilizer
+59,5,93,30.6,88.7,37.6,sandy,sorghum,dap
+56,22,2,33.1,49.4,47.2,sandy,cotton,dap
+93,31,65,20.2,77.0,89.8,saline,wheat,dap
+1,67,78,39.5,45.0,66.2,peaty,maize,urea
+34,14,50,20.5,19.6,38.9,sandy,rice,dap
+50,89,27,38.9,20.1,51.1,loamy,cotton,mop
+18,89,26,22.0,87.4,51.0,saline,groundnut,urea
+90,43,80,39.5,82.0,51.9,peaty,rice,superphosphate
+15,81,8,32.0,68.8,69.9,peaty,rice,urea
+83,91,58,25.3,11.7,88.1,peaty,cotton,mop
+56,56,73,25.3,74.2,63.8,sandy,maize,superphosphate
+76,42,67,17.3,38.2,24.1,clay,cotton,dap
+27,18,52,27.2,25.8,35.0,sandy,maize,urea
+86,40,18,38.3,53.7,63.6,saline,groundnut,mop
+17,66,38,23.8,40.8,49.4,clay,maize,urea
+45,92,10,39.9,85.5,53.6,saline,sugarcane,mop
+94,94,4,33.6,62.4,85.5,peaty,maize,mop
+55,93,81,39.8,71.2,61.9,saline,rice,dap
+26,21,61,34.5,13.3,27.8,clay,wheat,urea
+67,33,86,35.9,37.2,46.2,loamy,barley,mop
+23,93,83,36.2,16.2,82.2,saline,groundnut,urea
+40,89,49,36.5,44.9,81.2,peaty,cotton,ammonium sulfate
+69,98,35,38.0,87.1,49.9,clay,cotton,urea
+56,43,34,30.0,15.0,29.5,peaty,soybean,mop
+97,31,58,19.3,82.8,35.6,clay,barley,urea
+80,96,66,25.5,12.8,78.4,sandy,sorghum,ammonium sulfate
+26,30,61,33.3,66.7,28.1,clay,groundnut,urea
+74,42,5,26.1,22.1,20.6,saline,maize,mop
+1,78,75,25.1,67.3,51.9,clay,wheat,urea
+63,0,77,33.9,48.7,83.5,saline,sugarcane,dap
+45,85,69,32.8,36.5,62.6,peaty,millet,dap
+44,7,80,24.0,29.0,53.6,clay,soybean,dap
+93,78,86,17.5,49.2,77.2,sandy,maize,ammonium sulfate
+93,17,24,36.2,54.3,25.0,loamy,rice,dap
+96,17,77,15.2,36.0,75.9,clay,barley,dap
+0,100,24,17.8,26.9,25.0,sandy,cotton,urea
+6,39,97,38.8,38.7,83.4,sandy,barley,urea
+4,34,45,26.7,32.1,57.3,loamy,barley,urea
+95,42,16,24.3,53.0,63.7,clay,maize,mop
+80,98,59,33.8,10.3,70.4,saline,sugarcane,complex fertilizer
+8,17,81,21.0,13.9,27.3,saline,sugarcane,urea
+0,18,60,27.4,54.3,31.7,sandy,millet,urea
+27,57,76,22.1,81.3,50.2,sandy,groundnut,urea
+81,34,4,27.5,25.6,38.2,sandy,millet,mop
+52,35,91,19.2,37.2,54.1,saline,soybean,urea
+39,7,86,39.2,80.1,44.3,clay,cotton,dap
+81,10,48,19.3,36.3,65.6,sandy,soybean,dap
